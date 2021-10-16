@@ -1,0 +1,31 @@
+created: 20210904141936438
+modified: 20211003032034213
+title: Frames
+type: text/vnd.tiddlywiki
+
+When learning how to build [[pronouns|Pronouns]], you encountered many words such as [[nima]], [[tota]], [[sapa]], [[nai]], [[ano]], [[ase]], etc., which helped to specify or refer to the type, location, or even truth nature of an entity (an object, state, attribute, or event). In Asgardian, there is a subset of [[noun roots|Root]] called "frames", which function as metaphorical boxes or containers into which an entity can be placed. These frames - and compounds thereof - specify the position, distribution, or direction of an entity with respect to location, time, reality, and even possible worlds (e.g., "the world of things that should be"), and allow Asgardian to express many verb-like attributes, such as [[tense|https://en.wikipedia.org/wiki/Grammatical_tense]], [[aspect|https://en.wikipedia.org/wiki/Grammatical_aspect]], [[mood|https://en.wikipedia.org/wiki/Grammatical_mood]], [[modality|https://en.wikipedia.org/wiki/Modality_(natural_language)]], [[aktionsart|https://en.wikipedia.org/wiki/Lexical_aspect]], in a [[noun-based|Noun-Based Equational Grammar]] way.
+
+As a concrete example, consider the English phrase "house cat". This tells us about a type of cat, namely the kind that is //in a house//.
+
+<center>[img[housecat_example.png]]
+<br/>(Image credits: [[Angel|https://opengameart.org/content/rpg-house]], [[scofanogd|https://opengameart.org/content/pixel-cat]])</center>
+
+In the same way, the Asgardian phrase [[nota]] [[se]] ("past action") tells us about a kind of action ([[se]]) which is //in the past// ([[nota]]).
+
+<center>
+[img[past_action_example.png]]
+<br />
+(Image credits: [[AntumDeluge|https://opengameart.org/node/98592]], [[cinameng|https://opengameart.org/content/cardboard-box-0]], 
+[[bart|https://opengameart.org/content/man]])
+</center>
+
+Asgardian has a large (and expandable) set of words that can be used as frames. For ease of learning, these are broken into the following categories.
+
+* [[Time|Tenses]]
+* [[Aspect|Aspect]]
+* Space
+* Direction
+* Reality
+* [[Modality / possible worlds ("should"/"could")|Modal frames]]
+* [[Discourse|Discourse frames]]
+* [[Set membership|Set membership frames]]

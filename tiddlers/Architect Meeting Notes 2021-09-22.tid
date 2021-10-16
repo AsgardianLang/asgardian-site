@@ -1,0 +1,33 @@
+created: 20210923000820949
+modified: 20210923011651145
+tags: 
+title: Architect Meeting Notes 2021-09-22
+type: text/vnd.tiddlywiki
+
+Admin / Community
+
+* Lots of new engagement on Discord (nearing 50 total users)
+** Including non-Asgardians
+* Zac needs screenshots for Twitter
+* Zac needs writeup for our decision on Noodlecat images
+* Still need to make Reddit post
+* Server
+** Redo DNS record to point at static HTML exported from TW
+** Keep VPS with MediaWiki running in background
+* Contests and events / activitity
+** Art of Noodlecat
+** #Asgardian-creative channel
+*** Monthly themes or contests
+*** Focus on various world / culture events
+** Have people invent writing systems
+*** Vote on "best one"?
+*** Allow people to use a variety?
+*** Promote in released content? e.g. NoodleCat visiting store and signs are in their writing
+*** Adapt an existing writing system?
+*** Need pangram like "quick brown fox" sentence or example sentence
+** Tongue-twisters: [[taki]] [[teka]] [[na]] [[kute]] [[tu]] [[tuki]] :)
+
+Language
+
+* Parataxis and multiple equations
+* Number words (preliminary system)

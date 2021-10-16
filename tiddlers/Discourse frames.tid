@@ -1,0 +1,21 @@
+created: 20210915211934682
+modified: 20210915212330729
+title: Discourse frames
+type: text/vnd.tiddlywiki
+
+It is common that one will want to discuss "this person" or "what was just said". Asgardian provides a set of discourse frames for this purpose: namely, allowing the user to situate an entity with respect to the flow of time in the current conversation.
+
+|Asgardian|English|h
+|[[tisa]] X|the X about to be mentioned|
+|~|the following X|
+|[[osa]] X|the X just mentioned|
+|~|the aforementioned X|
+|[[ano]] X|one X|
+|~|some X|
+|~|a/an X|
+|~|unspecified member of class X|
+|[[ase]] X|the X|
+|~|the X we all know about|
+|~|(X is shared or commonly held information)|
+|[[sapa]] X|the X (which we're talking about now)|
+|~|(used to form 3rd-person pronouns|
