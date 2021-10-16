@@ -1,5 +1,5 @@
 created: 20211016000054038
-modified: 20211016014217788
+modified: 20211016021442461
 tags: 
 title: Architect Meeting Notes 2021-10-15
 type: text/vnd.tiddlywiki
@@ -22,4 +22,5 @@ Language
 ** JD proposal: Incorporate all the reasonable ones (with phonetic modification as needed)
 * CW to generate new roots and pass them off to JD for wiki inclusion
 * ZB set up Github repository
+* Tested Github push/pull with TiddlyWiki node.js server
 * Revisit Swadesh list and semantic domains
