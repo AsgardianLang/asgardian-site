@@ -1,0 +1,52 @@
+created: 20210909000446354
+modified: 20211003031344796
+tags: 
+title: Architect Meeting Notes 2021-09-08
+type: text/vnd.tiddlywiki
+
+New wiki
+
+* Move cards to MediaWiki?
+* OR run a node.js server.
+* Subdomains of asgardian.org for different languages?
+* Decided it's okay for English to be the primary language for now, then get more people and outsource the translation and tech stuff.
+* Team likes TiddlyWiki more than the current one.
+* Edit document server-side.
+* Mirror on GitHub to avoid conflicts in edits - Zac to set up.
+* Use of TiddlyWiki approved by all Architects.
+* Will eventually want to come back to MediaWiki, so ask Brice about switchover.
+** Make sure Brice knows he did a good job on the wiki, and we were a bit too ambitious in our initial goals.
+* Can do automated tweaks.
+
+Community engagement
+
+* Release more content!
+* Wiki screenshots / infographics
+* Tweets
+** Slice up larger documents
+** Shoot for 3-5 posts per week
+** Root highlights / word of the day
+** Brief meeting notes (multiple parts?)
+** What is the purpose?
+***Humor?
+***Communication?
+***Promote discovery of the language?
+***Permalinks to tiddlers.
+*JD to take screenshots of wiki for content.
+* Reddit communities
+** Post on r/conlangs
+
+Pronoun system
+
+* Old: [[nima]] / [[tota]] / [[sapa]]
+* New (shorter): [[i]] / [[su]] / [[ta]]
+* Specific word for "sentient entity" - broader than humans only?
+** Make a scientific term for "human" but it's not used in casual conversation.
+** [[kia]] includes all sentient entities
+* JD to write up
+* New usage
+** [[tota]] is used for nouns of direct address
+** [[sapa]] is for generic 3rd person referents
+** [[nima]] is used for the speaking entity / object
+*** [[nima]].X means I, the X who is speaking
+* Christian's notes/comments to be ready by Friday

@@ -1,0 +1,40 @@
+created: 20210911165821499
+modified: 20211003042349785
+title: Tenses
+type: text/vnd.tiddlywiki
+
+How can a language without verbs have tenses? [[Asgardian]] has noun roots that literally refer to the time in question, and then uses them to modify roots like [[se]] ("action"), [[piku]] ("status"), [[pa]] ("attribute"), [[teka]] ("location"), [[re]] ("event/state"), etc., to achieve the same effect.
+
+In an [[equational|Noun-Based Equational Grammar]] setting, a past action is expressed as literally that: `me past action = X` for "I did X". the same goes for present (`me present action = X` for "I do / am doing X") and future (`me future action = X` for "I will do X"). Alternatively, one can use the word [[nepi]] ("time") and explicitly state the time in a separate equation (`me action = X, time = Y`).
+
+Below are the three "traditional" tenses in Asgardian.
+
+|Asgardian|English|h
+|[[nota]]|past|
+|[[kane]]|present|
+|[[pare]]|future|
+
+Asgardian also has some useful "near" or "recent" time words, that can be used as tenses.
+
+|Asgardian|English|h
+|[[onase]]|recent past, just now|
+|[[tipa]]|near future, about to|
+
+Here are some examples with [[se]] ("action") and [[koro]] ("eating"), with various tenses in order from past to future.
+
+|Asgardian|English|h
+|[[I|i]] __[[nota]]__ [[se]] [[na]] [[koro]].|I __ate__.|
+|~|I __did__ eat.|
+|[[I|i]] __[[onase]]__ [[se]] [[na]] [[koro]].|I __just__ ate.|
+|[[I|i]] __[[kane]]__ [[se]] [[na]] [[koro]].|I eat|
+|~|I __do__ eat.|
+|~|I __am__ eat__ing__.|
+|[[I|i]] __[[tipa]]__ [[se]] [[na]] [[koro]].|I __am about to__ eat.|
+|~|I __am "fixing to"__ eat.|
+|[[I|i]] __[[pare]]__ [[se]] [[na]] [[koro]].|I __will__ eat.|
+
+Tenses in Asgardian are an example of [[frame|Frames]] words, which situate an event or entity into a spatio-temporal "box". Because [[frames|Frames]] are an open class, it is possible to add new tenses through coining or compounding.
+
+|Asgardian|English|h
+|[[I|i]] __[[pare]] [[onase]]__ [[se]] [[na]] [[koro]].|I will have just eaten.|
+|[[I|i]] __[[nota]] [[tipa]]__ [[se]] [[na]] [[koro]].|I was about to eat.|

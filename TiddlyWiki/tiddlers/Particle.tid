@@ -1,0 +1,84 @@
+created: 20210904035343174
+modified: 20211003041904509
+title: Particle
+type: text/vnd.tiddlywiki
+
+Particles occur between phrases, and specify the relationships between them. The core particles are outlined below, with examples, and organized by their general function.
+
+!1. Equality particles
+
+These are used to link two noun phrases in an equational sentence. The particle [[na]] is used for the primary equation, whereas [[ne]] is used for secondary or subordinate ones.
+
+|Asgardian|English|Name|h
+|A [[na]] B|A = B|equation|
+|... A [[ne]] B ...|... A being B ...|subordination|
+|~|... with A as B ...|~|
+
+!!1.1. Examples
+
+|Asgardian|English|h
+|[[I|i]] __[[na]]__ Asgardia [[kia]].|I am an Asgardian.|
+|[[I|i]] [[se]] [[na]] [[koro]], [[teka]] __[[ne]]__ [[kepo]]|I'm eating at home.|
+
+!2. Modification particles
+
+These are used to clarify the order of modification in complex noun phrases. They can be used to help "chunk" a long phrase into parts, making it easier to understand.
+
+|Asgardian|English|h
+|A [[sa]] B|A's B|
+|A [[tu]] B|A of B|
+
+!!2.1. Examples
+
+|Asgardian|English|h
+|[[Su|su]] [[kape]] __[[sa]]__ [[sonu]] [[na]] [[kua]]?|What is your book called?|
+|[[Su|su]] __[[sa]]__ [[kape]] [[sonu]] [[na]] [[kua]]?|What is your "book-name" (e.g., [[nom de plume|https://en.wikipedia.org/wiki/Pen_name]])?|
+
+Recall the "cat book" situation from the discussion on [[noun compounds|Noun compounds]]. It in situations like these that modification particles can help to disambiguate.
+
+|Asgardian|English|h
+|[[i]] [[sa]] [[taki]] [[kape]]|my cat-book|
+|~|my book about cats|
+|[[taki]] [[kape]] [[tu]] [[i]]|cat-book of me|
+|[[i]] [[taki]] [[sa]] [[kape]]|my-cat book|
+|~|book of my cat|
+|[[kape]] [[tu]] [[i]] [[taki]]|book of my cat|
+
+!3. Combination particles
+
+These particles are used to indicate conjunctions and disjunctions between noun phrases or even equations. They function almost identically to their English counterparts.
+
+|Asgardian|English|Name|h
+|A [[ka]] B|A and B|conjunction|
+|A [[si]] B|A or B (__but not both__)|exclusive disjunction|
+|A [[kasi]] B|A and/or B (__or both__)|inclusive disjunction|
+|A [[ke]] B|A but B|opposition|
+
+Note that, to have a conjunct phrase modify another noun phrase, the particle [[sa]] or [[tu]] is helpful.
+
+!!3.1 Examples
+
+|Asgardian|English|h
+|[[I|i]] [[ka]] [[su]]|me and you|
+|~|we, us|
+|[[I|i]] [[ka]] [[su]] [[taki]]|me and your cat|
+|~|(implies cat belongs to you)|
+|[[I|i]] [[ka]] [[su]] [[sa]] [[taki]]|(me and you)'s cat|
+|~|our cat|
+|[[taki]] [[tu]] [[I|i]] [[ka]] [[su]]|cat of (me and you)|
+
+
+!4. Structural particles
+
+These particles serve to inform the core structure of phrases and sentences. For theoretical consistency, any two roots that are not linked by a written or spoken particle are assumed to be linked by the "null particle", which causes the sequence ''A B'' to be interpreted as "B of A".
+
+|Asgardian|English|h
+|A (null) B|B of A|
+
+Additionally, a delimiter particle is used to separate equations. This particle need not have an explicit phonetic realization. In typical speech, the prosody or flow of a sentence will be sufficient for a listener to distinguish the end of one equation from the beginning of another. In writing, such a break is represented graphically by the comma, or any other non-stop punctuation mark if you're feeling creative.
+
+However, if you wish to explicitly separate two equations and ensure they are not mixed with one another, the particle ([[a]]) is provided for clarity.
+
+|Asgardian|English|h
+|A [[a]] B|A, B|
+|~|A; B|

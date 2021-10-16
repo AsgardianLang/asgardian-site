@@ -1,0 +1,49 @@
+created: 20210904042253554
+modified: 20211003033549583
+title: Noun-Based Equational Grammar
+type: text/vnd.tiddlywiki
+
+Noun-based equational grammar (abbreviated NBE) is a system of grammar with the following characteristics.
+
+# It expresses all sentences as a series of [[equations|https://en.wikipedia.org/wiki/Equation]], such as `A = B`, each of which links a pair of nouns or phrases together.
+# It relies heavily on [[noun compounding|https://en.wikipedia.org/wiki/Compound_(linguistics)]], in which a series of roots are combined to create a more specific meaning.
+# It has only two [[parts of speech|https://en.wikipedia.org/wiki/Part_of_speech]]: [[roots|Root]] and [[particles|Particle]].
+
+A useful feature of NBE languages is that they are highly expandable. As long as any lexical item or grammatical concept can be represented in the appropriate noun form, it can be incorporated into an NBE language without requiring core changes to the grammar.
+
+!! Equations (primary)
+
+In a typical NBE sentence, there is one primary equation, which represents the main action, situation, or event. In Asgardian, the primary equation is expressed in the form "A [[na]] B", meaning "A is B" or "A equals B". Unlike in English, the form of [[na]] does not change for different subjects (c.f. "I __am__", "you __are__", "he/she __is__", etc.) or times (c.f. "it __was__", "we __will be__", etc.).
+
+For example, to express something like "I come from X", Asgardian would form an equation like "me source/origin [[na]] X", where "source" functions grammatically as a noun.
+
+Since NBE languages do not technically have verbs (except for possibly the equation marker itself), a common paradigm for expressing verb-like meanings is to form equations involving a noun root that means "action" or "deed". For example, the sentence "I'm reading" can be expressed as "me action [[na]] reading", where "reading" functions grammatically as a noun referring to the act or event of reading. The general formula "A action [[na]] B" is used to express "A does / engages in activity B".
+
+!! Equations (subordinate)
+
+If needed, additional information can be provided with subordinate equations. These are syntactically the same as primary equations, but are marked with a different particle to indicate their secondary and optional nature. A subordinate equation can be removed from a sentence without affecting the grammaticality of rest of the sentence.
+
+In Asgardian, these are expressed as "A [[ne]] B", meaning "... A being B ..." or "... with A as B ...". Asgardian uses subordinate equations where terrestrial languages would use adverbs, prepositional phrases, or other [[adjuncts|https://en.wikipedia.org/wiki/Adjunct_(grammar)]].
+
+Complex propositions can be expressed with the help of subordinate equations, so long as the appropriate noun roots are supplied. For example, the sentence "I will take a walk in the park with my friends tomorrow" could be rendered with the following set of equations:
+
+|Equation|Type|Meaning|h
+|Me future action [[na]] walking|Primary|I will walk|
+|location [[ne]] park|Subordinate|in the park|
+|companion [[ne]] me friend group/plural|Subordinate|with my friends|
+|time [[ne]] tomorrow|Subordinate|tomorrow|
+
+!! Compounds
+
+In addition to equations, NBE languages rely heavily on noun compounding, in which a series of roots are combined to create a more specific meaning. For example, the English compound "dog food" combines two nouns, "dog" and "food", and specifies a more detailed concept than "food" alone.
+
+In the "walk in the park" example above, the compound "me future action" describes a type of action, namely one that happens in the future. It further specifies this future action by specifying that it is of, or has something to do with, the speaker.
+
+In Asgardian, noun compounds are interpreted as "left modifies right". That is, roots on the "left" (earlier) describe or modify those that follow them on the "right" (later). This is similar to how English handles noun compounds and adjective-noun pairings.
+
+!! Roots and particles
+
+Unlike typical terrestrial languages, NBE languages only have two parts of speech, illustrated here via a "brickwork" analogy:
+
+* [[Roots|Root]] provide the semantic content, or the "bricks" of the meaning. They act grammatically as nouns.
+* [[Particles|Particle]] specify the connections between roots, and serve as the "mortar" that binds them together. Grammatically, they exist somewhere between linking verbs and conjunctions.

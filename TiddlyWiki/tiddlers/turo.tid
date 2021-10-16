@@ -1,0 +1,31 @@
+created: 20210904172254957
+modified: 20210911190549392
+title: turo
+type: text/vnd.tiddlywiki
+
+* each
+* every
+
+!Usage notes
+
+[[Turo|turo]] is a [[frame|Frames]] word - by putting some root X in the [[turo]] box, one indicates that every member of class X is being referred to individually. This is how Asgardian expresses concepts like "for every", "each".
+
+Note that words in the [[turo]] box are not referenced as a single entity, but rather evaluated one at a time. This is roughly the difference between "each" and "all".
+
+|Asgardian|English|h
+|[[turo]] [[kia]]|each person|
+|[[turo]] [[tore]]|each thing|
+
+Note the contrasts:
+
+|Asgardian|English|h
+|[[Turo|turo]] [[kia]] [[se]] [[na]] [[kape]] [[tapu]].|Each person is reading a book.|
+|~|(implies each one has their own book)|
+|[[Supa|supa]] [[kia]] [[se]] [[na]] [[kape]] [[tapu]].|Everyone is reading a/the book.|
+|~|(implies everyone is reading the same book together)|
+
+|Asgardian|English|h
+|[[turo]] [[kia]] [[toka]]|each person's house|
+|~|(implies a separate house for each person)|
+|[[supa]] [[kia]] [[toka]]|everyone's house|
+|~|(implies everyone lives at the same house|
