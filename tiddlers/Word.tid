@@ -1,0 +1,10 @@
+created: 20210904035821947
+modified: 20210904035933413
+title: Word
+type: text/vnd.tiddlywiki
+
+Words are sequences of [[roots|Root]], and in some cases [[particles|Particle]], which act as discrete units and can stand alone.
+
+If a word starts and ends with roots, it functions as a noun.
+
+If a word starts and ends with particles, then it functions as a particle.

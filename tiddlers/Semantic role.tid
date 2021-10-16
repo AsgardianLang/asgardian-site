@@ -1,0 +1,39 @@
+created: 20210909221727584
+modified: 20210912060404777
+tags: 
+title: Semantic role
+type: text/vnd.tiddlywiki
+
+A semantic role, also known as a [[thematic relation|https://en.wikipedia.org/wiki/Thematic_relation]], indicates the role a noun phrase plays in a proposition. In [[Asgardian]], semantic roles are indicated with an expandable set of roots.
+
+Some of the more frequently used roles are provided below.
+
+| Asgardian | English |h
+|[[api]]|cause|
+|[[emoto]]|beneficiary, for whom/which something is done|
+|[[ira]]|experiencer of an emotional or sensory state|
+|[[kata]]|manner, fashion, style (in which something is done)|
+|[[kina]]|job, function, role in a group (short-term)|
+|[[kituke]]|natural force, natural cause|
+|[[mai]]|theme (takes part in action [typically moving] but does not change state)|
+|[[mane]]|direction (towards which something points)|
+|[[napu]]|reason, motivation, impetus (past situation which causes something)|
+|[[nepi]]|time|
+|[[paku]]|agent, doer|
+|[[pakune]]|replacement, substitute|
+|[[paru]]|waypoint, path along a journey|
+|[[pisa]]|recipient (of transfer)|
+|[[pisoka]]|job, career (what one does for money on a fairly permanent basis)|
+|[[pima]]|companion, one with whom one does something|
+|[[rima]]|source, origin|
+|[[sai]]|extent, degree, level|
+|[[samu]]|patient, one who is affected by an action|
+|[[simo]]|way, manner, method (by which something is accomplished)|
+|[[siu]]|destination, goal|
+|[[sui]]|haver-of|
+|[[tarune]]|exception, exclusion, one that is not counted|
+|[[teka]]|location, position|
+|[[tete]]|stimulus, topic, focus|
+|[[tinamo]]|referent, baseline, comparison|
+|[[tope]]|instrument, tool, item with which one does something|
+|[[toto]]|purpose, goal, intent (of an activity)|

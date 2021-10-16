@@ -1,0 +1,66 @@
+created: 20210905000812484
+modified: 20211003033842997
+tags: 
+title: Frequently asked questions
+type: text/vnd.tiddlywiki
+
+!Why invent a new language when most Asgardians already speak English?
+While English is the [[de-facto world language|https://en.wikipedia.org/wiki/World_language]], the burden of learning it falls disproportionately on non-native speakers, and the language itself is subject to an outsized influence from the cultures of the current terrestrial superpowers.
+
+With Asgardian, we aim to provide a way for Asgardians to express themselves, build a shared non-terrestrial culture, cultivate a unique identity, and communicate across cultural and linguistic boundaries in an interesting, easy-to-use, and linguistically/politcally-neutral medium. While Asgardian is not explicitly designed as an auxiliary language, some of its features would make it suitable for inter-language use, if desired by its speakers. 
+
+!Why are you using Latin characters?
+
+The [[ISO basic Latin alphabet|https://en.wikipedia.org/wiki/ISO_basic_Latin_alphabet]] is the [[most widely used writing system in the world|https://www.britannica.com/list/the-worlds-5-most-commonly-used-writing-systems]], with approximately 70% of Earth’s population using it regularly, and potentially an [[even higher percentage familiar with it|https://en.wikipedia.org/wiki/Spread_of_the_Latin_script]] for second-language or computer use, via [[keyboard layouts|https://en.wikipedia.org/wiki/Keyboard_layout]] and [[input method editors|https://en.wikipedia.org/wiki/Input_method]].
+
+It is also compatible with the largest number of devices, communication protocols, [[encodings|https://en.wikipedia.org/wiki/ISO/IEC_8859-1]], [[character sets|https://en.wikipedia.org/wiki/Basic_Latin_(Unicode_block)]], operating systems, and file formats.
+
+This means that, at the present time, Latin characters are the most practical way to communicate in and about Asgardian, although we are open to writing-system suggestions!
+
+!Why are there only 13 letters in the alphabet?
+In designing Asgardian, we sought to limit the core vocabulary to sounds and sound sequences that are easily pronounceable and distinguishable by the majority of the world’s population, and to eliminate sounds or contrasts that do not occur in many languages or could pose difficulty in learning.
+
+These sounds can be divided into the following consonants and vowels:
+
+*8 consonants
+** [[Stops|https://en.wikipedia.org/wiki/Plosive]]: ''p t k''
+** [[Nasals|https://en.wikipedia.org/wiki/Nasal_consonant]]: ''m n''
+** [[Fricatives|https://en.wikipedia.org/wiki/Fricative]]: ''s h'' (note: ''h'' can be pronounced as /h/, /x/, /f/, or /ɸ/)
+** [[Liquids|https://en.wikipedia.org/wiki/Liquid_consonant]]: ''r'' (note: this sound can be pronounced as an "r" or "l")
+* 5 vowels: ''a e i o u''
+
+There are also 10 allowable [[diphthongs|https://en.wikipedia.org/wiki/Diphthong]] (sequences of 2 vowels), although some like `eu` are quite rare in practice:
+
+| !''Vowel 1'' |>|>|>|>| !''Vowel 2'' |
+|~| !''a'' | !''e'' | !''i'' | !''o'' | !''u'' |
+| !''a'' |  |  | ''ai'' |  | ''au'' |
+| !''e'' |  |  |  | | ''eu'' |
+| !''i'' | ''ia'' |  |  | ''io'' | ''iu'' |
+| !''o'' |  |  | ''oi'' |  |  |
+| !''u'' | ''ua'' | ''ue'' | ''ui'' |  |  |
+
+Sequences of two identical vowels are not permitted, as they would introduce a vowel-length distinction (e.g., require speakers to distinguish "taa" vs "ta").
+
+The letters selected to represent these sounds are pronounced approximately as in the [[International Phonetic Alphabet|https://en.wikipedia.org/wiki/International_Phonetic_Alphabet]], thereby allowing the Asgardian spelling to also act as a broad phonemic transcription.
+
+!Won't fewer letters and no consonant clusters limit the number of possible words in the language?
+
+In the current version of Asgardian (v2.0), the sequences ''ai'', ''au'', ''eu'', ''ia'', ''io'', ''iu'', ''oi'', ''ua'', ''ue'', and ''ui'' can be pronounced as [[diphthongs|https://en.wikipedia.org/wiki/Diphthong]], which allows 8 consonants &times; 15 nuclei (5 vowels + 10 diphthongs) = __120 unique syllables__. Because initial syllables may begin with a vowel, we can compute a higher total with an additional "null" consonant for these: 9 consonants &times; 15 nuclei (5 vowels + 10 dipgthongs) = __135 unique initial syllables__.
+
+Combined, these facts allow the following possibilities for unique roots of 1 through 4 syllables:
+
+|Syllables|Initial &times; non-initial| Possibilities|h
+| !1 |  135 | 135|
+| !2 | 135 &times; 120 | 16,200|
+| !3 | 135 &times; 120^^2^^ | 1,944,000|
+| !4 | 135 &times; 120^^3^^ | 233,280,000|
+
+Asgardian words are formed by compounding roots, which means that the number of possible words is even greater.
+
+!Do you accept words from other languages?
+
+We are currently attempting to keep the core vocabulary as neutral as possible. If a word in another language can be reproduced using already-existing core roots, then that approach is preferable.
+
+However, if another language has an interesting, novel, or useful grammatical concept that is currently not part of Asgardian, we would be happy to consider a [[root submission request|https://forms.gle/jeiwuSi65qUQsVh29]]. Keep in mind that new roots should be as basic or fundamental as possible - we prefer them to have a wide range of possible uses in making productive compounds, rather than one-off expressions.
+
+As Asgardian becomes used by real, human speakers, we expect there will be a degree of borrowing and blending / [[code-switching|https://en.wikipedia.org/wiki/Code-switching]] in everyday speech. While usage of non-Asgardian words is not forbidden (e.g., we cannot realistically expect people to avoid using internationalized words like "internet" and "kilogram"), such words should have a corresponding Asgardian translation.
