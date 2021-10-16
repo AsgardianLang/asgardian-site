@@ -1,0 +1,17 @@
+created: 20210915213141606
+modified: 20210915214550119
+title: Modal frames
+type: text/vnd.tiddlywiki
+
+[[Modality|https://en.wikipedia.org/wiki/Modality_(natural_language)]] is a way of expressing possible worlds. This is the tool of "should", "could", and "must", among others.
+
+Note that, because many categories are collapsed into the overall tool of [[frames|Frames]] in Asgardian, some of these may be classified as "moods" or even "aspects" in other languages.
+
+|Asgardian|English|h
+|[[i]] [[sako]] [[se]] [[na]] [[X]]|I really/truly do X|
+|[[i]] [[nai]] [[se]] [[na]] [[X]]|I do not do X|
+|[[i]] [[kona]] [[se]] [[na]] [[X]]?|Do I do X?|
+|[[i]] [[pitana]] [[se]] [[na]] [[X]]|I must do X|
+|[[i]] [[tese]] [[se]] [[na]] [[X]]|I likely do X|
+|[[i]] [[utai]] [[se]] [[na]] [[X]]|I should do X|
+|[[i]] [[okare]] [[se]] [[na]] [[X]]|it is //as if// I do X|
