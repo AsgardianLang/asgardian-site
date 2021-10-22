@@ -1,5 +1,5 @@
 created: 20211016032543160
-modified: 20211019224204062
+modified: 20211022215250455
 tags: 
 title: New card test
 type: text/vnd.tiddlywiki
@@ -7,3 +7,7 @@ type: text/vnd.tiddlywiki
 This is a test of a new card for upload to GitHub.
 Testing that $:/StoryList doesn't get modified after editing the TiddlyWiki.
 Testing that the Github webhook for Discord works properly.
+
+!Test 2
+
+Testing modification of a card locally.
