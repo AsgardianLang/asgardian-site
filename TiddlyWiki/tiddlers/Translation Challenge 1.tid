@@ -1,5 +1,5 @@
 created: 20211022232204968
-modified: 20211026222131319
+modified: 20211027231021912
 tags: 
 title: Translation Challenge 1
 type: text/vnd.tiddlywiki
@@ -8,7 +8,7 @@ For this activity, translate the following simple story into English (or your na
 
 [[Otesa|otesa]] [[pau]] [[okiu]] [[nota]] [[se]] [[na]] [[itera]] [[tau]] [[petu]], [[ke]] [[komanu]] [[se]] [[na]] [[tau]] [[mupisi]]. [[Nepi|nepi]] [[ne]] [[komanu]] [[komanu]] [[sari]], [[ta]] [[epa]] [[na]] [[oha]] [[tau]]. [[Sapa|sapa]] [[nepi]], [[osa]] [[itera]] [[se]] [[na]] [[tapi]], [[paru]] [[ne]] [[sapa]] [[teka]]! [[Itera|itera]] [[se]] [[na]] [[okiu]] [[moia]], [[napu]] [[ne]] [[tisa]], [[okiu]] [[nota]] [[sonero]] [[se]] [[na]] [[moia]]. [[Itera|itera]] [[se]] [[na]] [[sapa]] [[oha]] [[kerima]], [[sai]] [[ne]] [[oha]] [[sutemo]], [[mure]] [[ne]] [[okiu]] [[minasi]].
 
-''Various orthographic styles:''
+!Various orthographic styles:
 
 otesaPauOkiu iteraTauPetu ke komanu tauMupisi | komanuKomanuSari se=oha samu=okiu | sapaNepi tapi osaItera paru=sapaTeka ! 
 
@@ -16,18 +16,32 @@ Otesa·pau·okiu itera·tau·petu ke komanu tau·mupisi.
 
 Otesa pau okiu · itera tau petu · ke · komanu · tau mupisi.
 
-''Testing with right-branching syntax''
+!Testing with right-branching syntax
 
+!!1. Dots separate phrases / bullets separate sentences
 [[Okiu|okiu]] [[pau]] [[otesa]] [[·]] [[samu]] [[na]] [[itera]] [[·]] [[nota]] [[petu]] [[tau]] [[ke]] [[mupisi]] [[tau]] [[•]] [[Komanu|komanu]] [[sari]] [[·]] [[okiu]] [[na]] [[samu]] [[petu]] [[tau]] [[·]] [[tope]] [[na]] [[oha]] [[•]] [[Sapa|sapa]] [[nepi]] [[·]] [[se]] [[osa]] [[itera]] [[na]] [[tapi]] [[·]] [[paru]] [[na]] [[sapa]] [[teka]]! [[Moia|moia]] [[·]] [[samu]] [[na]] [[okiu]] [[·]] [[napu]] [[na]] [[nota]] [[sonero]] [[moia]] [[okiu]] [[•]] [[Kerima|kerima]] [[oha]] [[·]] [[sai]] [[na]] [[sutemo]] [[oha]] [[·]] [[mure]] [[na]] [[minasi]] [[okiu]] [[•]] This is readable and it's super easy to tell where the boundaries are.
 
+!!2. Dots separate phrases / periods separate sentences
 [[Okiu|okiu]] [[pau]] [[otesa]] [[·]] [[samu]] [[na]] [[itera]] [[·]] [[nota]] [[petu]] [[tau]] [[ke]] [[mupisi]] [[tau]]. [[Komanu|komanu]] [[sari]] [[·]] [[okiu]] [[na]] [[samu]] [[petu]] [[tau]] [[·]] [[tope]] [[na]] [[oha]]. [[Sapa|sapa]] [[nepi]] [[·]] [[se]] [[osa]] [[itera]] [[na]] [[tapi]] [[·]] [[paru]] [[na]] [[sapa]] [[teka]]! [[Moia|moia]] [[·]] [[samu]] [[na]] [[okiu]] [[·]] [[napu]] [[na]] [[nota]] [[sonero]] [[moia]] [[okiu]]. [[Kerima|kerima]] [[oha]] [[·]] [[sai]] [[na]] [[sutemo]] [[oha]] [[·]] [[mure]] [[na]] [[minasi]] [[okiu]]. This is readable and it's super easy to tell where the boundaries are.
 
+!!3. Commas separate phrases
 [[Okiu|okiu]] [[pau]] [[otesa]], [[samu]] [[na]] [[itera]], [[nota]] [[petu]] [[tau]] [[ke]] [[mupisi]] [[tau]]. [[Komanu|komanu]] [[sari]], [[okiu]] [[na]] [[samu]] [[petu]] [[tau]], [[tope]] [[na]] [[oha]]. [[Sapa|sapa]] [[nepi]], [[se]] [[osa]] [[itera]] [[na]] [[tapi]], [[paru]] [[na]] [[sapa]] [[teka]]! [[Moia|moia]], [[samu]] [[na]] [[okiu]], [[napu]] [[na]] [[nota]] [[sonero]] [[moia]] [[okiu]]. [[Kerima|kerima]] [[oha]], [[sai]] [[na]] [[sutemo]] [[oha]], [[mure]] [[na]] [[minasi]] [[okiu]]. This is readable but slightly less easy to parse into constituent phrases.
 
+!!4. Dots separate words / spaces separate phrases
 [[Okiu|okiu]][[·]][[pau]][[·]][[otesa]] [[samu]][[·]][[na]][[·]][[itera]] [[nota]][[·]][[petu]][[·]][[tau]][[·]][[ke]][[·]][[mupisi]][[·]][[tau]]. [[Komanu|komanu]][[·]][[sari]] [[okiu]][[·]][[na]][[·]][[samu]][[·]][[petu]][[·]][[tau]] [[tope]][[·]][[na]][[·]][[oha]]. [[Sapa|sapa]][[·]][[nepi]] [[se]][[·]][[osa]][[·]][[itera]][[·]][[na]][[·]][[tapi]] [[paru]][[·]][[na]][[·]][[sapa]][[·]][[teka]]! [[Moia|moia]] [[samu]][[·]][[na]][[·]][[okiu]] [[napu]][[·]][[na]][[·]][[nota]][[·]][[sonero]][[·]][[moia]][[·]][[okiu]]. [[Kerima|kerima]][[·]][[oha]] [[sai]][[·]][[na]][[·]][[sutemo]][[·]][[oha]] [[mure]][[·]][[na]][[·]][[minasi]][[·]][[okiu]]. This is much less readable
-
-Okiu·pau·otesa &nbsp; samu·na·itera &nbsp; nota·petu·tau·ke·mupisi·tau. &nbsp; Komanu·sari &nbsp; okiu·na·samu·petu·tau &nbsp; tope·na·oha. &nbsp; Sapa·nepi &nbsp; se·osa·itera·na·tapi &nbsp; paru·na·sapa·teka! &nbsp; Moia &nbsp; samu·na·okiu &nbsp; napu·na·nota·sonero·moia·okiu. &nbsp; Kerima·oha &nbsp; sai·na·sutemo·oha &nbsp; mure·na·minasi·okiu.
 
 Okiu·pau·otesa samu·na·itera nota·petu·tau·ke·mupisi·tau. Komanu·sari okiu·na·samu·petu·tau tope·na·oha. Sapa·nepi se·osa·itera·na·tapi paru·na·sapa·teka! Moia samu·na·okiu napu·na·nota·sonero·moia·okiu. Kerima·oha sai·na·sutemo·oha mure·na·minasi·okiu.
 
+!!5. Dots separate words / long spaces separate phrases
+Okiu·pau·otesa &nbsp; samu·na·itera &nbsp; nota·petu·tau·ke·mupisi·tau. &nbsp; Komanu·sari &nbsp; okiu·na·samu·petu·tau &nbsp; tope·na·oha. &nbsp; Sapa·nepi &nbsp; se·osa·itera·na·tapi &nbsp; paru·na·sapa·teka! &nbsp; Moia &nbsp; samu·na·okiu &nbsp; napu·na·nota·sonero·moia·okiu. &nbsp; Kerima·oha &nbsp; sai·na·sutemo·oha &nbsp; mure·na·minasi·okiu.
+
+!!6. Nothing separates words / spaces separate phrases
+
 [[Okiu|okiu]][[pau]][[otesa]] [[samu]][[na]][[itera]] [[nota]][[petu]][[tau]][[ke]][[mupisi]][[tau]]. [[Komanu|komanu]][[sari]] [[okiu]][[na]][[samu]][[petu]][[tau]] [[tope]][[na]][[oha]]. [[Sapa|sapa]][[nepi]] [[se]][[osa]][[itera]][[na]][[tapi]] [[paru]][[na]][[sapa]][[teka]]! [[Moia|moia]] [[samu]][[na]][[okiu]] [[napu]][[na]][[nota]][[sonero]][[moia]][[okiu]]. [[Kerima|kerima]][[oha]] [[sai]][[na]][[sutemo]][[oha]] [[mure]][[na]][[minasi]][[okiu]]. This is not at all readable except maybe for experts.
+
+!!7. camelCase separates words / spaces separate phrases / = for na / + for ka
+
+OkiuPauOtesa samu=itera notaPetuTau+mupisiTau. KomanuSari okiu=samuPetuTau tope=oha. SapaNepi seOsaOtera=tapi paru=sapaTeka! Moia samu=okiu napu=notaSoneroMoiaOkiu. KerimaOha sai=sutemoOha mure=minasiOkiu.
+
+!!8. PascalCase separates words / spaces separate phrases
+OkiuPauOtesa SamuNaItera NotaPetuTauKaMupisiTau. KomanuSari OkiuNaSamuPetuTau TopeNaOha. SapaNepi SeOsaOteraNaTapi ParuNaSapaTeka! Moia SamuNaOkiu NapuNaNotaSoneroMoiaOkiu. KerimaOha SaiNaSutemoOha MureNaMinasiOkiu.
