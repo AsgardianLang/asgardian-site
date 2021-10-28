@@ -1,5 +1,5 @@
-created: 2021102721483200000
-modified: 2021102721483200000
+created: 2021102814234300000
+modified: 2021102814234300000
 tags: 
 title: Lexicon (En)
 type: text/vnd.tiddlywiki
@@ -10,22 +10,28 @@ Below is a table representing the current lexicon of Asgardian.
 |a|{separator particle}|
 |ainu|that (close to neither speaker nor listener)|
 |~|that (over there)|
+|akoina|pig|
+|~|swine|
 |akue|fire|
 |ano|an|
 |~|an unspecified member of a class|
 |~|one|
 |~|some|
+|aro|lion|
 |arote|encounter|
 |~|encountering|
 |~|meeting|
 |ase|shared referent|
 |~|the one|
 |~|the|
+|aura|wolf|
 |ehari|fun|
 |~|amusement|
 |~|entertainment|
 |eke|pedestal|
 |~|table|
+|ema|transportation|
+|~|vehicle|
 |epa|incoming action|
 |~|what one "has done" to them|
 |~|what happens to someone|
@@ -55,6 +61,7 @@ Below is a table representing the current lexicon of Asgardian.
 |~|satisfaction|
 |ime|-ness|
 |~|state of being|
+|iori|donkey|
 |irio|dwelling|
 |~|living (at a place)|
 |~|residence|
@@ -77,6 +84,8 @@ Below is a table representing the current lexicon of Asgardian.
 |kape|book|
 |~|collection of words and illustration|
 |~|text|
+|kasa|crashing sound|
+|~|smashing sound|
 |kasi|{inclusive disjunction particle}|
 |~|and/or|
 |kata|fashion|
@@ -88,6 +97,9 @@ Below is a table representing the current lexicon of Asgardian.
 |~|this now|
 |ke|{contrastive particle}|
 |~|but|
+|kekere|chicken|
+|~|rooster|
+|~|hen|
 |kemi|emotion|
 |~|feeling|
 |kepa|collection|
@@ -108,6 +120,7 @@ Below is a table representing the current lexicon of Asgardian.
 |kia|person|
 |~|sentient entity|
 |~|includes human beings|
+|kika|crunching sound|
 |kisi|language|
 |~|system of communication with speech, gesture, or writing|
 |kitate|excitement|
@@ -116,6 +129,8 @@ Below is a table representing the current lexicon of Asgardian.
 |~|station|
 |koke|goat|
 |~|//Capra// (genus)|
+|koko|crow (bird)|
+|~|corvid|
 |komanu|the next one|
 |~|what comes after this one|
 |komose|newness|
@@ -134,6 +149,7 @@ Below is a table representing the current lexicon of Asgardian.
 |~|year|
 |kua|what?|
 |~|which?|
+|kuakue|duck|
 |kuho|concern|
 |~|worry|
 |kuke|phrase|
@@ -173,6 +189,10 @@ Below is a table representing the current lexicon of Asgardian.
 |motomoto|and others|
 |~|et cetera|
 |~|miscellaneous|
+|muma|cattle|
+|~|cow|
+|~|bovine|
+|~|bull|
 |mupisi|quitting|
 |~|stopping (before completion)|
 |muraku|sex (biological)|
@@ -209,6 +229,8 @@ Below is a table representing the current lexicon of Asgardian.
 |nekumo|instance|
 |~|occurrence|
 |~|repetition|
+|nena|horse|
+|~|equine|
 |nepi|point in time|
 |~|time|
 |~|when something happens|
@@ -237,6 +259,7 @@ Below is a table representing the current lexicon of Asgardian.
 |opia|tortoise|
 |~|turtle|
 |~|terrapin|
+|oro|wheel|
 |osa|the aforementioned|
 |~|that which was just said|
 |otesa|generosity|
@@ -250,6 +273,7 @@ Below is a table representing the current lexicon of Asgardian.
 |~|doer|
 |~|one responsible for an action or state|
 |pamai|night (opposite of day)|
+|papara|sheep|
 |pare|future|
 |~|what is to come|
 |pari|the act of writing|
@@ -257,11 +281,14 @@ Below is a table representing the current lexicon of Asgardian.
 |paru|point along a journey|
 |~|point along which, or through which, one travels|
 |~|waypoint|
+|paruma|engine|
+|~|combustion engine|
 |parune|entry (in a list or collection)|
 |~|list item|
 |pasi|causing to be seen|
 |~|displaying|
 |~|showing|
+|pata|washing|
 |pau|great amount of something|
 |~|large amount of something|
 |~|lot(s) of something|
@@ -282,6 +309,10 @@ Below is a table representing the current lexicon of Asgardian.
 |pini|entitlement|
 |~|right|
 |~|what one deserves|
+|pipiua|bird|
+|piri|electricity|
+|pisi|fly (insect)|
+|~|gnat|
 |pisoka|job|
 |~|position|
 |~|what one does in exchange for money|
@@ -289,8 +320,10 @@ Below is a table representing the current lexicon of Asgardian.
 |~|need|
 |poha|illness|
 |~|sickness|
+|poiki|spring|
 |poka|item of furniture|
 |~|furniture|
+|popoi|bouncing|
 |poreki|adjacent area to something|
 |~|the side of something|
 |~|the area next to something|
@@ -300,8 +333,12 @@ Below is a table representing the current lexicon of Asgardian.
 |~|sleeping|
 |puni|desire|
 |~|want|
+|puru|elephant|
 |ramu|participant|
 |~|partaker|
+|rarara|singing|
+|~|"lalala" sound (as to music)|
+|rarau|barking (of a dog)|
 |re|situation|
 |~|event|
 |~|action|
@@ -312,6 +349,7 @@ Below is a table representing the current lexicon of Asgardian.
 |rima|origin|
 |~|source|
 |~|where something is from or comes from|
+|rina|ringing (as of a phone)|
 |rotuki|a walk|
 |~|walking|
 |ruko|anger|
@@ -442,6 +480,7 @@ Below is a table representing the current lexicon of Asgardian.
 |~|happiness|
 |tisa|that which is about to be said|
 |~|the following|
+|tisi|bee (animal)|
 |toka|building (for living or working in)|
 |~|structure|
 |toko|being seated|
@@ -477,6 +516,8 @@ Below is a table representing the current lexicon of Asgardian.
 |tusapo|collegiality|
 |~|fair treatment|
 |~|respect|
+|uku|pigeon|
+|~|dove|
 |ura|Above|
 |~|Over|
 |~|Top|
