@@ -91,6 +91,12 @@ for (i in 1:nrow(result)) {
     unlist %>%
     stri_trim %>%
     sprintf("%s|", .) -> temp.eng
+  
+  temp.asg %<>% rep(length(temp.eng))
+  if (length(temp.asg) > 1) {
+    temp.asg[-1] <- "|~|"
+  }
+  
   lines %<>% c(paste0(temp.asg, temp.eng))
 }
 
