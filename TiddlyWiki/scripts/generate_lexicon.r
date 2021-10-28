@@ -3,6 +3,8 @@
 library(magrittr)
 library(stringi)
 
+options(stringsAsFactors = F)
+
 ### Get list of all Asgardian word tiddlers ####################################
 
 # Define tiddler path.
@@ -64,3 +66,34 @@ Sys.time() %>%
 
 # Save results
 write.csv(result, out.file, row.names=F)
+
+
+### Make a lexicon card for English ############################################
+
+t <- Sys.time()
+lines <- c(
+  format.Date(t, "created: %Y%m%d%H%M%S00000"),
+  format.Date(t, "modified: %Y%m%d%H%M%S00000"),
+  "tags: ",
+  "title: Lexicon (En)",
+  "type: text/vnd.tiddlywiki",
+  "",
+  "Below is a table representing the current lexicon of Asgardian.",
+  "",
+  "| Asgardian | English |h"
+)
+
+for (i in 1:nrow(result)) {
+  result$Asgardian[i] %>%
+    sprintf("|%s|", .) -> temp.asg
+  result$English[i] %>% 
+    strsplit("|", fixed=T) %>%
+    unlist %>%
+    stri_trim %>%
+    sprintf("%s|", .) -> temp.eng
+  lines %<>% c(paste0(temp.asg, temp.eng))
+}
+
+lines %>%
+  writeLines(paste0(tiddler.path, "Lexicon (En).tid"))
+  
