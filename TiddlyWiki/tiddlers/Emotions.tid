@@ -1,37 +1,37 @@
 created: 20210905222226736
-modified: 20210914051106913
+modified: 20211118012708781
 title: Emotions
 type: text/vnd.tiddlywiki
 
 In [[Asgardian]], emotions and mental states can be expressed with the root [[kemi]], which means "feeling" or "emotion".
 
-| !Asgardian | [[i]] | [[kemi]] | [[na]] | X |
-| !English | I / me | feeling | = | X |
-|~|>|>|>| I feel X |
+| !Asgardian | [[kemi]] | | [[i]] | [[na]] | X |
+| !English | emotion | //of// | me | = | X |
+|~|>|>|>|>| I feel X |
 
 The topic, subject, or referent of the emotion (i.e., what one feels X way //about//) can be expressed with the root [[tete]]. One way to do this is by adding a subordinate equation.
 
-| !Asgardian | [[i]] | [[kemi]] | [[na]] | X | , | [[tete]] | [[ne]] | Y |
-| !English | I / me | feeling | = | X || topic | being | Y |
-|~|>|>|>| I feel X ||>|>| about Y |
+| !Asgardian | [[kemi]] | | [[i]] | [[na]] | X | , | [[tete]] | [[ne]] | Y |
+| !English | feeling | //of// | me | = | X || topic | being | Y |
+|~|>|>|>|>| I feel X ||>|>| about Y |
 
 A more concise way is to combine the two into a single equation, and "solve" for the topic of one's emotion.
 
-| !Asgardian | [[i]] | X | [[tete]] | [[na]] | Y |
-| !English | I / me | X | topic | = | Y |
-|~|>|>| The topic of my X (feeling)| = | Y |
-|~|>|>| What I feel X about | = | Y |
+| !Asgardian | [[tete]] | | X | | [[i]] | [[na]] | Y |
+| !English | topic | //of// | X | //of// | me | = | Y |
+|~|>|>|>|>| The topic of my X (feeling)| = | Y |
+|~|>|>|>|>| What I feel X about | = | Y |
 
 Here are several example sentences that include useful emotion words. Be sure to explore roots that are new to you.
 
 |Asgardian|English|h
-|[[I|i]] [[tira]] [[tete]] [[na]] [[su]] [[arote]].|I'm happy to meet you.|
+|[[Tete|tete]] [[tira]] [[i]] [[na]] [[arote]] [[su]].|I'm happy to meet you.|
 |~|Nice to meet you.|
-|[[Ta|ta]] [[kemi]] [[na]] [[hita]].|He/she doesn't like it.|
-|[[Su|su]] [[kemi]] [[na]] [[imate]], [[kona]]?|Are you comfortable?|
+|[[Kemi|kemi]] [[ta]] [[na]] [[hita]].|He/she doesn't like it.|
+|[[Kemi|kemi]] [[su]] [[na]] [[imate]], [[kona]]?|Are you comfortable?|
 |~|Are you okay?|
-|[[Taki|taki]] [[kemi]] [[na]] [[oko]] [[muta]], [[tete]] [[ne]] [[i]] [[turi]].|The cat is too curious about my food.|
-|[[I|i]] [[kuho]] [[tekeri]] [[tete]] [[na]] [[komanu]] [[timike]].|I'm kinda worried about the next exam.|
+|[[Kemi|kemi]] [[taki]] [[na]] [[muta]] [[oko]], [[tete]] [[ne]] [[turi]] [[i]].|The cat is too curious about my food.|
+|[[Kemi|kemi]] [[i]] [[na]] [[tekeri]] [[kuho]], [[tete]] [[ne]] [[komanu]] [[timike]].|I'm kinda worried about the next exam.|
 
 
 !!Intensity
@@ -39,26 +39,26 @@ Here are several example sentences that include useful emotion words. Be sure to
 In Asgardian, emotions are handled as "abstract substances", of which one may have a lot, a little, too much of, or various amounts of. The typical amount words can be used with emotions to indicate their intensity.
 
 |Asgardian|English|h
-|[[tira]] [[pau]]|much happiness, very happy|
-|[[tira]] [[tekeri]]|moderate happiness, fairly happy|
-|[[tira]] [[tetu]]|small amount of happiness, somewhat happy|
-|[[tira]] [[tasune]]|at least some happiness (not none)|
-|[[tira]] [[mu]]|no happiness, completely unhappy|
+|[[pau]] [[tira]] |much happiness, very happy|
+|[[tekeri]] [[tira]] |moderate happiness, fairly happy|
+|[[tetu]] [[tira]] |small amount of happiness, somewhat happy|
+|[[tasune]] [[tira]] |at least some happiness (not none)|
+|[[mu]] [[tira]] |no happiness, completely unhappy|
 
 Comparatives are also possible.
 
 |Asgardian|English|h
-|[[tira]] [[tosora]]|the most happiness, the happiest|
-|[[tira]] [[pepa]]|a greater amount of happiness, happier|
-|[[tira]] [[sokara]]|an equal amount of happiness, as happy as|
-|[[tira]] [[ukute]]|a lesser amount of happiness, less happy|
-|[[tira]] [[pina]]|the lowest amount of happiness, the least happy|
+|[[tosora]] [[tira]] |the most happiness, the happiest|
+|[[pepa]] [[tira]] |a greater amount of happiness, happier|
+|[[sokara]] [[tira]] |an equal amount of happiness, as happy as|
+|[[ukute]] [[tira]] |a lesser amount of happiness, less happy|
+|[[pina]] [[tira]] |the lowest amount of happiness, the least happy|
 
 Amounts can also be described subjectively, with reference to some pre-specified "good enough" amount.
 
 |Asgardian|English|h
-|[[tira]] [[muta]]|excessive happiness, too happy (in a bad way)|
-|[[tira]] [[sapara]]|a surplus of happiness, more than happy enough (in a good way)|
-|[[tira]] [[tune]]|sufficient amount of happiness, happy enough, just right (satisfactory)|
-|[[tira]] [[nakoro]]|not too much happiness, under the limit (in a good way)|
-|[[tira]] [[tasoki]]|insufficient happiness, not happy enough (in a bad way)|
+|[[muta]] [[tira]] |excessive happiness, too happy (in a bad way)|
+|[[sapara]] [[tira]] |a surplus of happiness, more than happy enough (in a good way)|
+|[[tune]] [[tira]] |sufficient amount of happiness, happy enough, just right (satisfactory)|
+|[[nakoro]] [[tira]] |not too much happiness, under the limit (in a good way)|
+|[[tasoki]] [[tira]] |insufficient happiness, not happy enough (in a bad way)|

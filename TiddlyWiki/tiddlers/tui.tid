@@ -1,5 +1,5 @@
 created: 20210905221827612
-modified: 20210905222025333
+modified: 20211118020005284
 tags: 
 title: tui
 type: text/vnd.tiddlywiki
@@ -9,7 +9,7 @@ type: text/vnd.tiddlywiki
 
 ''Usage notes''
 
-[[Tui|tui]] is used to describe the "box" of things of class X that preceded the current thing of the same class.
+[[Tui|tui]] is used to describe a previous instance of a given class of things (i.e., the one before the current one).
 
 |Asgardian|English|h
 |[[tui]] [[sari]]|yesterday|

@@ -1,5 +1,5 @@
 created: 20210911155457777
-modified: 20210911160720197
+modified: 20211118014628313
 tags: 
 title: kisi
 type: text/vnd.tiddlywiki
@@ -9,14 +9,14 @@ type: text/vnd.tiddlywiki
 
 ''Usage notes''
 
-In [[Asgardian]], language names are represented with the native name of the language, or its most closely affiliated geographical/political unit, plus [[kisi]]. Since these names are proper nouns, they need not conform to the Asgardian rules for core roots, but should be spelled with the [[ISO basic Latin alphabet|https://en.wikipedia.org/wiki/ISO_basic_Latin_alphabet]] as closely as possible to their native form or canonical transcription. For languages that are highly associated with their country of origin, either the country name or language name could be used.
+In [[Asgardian]], language names are represented by [[kisi]] ("language") plus the native name of the language, or its most closely affiliated geographical/political unit. Since these names are proper nouns, they need not conform to the Asgardian rules for core roots, but should be spelled with the [[ISO basic Latin alphabet|https://en.wikipedia.org/wiki/ISO_basic_Latin_alphabet]] as closely as possible to their native form or canonical transcription. For languages that are highly associated with their country of origin, either the country name or language name could be used.
 
 |Asgardian|English|h
-|Asgardia [[kisi]]|Asgardian|
-|English^^[1]^^ [[kisi]]|English|
-|Nihon [[kisi]]|Japanese|
-|Deutsch^^[2]^^ [[kisi]]|German|
+|[[kisi]] Asgardia |Asgardian|
+|[[kisi]] English^^[1]^^ |English|
+|[[kisi]] Nihon |Japanese|
+|[[kisi]] Deutsch^^[2]^^ |German|
 
 ^^[1]^^Because English is spoken in many other countries besides England, the name of the language itself, rather than its country of origin, is more commonly used.
 
-^^[2]^^Rather than &laquo;Deutschland [[kisi]]&raquo;, the expression &laquo;Deutsch [[kisi]]&raquo; is preferred since German is also spoken as a native language in Austria and Switzerland.
+^^[2]^^Rather than &laquo;[[kisi]] Deutschland&raquo;, the expression &laquo;[[kisi]] Deutsch&raquo; is preferred since German is also spoken as a native language in Austria and Switzerland.

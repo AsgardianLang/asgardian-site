@@ -1,11 +1,9 @@
 created: 20210911165821499
-modified: 20211003042349785
+modified: 20211118014227807
 title: Tenses
 type: text/vnd.tiddlywiki
 
-How can a language without verbs have tenses? [[Asgardian]] has noun roots that literally refer to the time in question, and then uses them to modify roots like [[se]] ("action"), [[piku]] ("status"), [[pa]] ("attribute"), [[teka]] ("location"), [[re]] ("event/state"), etc., to achieve the same effect.
-
-In an [[equational|Noun-Based Equational Grammar]] setting, a past action is expressed as literally that: `me past action = X` for "I did X". the same goes for present (`me present action = X` for "I do / am doing X") and future (`me future action = X` for "I will do X"). Alternatively, one can use the word [[nepi]] ("time") and explicitly state the time in a separate equation (`me action = X, time = Y`).
+How can a language without verbs have tenses? [[Asgardian]] has noun roots that literally refer to the time in question, and can use them in equations with [[nepi]] ("time") to explicitly indicate the time in question if needed: one can use the word [[nepi]] ("time") and explicitly state the time in a separate equation (`action of me = X, time = Y`). If the time is already established through conversation or context, however, specifying it is not necessary.
 
 Below are the three "traditional" tenses in Asgardian.
 
@@ -23,18 +21,19 @@ Asgardian also has some useful "near" or "recent" time words, that can be used a
 Here are some examples with [[se]] ("action") and [[koro]] ("eating"), with various tenses in order from past to future.
 
 |Asgardian|English|h
-|[[I|i]] __[[nota]]__ [[se]] [[na]] [[koro]].|I __ate__.|
-|~|I __did__ eat.|
-|[[I|i]] __[[onase]]__ [[se]] [[na]] [[koro]].|I __just__ ate.|
-|[[I|i]] __[[kane]]__ [[se]] [[na]] [[koro]].|I eat|
-|~|I __do__ eat.|
-|~|I __am__ eat__ing__.|
-|[[I|i]] __[[tipa]]__ [[se]] [[na]] [[koro]].|I __am about to__ eat.|
-|~|I __am "fixing to"__ eat.|
-|[[I|i]] __[[pare]]__ [[se]] [[na]] [[koro]].|I __will__ eat.|
+|[[Se|se]] [[i]] [[na]] [[koro]], [[nepi]] [[ne]] __[[nota]]__.|I __ate__.|
+|~|I __did eat__.|
+|[[Se|se]] [[i]] [[na]] [[koro]], [[nepi]] [[ne]] __[[onase]]__.|I __just ate__.|
+|[[Se|se]] [[i]] [[na]] [[koro]], [[nepi]] [[ne]] __[[kane]]__.|I __eat__.|
+|~|I __do eat__.|
+|~|I __am eating__.|
+|[[Se|se]] [[i]] [[na]] [[koro]], [[nepi]] [[ne]] __[[tipa]]__.|I __am about to eat__.|
+|~|I __am "fixing to" eat__.|
+|[[Se|se]] [[i]] [[na]] [[pare]], [[nepi]] [[ne]] __[[kane]]__.|I __will eat__.|
 
-Tenses in Asgardian are an example of [[frame|Frames]] words, which situate an event or entity into a spatio-temporal "box". Because [[frames|Frames]] are an open class, it is possible to add new tenses through coining or compounding.
+Because tenses in Asgardian are just expressed with nouns, it's possible to create new tenses through coining or compounding. For example, something that "was about to happen" could be said to have occurred in "the near future //of// the past". Or something that "will have just happened" can be said to occur in "the near past //of// the future".
+
 
 |Asgardian|English|h
-|[[I|i]] __[[pare]] [[onase]]__ [[se]] [[na]] [[koro]].|I will have just eaten.|
-|[[I|i]] __[[nota]] [[tipa]]__ [[se]] [[na]] [[koro]].|I was about to eat.|
+|[[Se|se]] [[i]] [[na]] [[pare]], [[nepi]] [[ne]] __[[onase]] [[kane]]__.|I will have just eaten.|
+|[[Se|se]] [[i]] [[na]] [[pare]], [[nepi]] [[ne]] __[[tipa]] [[nota]]__.|I was about to eat.|

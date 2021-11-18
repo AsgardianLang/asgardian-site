@@ -1,5 +1,5 @@
 created: 20210905012156846
-modified: 20211003035426921
+modified: 20211118002415349
 title: Overview
 type: text/vnd.tiddlywiki
 
@@ -12,38 +12,37 @@ Asgardian takes such “equational” statements, where meaning is conveyed by l
 In early lessons for most terrestrial languages, learners are exposed to simple sentences like “My name __is__ X”, “What __is__ this?”, and so on. These sentences are termed "equational", as two entities are being liked by a word such as "is". 
 
 By using an expandable and flexible inventory of roots, and a productive compounding system, Asgardian is able to cast all expressions into such an equational form, using the particle [[na]] as a linking word. 
-Consider the following simple of an equation using [[na]], which is shown in various stages of translation from Asgardian to English (note that most translations will not be this detailed, but this is provided to illustrate the fundamentals of the grammar).
+Consider the following simple of an equation using [[na]], which is shown in various stages of translation from Asgardian to English. Note that most translations will not be this detailed, but this is provided to illustrate the fundamentals of the grammar. Also note that the italicized “of” is added to clarify the English translation, but is not necessary in Asgardian.
 
-| !Asgardian |>|>|>| [[I|i]] [[sonu]] [[na]] __&emsp;__. |
-|~| [[i]] | [[sonu]] | [[na]] | __&emsp;__|
-| !English | me | name | = | __&emsp;__|
-|~|>| my name | is | __&emsp;__|
-|~|>|>|>| My name is __&emsp;__. |
+| !Asgardian |>|>|>|>| [[Sonu|sonu]]  [[i]] [[na]] __&emsp;__. |
+|~| [[sonu]] | | [[i]] | [[na]] | __&emsp;__|
+| !English | name | //of// | me | = | __&emsp;__|
+|~|>|>| my name | is | __&emsp;__|
+|~|>|>|>|>| My name is __&emsp;__. |
 
-Replacing [[sonu]] (“name”) with [[rima]] (“source” or “origin”) yields &laquo;[[I|i]] [[rima]] [[na]] X&raquo;, for “my origin = X”, or more concisely, “I am from X”.
+Replacing [[sonu]] (“name”) with [[rima]] (“source” or “origin”) yields &laquo;[[Rima|rima]] [[i]] [[na]] X&raquo;, for “origin //of// me = X”, or more concisely, “I am from X”.
 
-| !Asgardian |>| [[i]] | [[rima]] | [[na]] | X |
-| !English |>| I / me | origin | = | X |
-|~|>|>| where I am from | is | X |
-|~|>|>|>|>| I come from X. |
+| !Asgardian |>| [[rima]] || [[i]] | [[na]] | X |
+| !English |>| origin | //of//| I / me | = | X |
+|~|>|>|>| where I am from | is | X |
+|~|>|>|>|>|>| I come from X. |
 
 Trading [[rima]] with [[soto]] (“age”) gives us [[I|i]] [[soto]] [[na]] X, for “my age = X”, or “I am X old”.
 
-| !Asgardian |>| [[i]] | [[soto]] | [[na]] | X |
-| !English |>| I / me | age| = | X |
-|~|>|>| my age | is | X |
-|~|>|>|>|>| I am X old. |
+| !Asgardian |>| [[soto]] || [[i]] | [[na]] | X |
+| !English |>| age | //of//| I / me | = | X |
+|~|>|>|>| my age | is | X |
+|~|>|>|>|>|>| I am X old. |
 
 !!What about verbs?
 
 Most verb-like expressions can be reproduced with the root [[se]] ("action" / "deed") and an equivalent noun that refers to the action or event. The following pattern is frequently used to express such concepts.
 
-| !Asgardian |>|>|>|>| [[Nima|nima]] [[se]] [[na]] X. |
-|~|>| [[I|I]] | [[se]] | [[na]] | X |
-|!English|>| I / me | action | is | X |
-|~|>|>| what I am doing | is | X |
-|~|>|>|>|>| I'm doing X.^^[C]^^ |
-
+| !Asgardian |>|>|>|>|>| [[Se|se]] [[i]] [[na]] X. |
+|~|>| [[Se|se]] | | [[i]] | [[na]] | X |
+|!English|>| action | //of// | me | = | X |
+|~|>|>|>| what I am doing | is | X |
+|~|>|>|>|>|>| I'm doing / engaging in activity X. |
 
 !!Multiple equations
 
@@ -51,9 +50,9 @@ Even complex sentences can be expressed in this manner; for example, a sentence 
 
 In this example, the primary ([[na]]) equation refers to the main action of studying. The subordinate ([[ne]]) equations, on the other hand, give additional info about the action, such as the "where", "when", and "why".
 
-| !Asgardian | [[I|i]] | [[se]] | [[na]] | [[miru]] | Primary |
-| !English | I / me | action | = | studying |~|
-|~|>|>|>| I'm studying |~|
+| !Asgardian | [[se]] | | [[i]] | [[na]] | [[miru]] | Primary |
+| !English | action | //of// | me | = | studying |~|
+|~|>|>|>|>| I'm studying |~|
 
 | !Asgardian | [[teka]] | [[ne]] | [[kepo]] | Subordinate |
 | !English | location | being | home |~|
@@ -63,9 +62,9 @@ In this example, the primary ([[na]]) equation refers to the main action of stud
 | !English | time | being | this | night |~|
 |~|>|>|>| tonight |~|
 
-| !Asgardian | [[toto]] | [[ne]] | [[komanu]] | [[sari]] | [[timike]] | Subordinate|
-| !English | purpose | being | following | day | exam |~|
-|~|>|>|>|>| for tomorrow's exam |~|
+| !Asgardian | [[toto]] | [[ne]] | [[timike]] | | [[komanu]] | [[sari]] | Subordinate|
+| !English | purpose | being | exam | //of// | following | day |~|
+|~|>|>|>|>|>| for tomorrow's exam |~|
 
 Rather than attempt for “naturalness”, which in our experience often translates to various dialects of Standard Average European, Asgardian hopes to provide neutrality: an even playing field for all comers, where none are disadvantaged by accidents of birth or upbringing.
 

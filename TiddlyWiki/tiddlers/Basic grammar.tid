@@ -1,24 +1,41 @@
 created: 20210904045503775
-modified: 20210914045149879
+modified: 20211118004031276
 title: Basic grammar
 type: text/vnd.tiddlywiki
 
+!!Equations
 The most important rule of Asgardian is that sentences are formed as sets of equations. The particle [[na]] is used for this purpose. It links the two phrases on either side of it, and sets them equal to one another. Unlike English "be", [[na]] does not change form (e.g., "am" / "are" / "is", etc.).
 
 |Asgardian|English|h
 |A [[na]] B.|A equals B.|
 |~|A is B.|
 
-When a series of noun [[roots|Root]] occurs in sequence, with no intervening particles, then the roots that come earlier will modify those that come later. This is much like in English, where a "dog toy" is a type of toy, rather than a type of dog. Similarly, in the Asgardian phrase [[taki]] [[turi]] ("cat food"), the root [[taki]] ("cat") modifies [[turi]] ("food") to tell the listener what kind of food it is - namely food that is of, for, or in some way associated with a cat. The Asgardian name of language's mascot, Noodle Cat, is rendered as [[Kuposu|kuposu]] [[Taki|taki]] - this phrase indicates a kind of cat that related to noodles in some fashion.
+!!Compounds
+When a series of noun [[roots|Root]] occurs in sequence, with no intervening particles, then the roots that come later will modify those that come earlier. This means a noun compound of the form `A B C` should be interpreted as `A` //of// `B` //of// `C`, and describes a type of `A`.
 
 |Asgardian|English|h
-|A B|B of A|
-|~|A's B|
-|~|B of type A|
-|~|B with characteristic A|
-|~|B somehow associated with A|
+|A B|A of B|
+|~|A belonging to B|
+|~|A of type B|
+|~|A with characteristic B|
+|~|A somehow associated with B|
 
+
+Consider the phrase [[turi]] [[taki]] - hover over each root to pull up its dictionary entry, and add in "//of//"s as needed to construct the appropriate meaning.
+
+|!Asgardian| [[turi]] | | [[taki]]|
+|!English| food | //of// | cat |
+|~|>|>| cat food |
+
+We can see that [[turi]] [[taki]] is a kind of [[turi]] ("food"). The root [[taki]] ("cat") modifies [[turi]] ("food") to tell the listener what kind of food it is - namely food that is of, for, or in some way associated with a cat. The Asgardian name of language's mascot, Noodle Cat, is rendered as [[Taki|taki]] [[Kuposu|kuposu]]  - this phrase indicates a kind of cat ([[taki]]) that related to noodles ([[kuposu]]) in some fashion.
+
+|!Asgardian| [[Taki|taki]] | | [[Kuposu|kuposu]] |
+|!English| cat | //of// | noodle(s) |
+|~|>|>| Noodle Cat |
+
+!! Example
 As a more useful example, the Asgardian word [[i]] means "I" or "me" (unlike in English, it does not change form), and the word [[sonu]] means "name". With these, you now have enough information to form your first useful sentence in Asgardian.
 
-|Asgardian|English|h
-|[[I|i]] [[sonu]] [[na]] __&emsp;&emsp;&emsp;__.|My name is __&emsp;&emsp;&emsp;__.|
+|!Asgardian| [[sonu]] | | [[i]] | [[na]] | __&emsp;&emsp;&emsp;__ |
+|!English| name | //of// | me | = | __&emsp;&emsp;&emsp;__ |
+|~|>|>|>|>| My name is __&emsp;&emsp;&emsp;__. |
