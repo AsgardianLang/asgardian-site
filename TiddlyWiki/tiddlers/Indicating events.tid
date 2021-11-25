@@ -1,0 +1,33 @@
+created: 20211124214508036
+modified: 20211124231605633
+title: Indicating events
+type: text/vnd.tiddlywiki
+
+One of the most important roots in Asgardian is [[re]], which translates as "action", "event", or "situation". It is used to express what is happening, and can be equated to a noun root that represents the event or state under discussion. Like in some terrestrial languages, subjects, objects, and indirect objects can be left out if context is sufficient.
+
+For example, consider the equation [[re]] [[na]] [[rotuki]].
+
+|!Asgardian| [[re]] | [[na]] | [[rotuki]] |
+|!English| event | = | walking|
+|~|>|>| walking is happening |
+
+Depending on context, this could be interpreted as any of the following:
+
+| Asgardian | English |h
+|[[Re|re]] [[na]] [[rotuki]].|I am walking.|
+|~|You are walking.|
+|~|He/she is walking.|
+|~|They (sg.) are walking.|
+|~|We are walking.|
+|~|Y'all (you pl.) are walking.|
+|~|They (pl.) are walking.|
+
+If spoken with a rising intonation, it can be interpreted as a question. Since questions are typically asked about //other// people and not the speaker, the interpretation "am I walking?" would not be at the forefront of most listeners' minds, but it is possible.
+
+| Asgardian | English |h
+|[[Re|re]] [[na]] [[rotuki]]?|Are you walking?|
+|~|Is he/she walking?|
+|~|Are they (sg.) walking?|
+| ⋮ | ⋮ |
+
+In the next lesson, we will learn how to use additional equations to specify __who__ is walking. In later lessons, we will learn how to talk about __where__, __when__ and more.

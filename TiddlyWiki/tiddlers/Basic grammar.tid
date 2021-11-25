@@ -1,10 +1,10 @@
 created: 20210904045503775
-modified: 20211118004031276
+modified: 20211124215854941
 title: Basic grammar
 type: text/vnd.tiddlywiki
 
 !!Equations
-The most important rule of Asgardian is that sentences are formed as sets of equations. The particle [[na]] is used for this purpose. It links the two phrases on either side of it, and sets them equal to one another. Unlike English "be", [[na]] does not change form (e.g., "am" / "are" / "is", etc.).
+The primary rule of Asgardian is that __sentences are formed as sets of equations__. The particle [[na]] is used for this purpose, and serves as a spoken "equals sign", much like the English words "is" or "equals". It links the two phrases on either side of it, and sets them equal to one another. Unlike the English verb "to be" (of which "is" is the third-person singular form), the Asgardian particle [[na]] never changes form (e.g., "am" / "are" / "is" / "was" / "were", etc.).
 
 |Asgardian|English|h
 |A [[na]] B.|A equals B.|

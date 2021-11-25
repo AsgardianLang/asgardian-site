@@ -1,5 +1,5 @@
 created: 20210904033102028
-modified: 20211118011705143
+modified: 20211124223800607
 tags: 
 title: Pronouns
 type: text/vnd.tiddlywiki
@@ -54,53 +54,52 @@ The roots [[i]], [[su]], and [[ta]] are actually examples of [[demonstrative roo
 
 More specific meanings can be expressed by using these demonstratives to specify a particular member of a class, such as "person", "thing", or "time". Instead of saying "he"/"she"/"they", for example, one could say the Asgardian equivalent of "that person" ([[ta]] [[kia]]).
 
-By adding a root indicating the general category of entity being referenced, one can easily build compounds that function as pronouns for a variety of situations.
+By adding a root indicating the general category of entity being referenced, one can easily build compounds that function as pronouns for a variety of situations. For example, it is possible to make optional distinctions for animacy by using [[kia]] ("person/people") vs [[tore]] ("thing(s)") allowing for more specificity.
+
 
 | Asgardian |>| English |h
 |~| Literal | Idiomatic |h
-|[[i]] [[kia]]|this-speaker person|I, me|
-|[[su]] [[kia]]|that-listener person|you|
-|[[ta]] [[kia]]|the-discussed person|he, she, they (sg)|
+|[[i]] [[kia]]|the speaking instance //of// person|I, me|
+|[[su]] [[kia]]|the listening instance //of// person|you|
+|[[ta]] [[kia]]|the discussed instance //of// person|he, she, they (sg)|
 |~|~|him, her, them (sg)|
-|[[ta]] [[tore]]|the-discussed thing/object|it, that|
-|[[ta]] [[nepi]]|the-discussed time|then|
-|[[ta]] [[teka]]|the-dicsussed place|there|
+|[[ta]] [[tore]]|the discussed instance //of// thing/object|it, that|
+|[[ta]] [[nepi]]|the discussed instance //of// time|then|
+|[[ta]] [[teka]]|the discussed instance //of// place|there|
 
-Like with simple pronouns, plurals are realized with the root [[kepa]], which means "group" or "collection".
+Like with simple pronouns, plurals are realized with the root [[kepa]], which means "group" or "collection". 
 
 |Asgardian|>| English |h
 |~| Literal | Idiomatic |h
-|[[kepa]] [[i]] [[kia]]|group //of// speaking instance //of// person|we, us|
-|[[kepa]] [[su]] [[kia]]|that-listening person group|you, y'all, you guys|
-|[[kepa]] [[ta]] [[kia]]|the-discussed person group|they, them, those ones|
+|[[i]] [[kepa]] [[kia]]|speaking instance //of// group //of// person|we, us|
+|[[su]] [[kepa]] [[kia]]|listening instance //of// group //of// person|you, y'all, you guys|
+|[[ta]] [[kepa]] [[kia]]|discussed instance //of// group //of// person|they, them, those ones|
 |~|~|those people|
-|[[kepa]] [[ta]] [[tore]]|the-discussed thing group|those things|
+|[[ta]] [[kepa]] [[tore]]|discussed instance //of// group //of// thing|those things|
+
 Additional useful demonstratives are:
 
 | Asgardian | English |h
 |[[kua]]|what or which one?|
 |[[kona]]|Y/N? is it?|
-|[[ano]]|someone, something|
-|[[nai]]|not, nobody, nothing|
+|[[ano]]|someone, something, some instance|
+|[[nai]]|not, no instance|
 |[[ase]]|the one (implying we all know which)|
 |[[turo]]|each one (individually)|
 |[[supa]]|all, every (collectively)|
-
-Note (reword): Generic class nouns can also be used to explicitly specify "variables" or indicate precise referents in technical language, such as A[[·]][[kia]] ("person A") or B[[·]][[tore]] ("object B").
-
-It is possible to make optional distinctions for animacy by using [[kia]] ("person/people") vs [[tore]] ("thing(s)") allowing for more specificity.
 
 The root [[mora]] ("self") can be used to construct reflexive pronouns. Note that, in most cases, [[mora]] is all that is needed, but there is always the option to provide more specificity by appending additional roots.
 
 | Asgardian | English |h
 |[[mora]]|oneself, ones selves|
+|[[mora]] [[i]] |myself|
 |[[mora]] [[i]] [[kia]]|my (person) self|
-|[[mora]] [[kepa]] [[i]] [[kia]]|our (person) selves|
+|[[mora]] [[i]] [[kepa]] [[kia]]|our (person) selves|
 |[[mora]] [[ta]] [[kia]]|himself|
 |~|herself|
 |~|themself (singular)|
 |~|itself (animate)|
 |[[mora]] [[ta]] [[tore]]|itself (inanimate)|
-|[[mora]] [[kepa]] [[ta]] [[tore]]|themselves (inanimate)|
+|[[mora]] [[ta]] [[kepa]] [[tore]]|themselves (inanimate)|
 
 

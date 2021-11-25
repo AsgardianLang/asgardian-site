@@ -1,0 +1,11 @@
+created: 20211124233600766
+modified: 20211124233743482
+title: mai
+type: text/vnd.tiddlywiki
+
+* theme
+* one that undergoes an action or event, but does not change state
+
+! Usage notes
+
+The root [[mai]] can be used to express entities that are affected by an action, but do not change their intrinsic state as a result. For example, if a book is moved from the shelf to the table, it hasn't necessarily undergone a change in its intrinsic state, but only its location.
