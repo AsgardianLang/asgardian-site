@@ -1,5 +1,5 @@
 created: 20210911141806200
-modified: 20211118014400311
+modified: 20211128040201954
 tags: 
 title: Demonstratives
 type: text/vnd.tiddlywiki
@@ -8,14 +8,14 @@ type: text/vnd.tiddlywiki
 
 Demonstratives are an example of [[deictic words|https://en.wikipedia.org/wiki/Deixis]], because their meaning depends on the context in which they are being used. For example, if two people are conversing on the phone, the meaning of the word "here" (i.e., "this place") changes depending on who is saying it.
 
-In Asgardian, demonstratives are considered a subclass of [[Frames]], which specify a spatio-temporal "box" into which an entity or event is placed. Asgardian demonstratives and [[Frames]] overlap with [[pro-forms and correlatives|https://en.wikipedia.org/wiki/Pro-form#Table_of_correlatives]] in terrestrial languages.
+In Asgardian, demonstratives are considered pointer words which specify a particular instance of a general category. Asgardian demonstratives and pointers overlap with [[pro-forms and correlatives|https://en.wikipedia.org/wiki/Pro-form#Table_of_correlatives]] in terrestrial languages.
 
 Commonly used Asgardian demonstratives are as follows.
 
 | Asgardian | English |h
-|[[katu]]|this (by speaker)|
-|[[soru]]|that (by listener)|
-|[[ainu]]|that (by neither)|
+|[[katu]]|this instance (by speaker)|
+|[[soru]]|that instance (by listener)|
+|[[ainu]]|yonder instance (by neither)|
 
 Some examples of their usage are provided below.
 
@@ -26,7 +26,7 @@ Some examples of their usage are provided below.
 |[[ainu]] [[teka]]|that place (by neither)|over there|
 |~|~|yonder|
 
-Asgardian demonstratives also take on the roles of articles in some terrestrial languages, by situating an entity in a //discursive// rather than //spatial// context.
+Asgardian demonstratives can take on the roles of articles in some terrestrial languages, by situating an entity in a //discursive// rather than //spatial// context.
 
 | Asgardian | English |h
 |[[ano]] X|one X|
@@ -50,8 +50,8 @@ Asgardian demonstratives can also used to form specific pronouns.
 
 | Asgardian |>| English |h
 |~| Literal | Idiomatic |h
-|[[i]] [[kia]]|this-speaking person|I/me|
-|[[su]] [[kia]]|that-listening person|you|
-|[[ta]] [[kia]]|the-discussed person|he/she/they|
+|[[i]] [[kia]]|speaking-instance //of// person(s)|I/me|
+|[[su]] [[kia]]|listening-instance //of// person(s)|you|
+|[[ta]] [[kia]]|the-discussed-instance //of// person(s)|he/she/they|
 |~|~|him/her/them|
-|[[ta]] [[tore]]|the-discussed object|it|
+|[[ta]] [[tore]]|the-discussed-instance //of// object(s)|it|

@@ -1,5 +1,5 @@
 created: 20210913013215821
-modified: 20210914043826774
+modified: 20211128035758040
 tags: 
 title: Location words
 type: text/vnd.tiddlywiki
@@ -15,7 +15,7 @@ type: text/vnd.tiddlywiki
 |[[soka]]|below, under|
 |[[poreki]]|side, adjacent area|
 |[[posara]]|the other side, the area beyond|
-||the near side, this side|
+|[[kinati]]|the near side, this side|
 |[[noki]]|space between, interval|
 |[[maki]]|space around, surroundings|
 
@@ -49,7 +49,6 @@ Nature / geography:
 Construction and political units:
 
 | Asgardian | English |h
-|[[koia]]|zone, region (not closed off)|
 |[[karu]]|room, specialized area of building (with walls demarcating it)|
 |[[titui]]|floor, level|
 |[[toka]]|building|
@@ -63,7 +62,7 @@ Space
 
 | Asgardian | English |h
 |[[taso]]|celestial body|
-|[[kesa]]|Earth, our home planet|
-|[[tumue]]|Sol, our home star|
+|[[satera]] [[kepo]]|Earth, our home planet|
+|[[emasa]] [[kepo]]|Sol, our home star|
 |[[emasa]]|star|
 |[[muto]]|space, the universe|
