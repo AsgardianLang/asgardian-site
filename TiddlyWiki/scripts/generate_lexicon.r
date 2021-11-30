@@ -66,7 +66,9 @@ Sys.time() %>%
 
 # Save results
 write.csv(result, out.file, row.names=F)
-
+result$Asgardian %>%
+  paste0(collapse="\n") %>%
+  writeLines("taken.txt")
 
 ### Make a lexicon card for English ############################################
 
@@ -102,4 +104,5 @@ for (i in 1:nrow(result)) {
 
 lines %>%
   writeLines(paste0(tiddler.path, "Lexicon (En).tid"))
+
   
