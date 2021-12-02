@@ -1,5 +1,5 @@
 created: 20210905012156846
-modified: 20211128042101466
+modified: 20211202051340240
 title: Overview
 type: text/vnd.tiddlywiki
 
@@ -9,62 +9,66 @@ Asgardian is an experiment in the field of constructed languages, which uses a n
 Asgardian takes such “equational” statements, where meaning is conveyed by linking phrases together with a marker of equality, as the core feature of its grammar. 
 
 !!How do equational sentences work?
-In early lessons for most terrestrial languages, learners are exposed to simple sentences like “My name __is__ X”, “What __is__ this?”, and so on. These sentences are termed "equational", as two entities are being liked by a word such as "is". 
 
-By using an expandable and flexible inventory of roots, and a productive compounding system, Asgardian is able to cast all expressions into such an equational form, using the particle «[[na]]» as a linking word. 
-Consider the following simple example of an equation using «[[na]]», which is shown in various stages of translation from Asgardian to English. Note that most translations will not be this detailed, but this is provided to illustrate the fundamentals of the grammar. Also note that the italicized “of” is added to clarify the English translation, but is not necessary in Asgardian.
+In early lessons for most terrestrial languages, learners are exposed to simple sentences like “My name __is__ X”, “What __is__ this?”, and so on. These sentences are termed "equational", as two entities are being __linked__ or __equated__ by a word such as "is". In English, the verb "to be" is commonly referred to as a [[linking verb|https://en.wikipedia.org/wiki/Linking_verb]], because it links both sides and forms a statement about their equality or identity.
 
-| !Asgardian |>|>|>|>| [[Sonu|sonu]]  [[i]] [[na]] __&emsp;__. |
-|~| [[sonu]] | | [[i]] | [[na]] | __&emsp;__|
-| !English | name | //of// | me | = | __&emsp;__|
-|~|>|>| my name | is | __&emsp;__|
-|~|>|>|>|>| My name is __&emsp;__. |
+By using an expandable and flexible inventory of roots, and a productive compounding system, Asgardian is able to cast all expressions into such an equational form, which is termed an Equational Phrase (EP). In fact, all sentences in Asgardian are made up of a set of EPs, which follow a unified set of rules.
 
-Replacing «[[sonu]]» (“name”) with «[[rima]]» (“source” or “origin”) yields «[[Rima|rima]] [[i]] [[na]] X», for “origin //of// me = X”, or more concisely, “I am from X”.
+Consider, for example, the English sentence "I am walking in the park."
 
-| !Asgardian |>| [[rima]] || [[i]] | [[na]] | X |
-| !English |>| origin | //of//| I / me | = | X |
-|~|>|>|>| where I am from | is | X |
-|~|>|>|>|>|>| I come from X. |
+* The "who" (or subject) of the sentence is "I". This tells us who or what the sentence is //about//. <!--Typically, this is who is performing the action, but sometimes (as in [[passive sentences|https://en.wikipedia.org/wiki/Passive_voice]]) it is actually who //receives// or //is affected by// an action.
+** The //doer// of an action is known as an [[agent|https://en.wikipedia.org/wiki/Agent_(grammar)]].
+** The //receiver// of an action is known as a [[patient|https://en.wikipedia.org/wiki/Patient_(grammar)]].-->
+* The "what" (or event/action) is "walking". This tells us what is //happening//. <!--Most languages express events and actions with [[verbs|https://en.wikipedia.org/wiki/Verb]].-->
+* The "where" (or location) is "the park". This tells is //where// the action or situation occurs. <!--Languages often express locations (and other "optional" info like time, reason, etc. using things like [[prepositional phrases|https://en.wikipedia.org/wiki/Adpositional_phrase#Prepositional_phrases]] ("in the park"), [[adverbs of place|https://www.ef.edu/english-resources/english-grammar/adverbs-place/]] ("here"), or even [[noun cases|https://en.wikipedia.org/wiki/Grammatical_case]].-->
 
-Trading «[[rima]]» with «[[soto]]» (“age”) gives us  «[[Soto|soto]] [[i]] [[na]] X», for “age //of// me = X”, or “I am X old”.
+We could break this sentence down into three EPs as follows:
 
-| !Asgardian |>| [[soto]] || [[i]] | [[na]] | X |
-| !English |>| age | //of//| I / me | = | X |
-|~|>|>|>| my age | is | X |
-|~|>|>|>|>|>| I am X old. |
+| Phrase 1 | Phrase 2 | Phrase 3 |h
+| subject = me | action = walking | location = park |
+| as for me | (I)'m walking | in the park |
+| who | what | where |
 
-!!What about verbs?
+Let's add some more complications, say "My friend was walking in the park with a cane yesterday". This, too, can be represented equationally.
 
-Most verb-like expressions can be reproduced with the root «[[se]]» ("action" / "deed") and an equivalent noun that refers to the action or event. The following pattern is frequently used to express such concepts.
+| Phrase 1 | Phrase 2 | Phrase 3 | Phrase 4 | Phrase 5 |h
+| subject = friend of me | action = walking | location = park | instrument = cane | time = yesterday |
+| as for my friend | (they) were walking | in the park | with a cane | yesterday |
+| who | what | where | how | when |
 
-| !Asgardian |>|>|>|>|>| [[Se|se]] [[i]] [[na]] X. |
-|~|>| [[Se|se]] | | [[i]] | [[na]] | X |
-|!English|>| action | //of// | me | = | X |
-|~|>|>|>| what I am doing | is | X |
-|~|>|>|>|>|>| I'm doing / engaging in activity X. |
+Not all sentences need to refer to actions (although this does throw off our nice "wh-" word scheme from earlier 😊). For example, a simple introduction might go something like this.
 
-!!Multiple equations
+| Phrase 1 | Phrase 2 |h
+| subject = you | name = what? |
+| as for you | what's (your) name? |
 
-Even complex sentences can be expressed in this manner; for example, a sentence like “I’m studying at home tonight on account of the exam tomorrow” could be rendered with a series of equations. To help clarify the importance of the equations in a multi-equation sentence, Asgardian uses [[na]] for primary equations («A [[na]] B» means “A is B”), and «[[ne]]» to indicate secondary or subordinate equations («A [[ne]] B» means "... with A being B ...").
+A statement about one's place of origin could be expressed as follows.
 
-In this example, the primary («[[na]]») equation refers to the main action of studying. The subordinate («[[ne]]») equations, on the other hand, give additional info about the action, such as the "where", "when", and "why".
+| Phrase 1 | Phrase 2 |h
+| subject = me | origin = Asgardia |
+| as for me | (I)'m from Asgardia |
 
-| !Asgardian | [[se]] | | [[i]] | [[na]] | [[miru]] | Primary |
-| !English | action | //of// | me | = | studying |~|
-|~|>|>|>|>| I'm studying |~|
+Many more examples are possible, and will be covered in detail in later pages!
 
-| !Asgardian | [[teka]] | [[ne]] | [[kepo]] | Subordinate |
-| !English | location | being | home |~|
-|~|>|>| at home |~|
+!! Building equations
 
-| !Asgardian | [[nepi]] | [[ne]] | [[katu]] | | [[pamai]] | Subordinate |
-| !English | time | being | this instance | //of// | night |~|
-|~|>|>|>|>| tonight |~|
+In Asgardian, all EPs link __one__ root on the left to an expression on the right (which may be a single root, a compound, another EP, or even an entire sentence). In the world of programming languages, this is similar to [[assigning|https://en.wikipedia.org/wiki/Assignment_(computer_science)]] a value to a variable, like `x = 5 + 3`, or even to a specifying a [[keyword argument|https://en.wikipedia.org/wiki/Named_parameter]], like `draw_circle(x=10, y=10, radius=5)`. In natural languages, this acts quite like a simple prepositional phrase, such as "__in__ the park", "__with__ a cane", etc.
 
-| !Asgardian | [[toto]] | [[ne]] | [[timike]] | ([[tu]]) | [[komanu]] | | [[sari]] | Subordinate|
-| !English | purpose | being | exam | //of// | following instance | //of// | day |~|
-|~|>|>|>|>|>|>| for tomorrow's exam |~|
+To indicate its special role as the target for assignment, the first root of an EP takes the ending «-[[n]]», which functions almost like a spoken equals sign (as a historical note, this ending was originally an equational particle «[[na]]», which was shortened over time, much like how the English "'m" in "I'm" came from the full word "am").  Because native Asgardian roots cannot end with any letter other than a vowel, words ending with «-[[n]]» nearly always indicate the beginning of a new EP, which can help you understand sentences piece by piece.
+
+Words ending in «-[[n]]» may feel like something between verbs and prepositions. As an example, let's pretend that «bla» is an Asgardian root; then the phrase «bla__n__ X» can be interpreted as "//bla// is X", or "with //bla// being X", or even "to have a //bla// which is X".
+
+Now let's try it with a real Asgardian root. The root «[[sonu]]» means "name" or "what one is called". Therefore, the EP «[[sonu]][[n]] __&emsp;&emsp;__» can be translated as "name equals __&emsp;&emsp;__", "called __&emsp;&emsp;__" or "to be named __&emsp;&emsp;__". Congratulations! You've just made your first EP, and your first Asgardian sentence!
+
+|!Asgardian| [[Sonu|sonu]][[n]] | __&emsp;&emsp;__. |
+|!English| name= | __&emsp;&emsp;__ |
+|~|>|(My) name is __&emsp;&emsp;__. |
+
+
+
+
+<br />
+<br />
 
 ^^[1]^^Experiments and data collection are in progress at the following institutions:
 

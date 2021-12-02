@@ -1,5 +1,5 @@
 created: 20210915212428501
-modified: 20210915214525011
+modified: 20211202050256916
 title: Aspect
 type: text/vnd.tiddlywiki
 
@@ -7,9 +7,11 @@ type: text/vnd.tiddlywiki
 
 In the examples below, each frame word is presented in a simple phrase so that the English translation is more readily understood.
 
+''TODO: fix these''
+
 |Asgardian|English|h
-|[[i]] [[sonero]] [[se]] [[na]] X|I have done X (and it's still affecting things right now)|
-|[[i]] [[osi]] [[se]] [[na]] [[X]]|if I do X (something else will happen)|
+|[[i]] [[sone]][[n]] [[se]][[n]] X|I have done X (and it's still affecting things right now)|
+|[[i]] [[osi]][[n]] [[se]][[n]] [[X]]|if I do X (something else will happen)|
 |[[i]] [[opari]] [[se]] [[na]] [[X]]|I used to do X (but not anymore)|
 |[[i]] [[nimia]] [[se]] [[na]] [[X]]|I'm back to doing X (had stopped for a bit, but am resuming)|
 |~|I resume activity X|

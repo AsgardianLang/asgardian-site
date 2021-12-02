@@ -1,26 +1,44 @@
 created: 20210904042253554
-modified: 20211118003326826
+modified: 20211202042552623
 title: Noun-Based Equational Grammar
 type: text/vnd.tiddlywiki
 
 Noun-based equational grammar (abbreviated NBE) is a system of grammar with the following characteristics.
 
-# It has only two [[parts of speech|https://en.wikipedia.org/wiki/Part_of_speech]]: [[roots|Root]] and [[particles|Particle]].
+# It expresses all sentences as a series of simple [[equations|https://en.wikipedia.org/wiki/Equation]], like <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mo>=</mo><mi>B</mi></math> or <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>.
+# It is based primarily on [[noun roots|Root]], and lacks nearly all other [[parts of speech|https://en.wikipedia.org/wiki/Part_of_speech]] found in Terrestrial languages.
 # It relies heavily on [[noun compounding|https://en.wikipedia.org/wiki/Compound_(linguistics)]], in which a series of roots are combined to create a more specific meaning.
-# It expresses all sentences as a series of [[equations|https://en.wikipedia.org/wiki/Equation]], such as `A = B`, each of which links a pair of nouns or phrases together.
+
+A useful feature of NBE languages is that they are highly expandable. As long as any lexical item or grammatical concept can be represented in the [[appropriate noun form|Noun conversion and modding guide]], it can be incorporated into an NBE language without requiring core changes to the grammatical rules.
+
+!! 1. Equations
+
+A typical NBE sentence is made from a series of equational phrases (EPs) Although this term may sound unfamiliar, EPs occur under various guises in many Terrestrial languages. For example, in English, EPs can be expressed by saying things like "I __am__ a student", "My name __is__ __&emsp;&emsp;&emsp;__", or even "What __is__ this?" The verb "to be" is commonly referred to as a [[linking verb|https://en.wikipedia.org/wiki/Linking_verb]], because it links both sides and forms a statement about their equality or identity.
+
+Equations also abound in mathematics, in which case the <math><mo>=</mo></math> is read as "equals" or "is equal to". For example, the equation <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><msqrt><mi>x</mi></msqrt></math> would be read as "y __equals__ the square root of x".
+
+Finally, programming languages are rich in equation-like structures, which can be used for [[assignment|https://en.wikipedia.org/wiki/Assignment_(computer_science)]], as in a statement like `x = 5`, or specifying named arguments to functions, like the statement `draw_circle(x=10, y=10, radius=5)`.
+
+In Asgardian, the left-hand side (LHS) of an equational phrase is restricted to be a single root. So, EPs like "name = __&nbsp;&nbsp;__", or "location = top" are valid.  By selecting the appropriate root for the LHS, equational phrases can act like verb phrases, prepositions, or many other types of phrases as needed.
+
+In an EP, the first root takes the ending «-[[n]]», which is something of an oral "equals sign" linking the root to everything on the right. Pretend that «blah» is an Asgardian root; then the phrase «blah__n__ X» can be interpreted as "blah is X", or "with blah being X", or even "to have a blah which is X".
 
 
-A useful feature of NBE languages is that they are highly expandable. As long as any lexical item or grammatical concept can be represented in the appropriate noun form, it can be incorporated into an NBE language without requiring core changes to the grammar.
+!! 2. Roots
 
-!! Roots and particles
+The core lexicon of Asgardian is based on [[roots|Root]] that act grammatically as nouns, and which are linked together with equations. Unlike in many terrestrial languages, concepts like verbs, adverbs, adjectives, prepositions, articles, pronouns, demonstratives, numbers - and even more abstract categories like [[tense|https://en.wikipedia.org/wiki/Grammatical_tense]], [[aspect|https://en.wikipedia.org/wiki/Grammatical_aspect]], and [[modality|https://en.wikipedia.org/wiki/Modality_(natural_language)]] - are all represented using roots that are fundamentally nominal. For example:
 
-Unlike typical terrestrial languages, NBE languages only have two parts of speech, illustrated here via a "brickwork" analogy:
+* The English verb "to study" is translated as the noun root «[[miru]]», meaning "studying" or "acts / an act of studying".
+* The English adjective "big" is translated as an abstract-quality noun rout «[[kio]]», meaning "bigness" or "size", and can be quantified with things like "great amount" («[[pau]] [[kio]]») or "small amount" («[[tetu]] [[kio]]»).
+* The English adverb "quickly" is translated by forming an EP from the roots for "manner / way" («[[kata]]») and "speed" («[[ora]]», another abstract-quality noun), i.e. "manner = speed" («[[kata]] = [[ora]]»).
+* The English preposition "on" is represented by forming an equation from the roots for "location / position" («[[teka]]») and "top" («[[ura]]»). For example, the phrase "on the box" could be translated into the EP "location = top of box" («[[teka]] = [[ura]] //of// [[tuki]])».
+* The English article "an" is translated as the noun root «[[ano]]» meaning "unspecified instance" or "some instance" (since "an" often introduces a new or unknown item). For example, the phrase "an apple" could be translated as "(unspecified instance) of apple" («[[ano]] //of// [[kipana]]»).
+* The English pronoun "you" is translated as the noun root «[[su]]» meaning "the listening instance" or "the listening one".
+* The English conjunction "because" is translated as the noun root «[[api]]», meaning "cause" or "reason", and linked to the cause in an equation («[[api]] = X» means "because of X").
 
-* [[Roots|Root]] provide the semantic content, or the "bricks" of the meaning. They act grammatically as nouns.
-* [[Particles|Particle]] specify the connections between roots, and serve as the "mortar" that binds them together. Grammatically, they exist somewhere between linking verbs and conjunctions.
 
 
-!! Compounds
+!! 3. Compounds
 
 NBE languages rely heavily on noun compounding, in which a series of roots are combined to create a more specific meaning. For example, the English compound "dog food" combines two nouns, "dog" and "food", and specifies a more detailed concept than "food" alone.
 
@@ -28,10 +46,9 @@ In Asgardian, noun compounds are interpreted as "right modifies left". That is, 
 
 This is similar to how many Romance languages handle noun compounds and adjective-noun pairings, and the usage of "of" in English. For this reason, many examples and translations of Asgardian into English will make use of numerous "of"s as needed to aid in translation; however, these will be italicized (e.g., "//of//") to indicate that they are not needed in Asgardian itself.
 
+It is also generally similar to how mathematical notation orders function application. For example, the expression <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mi>sin</mi><mo>(</mo><msqrt><mi>x</mi></msqrt><mo>)</mo></math> would be read as "y __equals__ the sine __of__ the square root __of__ x".
 
-!! Equations (primary)
-
-In a typical NBE sentence, there is one primary equation, which represents the main action, situation, or event. In Asgardian, the primary equation is expressed in the form "A [[na]] B", meaning "A is B" or "A equals B". Unlike in English, the form of [[na]] does not change for different subjects (c.f. "I __am__", "you __are__", "he/she __is__", etc.) or times (c.f. "it __was__", "we __will be__", etc.).
+ there is one primary equation, which represents the main action, situation, or event. In Asgardian, the primary equation is expressed in the form "A [[na]] B", meaning "A is B" or "A equals B". Unlike in English, the form of [[na]] does not change for different subjects (c.f. "I __am__", "you __are__", "he/she __is__", etc.) or times (c.f. "it __was__", "we __will be__", etc.).
 
 For example, to express something like "I come from X", Asgardian would form an equation like "source/origin //of// me [[na]] X", where "source" functions grammatically as a noun.
 

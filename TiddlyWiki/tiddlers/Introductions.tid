@@ -1,17 +1,17 @@
 created: 20210910045107598
-modified: 20211118004321282
+modified: 20211202055802094
 title: Introductions
 type: text/vnd.tiddlywiki
 
 The following dialogue illustrates a short portion of a first encounter between two Asgardians, Alice and Bob. As an introductory exercise, explore each Asgardian sentence, and tap, click, or hover over any roots you don't recognize. 
 
 |Person|Asgardian|English|h
-|Alice|[[Tepi|tepi]]!|Greetings!|
-|~|[[Sonu|sonu]] [[su]] [[na]] [[kua]]?^^[1]^^|What is your name?|
-|Bob|[[Sonu|sonu]] [[i]] [[na]] "Bob".|My name is Bob.|
-|~|[[Su|su]]?|You(rs)?|
-|Alice|[[Sonu|sonu]] [[na]] "Alice".|(My) name is Alice.|
-|Bob| [[Tete|tete]] [[tira]] [[i]] [[na]] [[arote]] [[su]].^^[2][3]^^|It's nice to meet you.|
+|Alice|[[Tepi|tepi]][[!|EM]] (or [[OHOU!|ohou]])|Greetings[[!|EM]]|
+|~|[[Su|su]] [[sonu]][[n]] [[kua]][[?|QM]]^^[1]^^|What is your name?|
+|Bob|[[I|i]] [[sonu|sonu]][[n]] "Bob"[[.|FS]]|My name is Bob.|
+|~|[[Su|su]][[?|QM]]|You(rs)?|
+|Alice|[[I|i]] [[sonu]][[n]] "Alice"[[.|FS]]|(My) name is Alice.|
+|Bob| [[I|i]] [[kemi]][[n]] [[tira]] [[tete]][[n]] [[se]][[n]] [[arote]] [[su]][[.|FS]]^^[2][3]^^|It's nice to meet you.|
 
 ^^[1]^^Here we see a use of the generic interrogative word [[kua]], meaning "what". Alice is equating [[sonu]] [[su]] ("your name") with [[kua]] ("what"), forming an equation to ask Bob's name.
 

@@ -1,21 +1,17 @@
 created: 20210904164559397
-modified: 20210911211356009
+modified: 20211202055120217
 title: a
 type: text/vnd.tiddlywiki
 
-* {separator particle}
+* topic (of a sentence)
+* subject (of a sentence)
 
-!Usage notes
+! Usage notes
 
-[[A|a]] is used as a particle to separate equations from one another, almost like a "spoken comma". This helps prevent words at the end of one equation from being misinterpreted as if they were at the beginning of the next.
-
-All of the following are considered equivalent for grammatical or practical purposes.
+The root «[[a]]» is used to indicate the subject or topic of a sentence (what a sentence is about). For example
 
 |Asgardian|English|h
-|[[I|i]] [[se]] [[na]] [[tapu]] [[a]] [[teka]] [[ne]] [[takima]].|I'm reading in the park.|
-|[[I|i]] [[se]] [[na]] [[tapu]], [[teka]] [[ne]] [[takima]].|~|
-|[[I|i]] [[se]] [[na]] [[tapu]] &middot; [[teka]] [[ne]] [[takima]].|~|
-|[[I|i]] [[se]] [[na]] [[tapu]] - [[teka]] [[ne]] [[takima]].|~|
+|[[A|a]][[n]] [[su]] ...|As for you, ...|
+|[[A|a]][[n]] [[katu]] [[tore]] ...|As for this thing, ...|
 
-|!Asgardian| [[i]] | [[se]] | [[na]] | [[tapu]] | [[a]] | [[teka]] | [[ne]] | [[takima]] |
-|!English| me | action | = | reading | &#124; | location | being  | park |
+Because subjects so frequently begin sentences and clauses in Asgardian, and starting every sentence with «[[A|a]][[n]]» would get quite repetitive, this word is frequently omitted.

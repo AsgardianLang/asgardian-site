@@ -1,21 +1,23 @@
 created: 20210911205343571
-modified: 20211124221516579
+modified: 20211202061406478
 title: tu
 type: text/vnd.tiddlywiki
 
-* {backwards genitive particle}
-* of
+* modifier
+* attribute, relative clause, adjective, property
 * such that
 
 ''Usage notes''
 
-The particle [[tu]] is used to indicate that what comes before it is modified by what comes after it. It is called the "backwards" genitive because the modification proceeds opposite the time order of the elements (or from right to left in written Asgardian).
+The root «[[tu]]» is used with «-[[n]]» to form an Equational Phrase allowing a complex modifier to act on another, previous phrase. It can be used to form relative clauses or to disambiguate long compound chains.
 
 |Asgardian|English|h
-|A [[tu]] B|A of B|
+|A [[tu]][[n]] B|A of B|
 |~|A associated in some way with B|
-|[[kia]] [[tu]] [[pau]] [[tu]] [[tira]]|a very happy person|
-|~|a person //of// a great amount //of// happiness|
-|[[turi]] [[tu]] [[katu]] [[hau]]|food //of/from// this country|
-|[[kape]] [[kisi]] [[tu]] [[i]]|language book //of/owned by// me|
+|[[kia]] __[[tu]][[n]]__ [[pau]] [[tira]]|a very happy person|
+|~|a person __of__ a great amount //of// happiness|
+|[[turi]] __[[tu]][[n]]__ [[katu]] [[hau]]|food __of/from__ this country|
+|[[kape]] [[kisi]] __[[tu]][[n]]__ [[i]]|(book //of// language) __of/owned by__ me|
 |~|my language-book|
+|[[kape]] __[[tu]][[n]]__ [[kisi]] [[i]]|book __of__ (language //of// me)|
+|~|book about my language|

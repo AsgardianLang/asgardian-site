@@ -1,0 +1,45 @@
+created: 20211202061655297
+modified: 20211202064150087
+tags: 
+title: How do equational sentences work?
+type: text/vnd.tiddlywiki
+
+In early lessons for most terrestrial languages, learners are exposed to simple sentences like “My name __is__ X”, “What __is__ this?”, and so on. These sentences are termed "equational", as two entities are being __linked__ or __equated__ by a word such as "is". In English, the verb "to be" is commonly referred to as a [[linking verb|https://en.wikipedia.org/wiki/Linking_verb]], because it links both sides and forms a statement about their equality or identity.
+
+By using an expandable and flexible inventory of roots, and a productive compounding system, Asgardian is able to cast all expressions into such an equational form, which is termed an [[equational phrase (EP)|Equational phrase]]. In fact, all sentences in Asgardian are built up from EPs, which follow a unified set of rules.
+
+Consider, for example, the English sentence "I am walking in the park."
+
+* The "who" (or subject) of the sentence is "I". This tells us who or what the sentence is //about//. <!--Typically, this is who is performing the action, but sometimes (as in [[passive sentences|https://en.wikipedia.org/wiki/Passive_voice]]) it is actually who //receives// or //is affected by// an action.
+** The //doer// of an action is known as an [[agent|https://en.wikipedia.org/wiki/Agent_(grammar)]].
+** The //receiver// of an action is known as a [[patient|https://en.wikipedia.org/wiki/Patient_(grammar)]].-->
+* The "what" (or event/action) is "walking". This tells us what is //happening//. <!--Most languages express events and actions with [[verbs|https://en.wikipedia.org/wiki/Verb]].-->
+* The "where" (or location) is "the park". This tells is //where// the action or situation occurs. <!--Languages often express locations (and other "optional" info like time, reason, etc. using things like [[prepositional phrases|https://en.wikipedia.org/wiki/Adpositional_phrase#Prepositional_phrases]] ("in the park"), [[adverbs of place|https://www.ef.edu/english-resources/english-grammar/adverbs-place/]] ("here"), or even [[noun cases|https://en.wikipedia.org/wiki/Grammatical_case]].-->
+
+We could break this sentence down into three EPs as follows:
+
+| Phrase 1 | Phrase 2 | Phrase 3 |h
+| subject = me | action = walking | location = park |
+| as for me | (I)'m walking | in the park |
+| who | what | where |
+
+Let's add some more complications, say "My friend was walking in the park with a cane yesterday". This, too, can be represented equationally.
+
+| Phrase 1 | Phrase 2 | Phrase 3 | Phrase 4 | Phrase 5 |h
+| subject = friend of me | action = walking | location = park | instrument = cane | time = previous day |
+| as for my friend | (they) were walking | in the park | with a cane | yesterday |
+| who | what | where | how | when |
+
+Not all sentences need to refer to actions (although this does throw off our nice "wh-" word scheme from earlier 😊). For example, a simple introduction might go something like this.
+
+| Phrase 1 | Phrase 2 |h
+| subject = you | name = what? |
+| as for you | what's (your) name? |
+
+A statement about one's place of origin could be expressed as follows.
+
+| Phrase 1 | Phrase 2 |h
+| subject = me | origin = Asgardia |
+| as for me | (I)'m from Asgardia |
+
+Many more examples are possible, and will be covered in detail in later pages! (Spoiler alert: many [[EPs|Equational phrase]] involve assigning to various [[semantic roles|https://en.wikipedia.org/wiki/Thematic_relation]])

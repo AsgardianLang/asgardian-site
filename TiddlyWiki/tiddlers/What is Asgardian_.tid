@@ -1,0 +1,15 @@
+created: 20211202061544590
+modified: 20211202061631037
+tags: 
+title: What is Asgardian?
+type: text/vnd.tiddlywiki
+
+Asgardian is an experiment in the field of constructed languages, which uses a novel but easily-learnable^^[1]^^ grammar that bears similarity to what is arguably the current “universal” and “neutral” interlanguage: mathematics. Nearly every school-child has seen - and can understand and manipulate - expressions such as `2 + 2 = 4`, and anyone who has even been tangentially involved with video gaming or computers can likely figure out the meaning of statements like `player.score = 100`, or `draw_rectangle(x=10, y=30, width=100, height=40, color='red')`, despite the fact that the syntax of these statements is quite different from that of most natural languages.
+
+Asgardian takes such “equational” statements, where meaning is conveyed by linking phrases together with a marker of equality, as the core feature of its grammar. 
+
+^^[1]^^Experiments and data collection are in progress at the following institutions:
+
+* [[The University of Oklahoma|https://www.ou.edu/]]
+* [[New Mexico State University|https://www.nmsu.edu/]]
+* [[William Paterson University of New Jersey|https://www.wpunj.edu/]]
