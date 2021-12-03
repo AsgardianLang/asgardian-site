@@ -1,5 +1,5 @@
 created: 20210904033032313
-modified: 20211202183827782
+modified: 20211203042021851
 tags: 
 title: Asgardian
 type: text/vnd.tiddlywiki
@@ -30,6 +30,7 @@ And perhaps most importantly:
 # [[What is Asgardian?]]
 # [[How do equational sentences work?]]
 # [[Building equations]]
+# [[Noun compounds]]
 
 !! Alphabet & pronunciation
 # [[Alphabet]]
@@ -44,25 +45,30 @@ And perhaps most importantly:
 # [[Introductions]]
 # [["Wh-" questions|Wh questions]]
 # [[Yes/no questions|Yes-no questions]]
+# [[Pronouns]]
 
+
+<!--
+!! Under construction:
 # [[Basic grammar]]
 # [[Indicating events]]
 # [[Indicating subjects or agents]]
-# [[Pronouns]]
-# [[Noun compounds]]
+
+
 # [[Particles|Particle]]
 
-# [[Tenses]]
 
+# [[Tenses]]
 # [[Frames]]
 # [[Particle chains|Particle chain]]
 
-!Additional study topics
+
 * [[Semantic roles|Semantic role]]
 * [[Sex & gender]]
 * [[Emotions]]
 * [[Attributes]]
 * [[Numbers]]
+-->
 
 !Translation challenges
 * [[Translation Challenge 1]] - A simple fable

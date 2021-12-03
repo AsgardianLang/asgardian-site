@@ -1,10 +1,10 @@
 created: 20211202061544590
-modified: 20211202061631037
+modified: 20211203034801369
 tags: 
 title: What is Asgardian?
 type: text/vnd.tiddlywiki
 
-Asgardian is an experiment in the field of constructed languages, which uses a novel but easily-learnable^^[1]^^ grammar that bears similarity to what is arguably the current “universal” and “neutral” interlanguage: mathematics. Nearly every school-child has seen - and can understand and manipulate - expressions such as `2 + 2 = 4`, and anyone who has even been tangentially involved with video gaming or computers can likely figure out the meaning of statements like `player.score = 100`, or `draw_rectangle(x=10, y=30, width=100, height=40, color='red')`, despite the fact that the syntax of these statements is quite different from that of most natural languages.
+[[Asgardian]] is an experiment in the field of constructed languages, which uses a novel but easily-learnable^^[1]^^ grammar that bears similarity to what is arguably the current “universal” and “neutral” interlanguage: mathematics. Nearly every school-child has seen - and can understand and manipulate - expressions such as <math xmlns="http://www.w3.org/1998/Math/MathML"><mn>2</mn><mo>+</mo><mn>2</mn><mo>=</mo><mn>4</mn></math> or <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mi>m</mi><mi>x</mi><mo>+</mo><mi>b</mi></math>, and anyone who has even been tangentially involved with video gaming or computers can likely figure out the meaning of statements like `player.score = 100`, `draw_rectangle(x=10, y=30, width=100, height=40, color='red')`, or `background-color: DarkGray`, despite the fact that the syntax of these statements is quite different from that of most natural languages.
 
 Asgardian takes such “equational” statements, where meaning is conveyed by linking phrases together with a marker of equality, as the core feature of its grammar. 
 

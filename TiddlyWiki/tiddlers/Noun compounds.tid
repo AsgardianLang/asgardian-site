@@ -1,15 +1,36 @@
 created: 20210905030549744
-modified: 20211118005832084
+modified: 20211203041648433
 title: Noun compounds
 type: text/vnd.tiddlywiki
 
-In the previous sections, you have seen a wide variety of noun compounds, although they have not always been formally referred to as such.
+The [[Asgardian]] language makes liberal use of [[noun-noun compounds|https://en.wikipedia.org/wiki/Compound_(linguistics)#Noun%E2%80%93noun_compounds]] to construct new meaning.
 
-Any time two roots are placed next to one another, with no particles in between, they form a noun compound, and the roots on the left modify those on the right.
+Any time two roots are placed next to one another in a compound, the roots that come later will modify the ones that came earlier. This means that a compound of the form `A B` should be interpreted as "`A` //of// `B`", and can be said to describe a type of `A`. Compounds may include more than two elements; for example, the compound `A B C` should be interpreted as "`A` //of// `B` //of// `C`". Note: in this wiki, the word "//of//" will often be italicized in the English translation; this indicates that it is not necessary in Asgardian, but has been added for clarity.
 
-Noun compounds are used in nearly every Asgardian sentence as a way of constructing complex propositions or describing things.
 
-For examples, see the following Asgardian noun compounds and their English translations.
+|Asgardian|English|h
+|A B|A of B|
+|~|A belonging to B|
+|~|A of type B|
+|~|A with characteristic B|
+|~|A somehow associated with B|
+
+
+Consider the phrase «[[turi]] [[taki]]» - hover over each root to pull up its dictionary entry, and add in "//of//"s as needed to construct the appropriate meaning.
+
+|!Asgardian| [[turi]] | | [[taki]]|
+|!English| food | //of// | cat |
+|~|>|>| cat food |
+
+We can see that «[[turi]] [[taki]]» is a kind of «[[turi]]» ("food"). The root «[[taki]]» ("cat") modifies «[[turi]]» ("food") to tell the listener what kind of food it is - namely food that is of, for, or in some way associated with a cat. The Asgardian name of language's mascot, Noodle Cat, is rendered as «[[Taki|taki]] [[Kuposu|kuposu]]»  - this phrase indicates a kind of cat («[[taki]]») that related to noodles («[[kuposu]]») in some fashion.
+
+|!Asgardian| [[Taki|taki]] | | [[Kuposu|kuposu]] |
+|!English| cat | //of// | noodle(s) |
+|~|>|>| Noodle Cat |
+
+Noun compounds are used in many Asgardian sentences as a way of constructing complex propositions or describing things.
+
+<!--For examples, see the following Asgardian noun compounds and their English translations.
 
 |Asgardian|>| English |h
 |~| Literal | Idiomatic |h
@@ -22,4 +43,4 @@ For examples, see the following Asgardian noun compounds and their English trans
 |[[sonu]] __[[kape]] [[pau]] [[soto]]__ [[taki]] [[i]]|name //of// __book //of// great-amount //of// age__ //of// cat //of// me|the name of my cat's __old book__|
 |[[sonu]] [[kape]] __[[taki]] [[pau]] [[soto]]__ [[i]]|name //of// book //of// __cat //of// great-amount //of// age__ //of// me|the name of my __old cat__'s book|
 
-^^[1]^^As compounds grow in length, the possibility for ambiguity increases. In this example, it's not exactly clear whether the phrase refers to a [[kape]] [[taki]] ("book //of// cat(s)", "book about cats") owned by [[i]], or a "book" owned by [[taki]] [[i]] ("cat //of// me", "my cat"). We will next explore [[particles|Particle]] and learn how to disambiguate in cases such as these.
+^^[1]^^As compounds grow in length, the possibility for ambiguity increases. In this example, it's not exactly clear whether the phrase refers to a [[kape]] [[taki]] ("book //of// cat(s)", "book about cats") owned by [[i]], or a "book" owned by [[taki]] [[i]] ("cat //of// me", "my cat"). We will later explore how to use certain [[equational phrases|Equational phrase]] to clear up ambiguity when needed.-->
