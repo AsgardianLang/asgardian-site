@@ -1,13 +1,23 @@
 created: 20210904171544435
-modified: 20211118010439188
+modified: 20211202190120781
 title: Wh questions
 type: text/vnd.tiddlywiki
 
-Wh- questions are interrogative statements that seek to "fill in the gaps" in a proposition whose overall truth is known. For example, it might be known that you went to the theater, but an inquisitive conversation partner may request details such as the name of the movie you went to see, who went with you, what time you went, which theater, etc.
+"Wh-" questions are interrogative statements that seek to "fill in the gaps" in a proposition whose overall truth is known. For example, it might be known that you went to the theater, but an inquisitive conversation partner may request details such as the name of the movie you went to see, //who// went with you, //what time// (//when//) you went, //which// theater, etc.
 
-In Asgardian, these questions are formed with the root [[kua]], which means "what" or "which". [[Kua|kua]] is a [[frame|Frames]] word, or a "box" into which an entity can be placed to indicate that its class membership is not in doubt, but its identity is requested. Note that [[kua]] goes one step beyond [[ano]]: both of these words indicate that the identity is unknown, but [[kua]] makes a question out of it.
+In Asgardian, these questions are formed with the root «[[kua]]», which means "what" or "which". This is an example of a [["pointer word", or demonstrative|Demonstratives]], and indicates which member of a class of things is being discussed (or is unknown, in this case).
+
+An [[equational phrase|Equational phrase]] containing a question word may be [[left where it is|http://www.glottopedia.org/index.php/Wh-in-situ]], or moved to the beginning of a sentence. If it is moved, and the subject EP omits «[[a]][[n]]» (as is typically done), then it should be offset with a comma, so that the final word of the question EP does not get confused with the first word of the subject EP.
 
 |Asgardian|English|h
-|[[Se|se]] __[[kua]] [[kia]]__ [[na]] [[koro]] [[kuposu]] [[i]]?|__Who (which person)__ ate my noodles?|
-|__[[Kua|kua]] [[kia]]__ [[na]] [[paku]] [[koro]] [[kuposu]] [[i]]?|~|
-|[[Siu|siu]] [[su]] [[na]] __[[kua]] ([[teka]])__?|__Where (to what place)__ are you going?|
+|__[[Kua|kua]] [[kia]]__ [[se]][[n]] [[koro]] [[kuposu]] [[i]][[?|QM]]|__Who (which person)__ ate my noodles?|
+|[[Ta|ta]] [[se]][[n]] __[[kua]]__[[?|QM]]|__What__ is he/she doing?|
+|~|__What__ are they (sg.) doing?|
+|[[Ase|ase]] [[timike]] __[[nepi]][[n]] [[kua]]__[[?|QM]]|__When (what time)__ is the exam?|
+|__[[Nepi|nepi]][[n]] [[kua]]__, [[ase]] [[timike]][[?|QM]]|~|
+|[[Su|su]] __[[siu]][[n]] [[kua]]__[[?|QM]]|__Where (to what place)__ are you going?|
+|__[[Siu|siu]][[n]] [[kua]]__, [[su]][[?|QM]]|~|
+|[[Su|su]] [[se]][[n]] [[ainu]] __[[toto]][[n]] [[kua]]__[[?|QM]]|__Why (for what purpose)__ are you doing that?|
+|__[[Toto|toto]][[n]] [[kua]]__, [[su]] [[se]][[n]] [[ainu]][[?|QM]]|~|
+|[[I|i]] [[utai]][[n]] [[se]][[n]] [[katu]] [[mitapi]] __[[simo]][[n]] [[kua]]__[[?|QM]]|__How (with what procedure)__ am I supposed to do this problem?|
+|__[[Simo|simo]][[n]] [[kua]]__, [[i]] [[utai]][[n]] [[se]][[n]] [[katu]] [[mitapi]][[?|QM]]|~|

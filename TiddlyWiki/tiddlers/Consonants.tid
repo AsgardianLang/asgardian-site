@@ -1,13 +1,13 @@
 created: 20211202062316240
-modified: 20211202062450445
+modified: 20211202183659073
 tags: 
 title: Consonants
 type: text/vnd.tiddlywiki
 
-{{ipa_notes}}
+{{transclude_ipa}}
 
 !!Consonant table
-|Asgardian|English|IPA|Notes|h
+|Asgardian|English (US)|IPA|Notes|h
 |''H''|__h__ot|[[h|https://en.wikipedia.org/wiki/Voiceless_glottal_fricative]]  [[x|https://en.wikipedia.org/wiki/Voiceless_velar_fricative]] [[ɸ|https://en.wikipedia.org/wiki/Voiceless_bilabial_fricative]] [[f|https://en.wikipedia.org/wiki/Voiceless_labiodental_fricative]]|Always pronounced; never silent|
 |''K''|__c__ot|[[k|https://en.wikipedia.org/wiki/Voiceless_velar_plosive]] [[g|https://en.wikipedia.org/wiki/Voiced_velar_plosive]]||
 |''M''|__m__op|[[m|https://en.wikipedia.org/wiki/Voiced_bilabial_nasal]]||

@@ -1,10 +1,10 @@
 created: 20211202061729464
-modified: 20211202063412560
+modified: 20211202183637352
 tags: 
 title: Building equations
 type: text/vnd.tiddlywiki
 
-{{ep_notes}}
+{{transclude_ep}}
 
 Now let's try creating an [[equational phrase|Equational phrase]] with a real Asgardian root. The root «[[sonu]]» means "name" or "what one is called". Therefore, the EP «[[sonu]][[n]] __&emsp;&emsp;__» can be translated as "name equals __&emsp;&emsp;__", "called __&emsp;&emsp;__" or "to be named __&emsp;&emsp;__". Congratulations! You've just made your first EP, and your first Asgardian sentence!
 

@@ -1,5 +1,5 @@
 created: 20210904033032313
-modified: 20211202062926073
+modified: 20211202183827782
 tags: 
 title: Asgardian
 type: text/vnd.tiddlywiki
@@ -7,11 +7,23 @@ type: text/vnd.tiddlywiki
 <center>[img[noodlecat_wiki2.png]]<br/>[[Taki|taki]] [[Kuposu|kuposu]] - Noodle Cat, our mascot</center>
 <center>(Image credit: [[AppiDraws|https://www.appidraws.com/]])</center>
 
+!! Intro
 Asgardian is an experimental (and expandable) constructed language that is built according to a set of defined [[principles|Principles of Asgardian]]. We hope it will provide a means by which Asgardians can express themselves and build a shared culture, free of the ties to accidents of Earth’s history, while cultivating a unique, spacefaring identity in an easy-to-use medium, and that every sentence crafted in Asgardian brings its speakers one step closer to their goal a unified humanity. [[OHOU|ohou]][[!|EM]]
 
+!! How to use this wiki
+
+* This wiki serves as the central repository for all information on the Asgardian language, including word lists, grammar, examples, and a digital textbook.
+* The wiki also includes the official lexicon.
+** To search for the English translation of an Asgardian word, enter the Asgardian word in the search bar in the right.
+** To search for the Asgardian translation of an English word, either enter the English word in the search bar, or look in the [[Lexicon (En)]].
+* [[Internal (orange) links|internal_link_example]] can be hovered over to produce a pop-up preview of their content. This is useful for checking the meaning of words without leaving the current page. Try it here: «[[kupo]]». Internal links can also be clicked/tapped to to open them in a new card in the same window.
+* [[External links (green-ish and underlined)|https://tiddlywiki.com/static/Linking%2520in%2520WikiText.html]] can be clicked/tapped to open them in a new tab. These links are often used to provide resources and more information on linguistic concepts beyond the scope of this wiki.
 * New learners may benefit from the list of [[frequently asked questions|Frequently asked questions]].
-* This website also serves as the lexicon. To search, enter any word in English or Asgardian in the search bar on the right, or check out the [[Lexicon (En)]].
 * If a root or compound does not exist with the meaning you're looking for, try [[generating one|https://asgardian.org/gen.html]] and then submitting your ideas to our [[Concept Submission Form|https://forms.gle/jeiwuSi65qUQsVh29]]!
+
+And perhaps most importantly:
+
+* Join [[our Discord server|https://discord.gg/Kj6rXggtXE]] and jump in! We have channels for discussing writing system ideas, new roots, practicing the language, and more.
 
 !! Overview
 
@@ -23,20 +35,23 @@ Asgardian is an experimental (and expandable) constructed language that is built
 # [[Alphabet]]
 # [[Consonants]]
 # [[Vowels]]
+# [[Syllables]]
 # [[Stress]]
 # [[Pronunciation exercises]]
 
 !! Tutorial
 
+# [[Introductions]]
+# [["Wh-" questions|Wh questions]]
+# [[Yes/no questions|Yes-no questions]]
+
 # [[Basic grammar]]
 # [[Indicating events]]
 # [[Indicating subjects or agents]]
 # [[Pronouns]]
-# [[Introductions]]
 # [[Noun compounds]]
 # [[Particles|Particle]]
-# [["Wh-" questions|Wh questions]]
-# [[Yes/no questions|Yes-no questions]]
+
 # [[Tenses]]
 
 # [[Frames]]

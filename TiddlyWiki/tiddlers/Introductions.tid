@@ -1,20 +1,17 @@
 created: 20210910045107598
-modified: 20211202055802094
+modified: 20211202181210203
 title: Introductions
 type: text/vnd.tiddlywiki
 
-The following dialogue illustrates a short portion of a first encounter between two Asgardians, Alice and Bob. As an introductory exercise, explore each Asgardian sentence, and tap, click, or hover over any roots you don't recognize. 
+The following dialogue illustrates a short portion of a first encounter between two Asgardians, Alice and Bob. As an introductory exercise, explore each Asgardian sentence, and tap, click, or hover over any roots you don't recognize. Superscript numbers in brackets (like this^^[[[0]|note_introductions_0]]^^) provide further details on the grammar and translation. Hover/click/tap on these for more info.
 
 |Person|Asgardian|English|h
-|Alice|[[Tepi|tepi]][[!|EM]] (or [[OHOU!|ohou]])|Greetings[[!|EM]]|
-|~|[[Su|su]] [[sonu]][[n]] [[kua]][[?|QM]]^^[1]^^|What is your name?|
-|Bob|[[I|i]] [[sonu|sonu]][[n]] "Bob"[[.|FS]]|My name is Bob.|
-|~|[[Su|su]][[?|QM]]|You(rs)?|
-|Alice|[[I|i]] [[sonu]][[n]] "Alice"[[.|FS]]|(My) name is Alice.|
-|Bob| [[I|i]] [[kemi]][[n]] [[tira]] [[tete]][[n]] [[se]][[n]] [[arote]] [[su]][[.|FS]]^^[2][3]^^|It's nice to meet you.|
+|Alice|[[Tepi|tepi]][[!|EM]] //-or-// [[OHOU!|ohou]]|Greetings!|
+|~|[[Su|su]] [[sonu]][[n]] [[kua]][[?|QM]]^^[[[1]|note_introductions_1]]^^|What is your name?|
+|Bob|[[I|i]] [[sonu|sonu]][[n]] [[Bob|PN]][[.|FS]]|My name is Bob.|
+|~|[[A|a]][[n]] [[su]][[?|QM]]^^[[[2]|note_introductions_2]]^^|You(rs)?|
+|Alice|[[I|i]] [[sonu]][[n]] [[Alice|PN]][[.|FS]]|(My) name is Alice.|
+|Bob| [[Tepi|tepi]][[,|CO]] [[Alice|PN]][[!|EM]] [[I|i]] [[kemi]][[n]] [[tira]]^^[[[3]|note_introductions_3]]^^ [[tete]][[n]]^^[[[4]|note_introductions_4]]^^ [[se]][[n]] [[arote]] [[su]]^^[[[5]|note_introductions_5]]^^[[.|FS]]|It's nice to meet you.|
+|Alice|[[Arote|arote]] [[pau]] [[tira]][[!|EM]]^^[[[6]|note_introductions_6]]^^|Nice to meet you!|
 
-^^[1]^^Here we see a use of the generic interrogative word [[kua]], meaning "what". Alice is equating [[sonu]] [[su]] ("your name") with [[kua]] ("what"), forming an equation to ask Bob's name.
 
-^^[2]^^The last sentence in this dialogue is perhaps the most difficult one for learners. What Bob is doing here is equating [[tete]] [[tira]] [[i]] ("what I'm happy about", literally "topic //of// happiness //of// me") with "meeting //of// you" (i.e., an act of meeting that is associated with "you"). The root [[tete]] is useful when talking about [[emotions or mental states|Emotions]], as it specifies the topic, referent, or what the emotion //is about//.
-
-^^[3]^^Note that [[arote]] [[pau]] [[tira]] is an alternative, shorter way of saying Bob's last statement. It literally means "joyful meeting" ("meeting //of// great-amount //of// happiness".

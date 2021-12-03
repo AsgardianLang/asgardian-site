@@ -1,7 +1,7 @@
 created: 20211202061740262
-modified: 20211202063233654
+modified: 20211202183626718
 tags: 
 title: Equational phrase
 type: text/vnd.tiddlywiki
 
-{{ep_notes}}
+{{transclude_ep}}

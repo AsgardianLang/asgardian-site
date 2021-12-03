@@ -1,37 +1,30 @@
 created: 20210905222226736
-modified: 20211118012708781
+modified: 20211202182422944
 title: Emotions
 type: text/vnd.tiddlywiki
 
-In [[Asgardian]], emotions and mental states can be expressed with the root [[kemi]], which means "feeling" or "emotion".
+In [[Asgardian]], emotions and mental states can be expressed with the root «[[kemi]]», which means "feeling" or "emotion".
 
-| !Asgardian | [[kemi]] | | [[i]] | [[na]] | X |
-| !English | emotion | //of// | me | = | X |
-|~|>|>|>|>| I feel X |
+| !Asgardian | [[i]] | [[kemi]][[n]] | X |
+| !English |  me | emotion= | X |
+|~|>|>| I feel X |
 
-The topic, subject, or referent of the emotion (i.e., what one feels X way //about//) can be expressed with the root [[tete]]. One way to do this is by adding a subordinate equation.
+The topic, subject, or referent of the emotion (i.e., what one feels X way //about//) can be expressed by assigning something to «[[tete]]» in a separate [[equational phrase|Equational phrase]].
 
-| !Asgardian | [[kemi]] | | [[i]] | [[na]] | X | , | [[tete]] | [[ne]] | Y |
-| !English | feeling | //of// | me | = | X || topic | being | Y |
-|~|>|>|>|>| I feel X ||>|>| about Y |
-
-A more concise way is to combine the two into a single equation, and "solve" for the topic of one's emotion.
-
-| !Asgardian | [[tete]] | | X | | [[i]] | [[na]] | Y |
-| !English | topic | //of// | X | //of// | me | = | Y |
-|~|>|>|>|>| The topic of my X (feeling)| = | Y |
-|~|>|>|>|>| What I feel X about | = | Y |
+| !Asgardian | [[i]] | [[kemi]][[n]] | X | [[tete]][[n]] | Y |
+| !English |  me | emotion= | X | topic= | Y |
+|~|>|>| I feel X |>| about Y |
 
 Here are several example sentences that include useful emotion words. Be sure to explore roots that are new to you.
 
 |Asgardian|English|h
-|[[Tete|tete]] [[tira]] [[i]] [[na]] [[arote]] [[su]].|I'm happy to meet you.|
+|[[I|i]] [[kemi]][[n]] [[tira]] [[tete]][[n]] [[se]][[n]] [[arote]] [[su]][[.|FS]]|I'm happy to meet you.|
 |~|Nice to meet you.|
-|[[Kemi|kemi]] [[ta]] [[na]] [[hita]].|He/she doesn't like it.|
-|[[Kemi|kemi]] [[su]] [[na]] [[imate]], [[kona]]?|Are you comfortable?|
+|[[Ta|ta]] [[kemi]][[n]] [[hita]][[.|FS]]|He/she doesn't like (it).|
+|[[Su|su]] [[kemi]][[n]] [[imate]][[,|CO]] [[kona]][[?|QM]]|Are you comfortable?|
 |~|Are you okay?|
-|[[Kemi|kemi]] [[taki]] [[na]] [[muta]] [[oko]], [[tete]] [[ne]] [[turi]] [[i]].|The cat is too curious about my food.|
-|[[Kemi|kemi]] [[i]] [[na]] [[tekeri]] [[kuho]], [[tete]] [[ne]] [[komanu]] [[timike]].|I'm kinda worried about the next exam.|
+|[[Ta|ta]] [[taki]] [[kemi]][[n]] [[muta]] [[oko]] [[tete]][[n]] [[turi]] [[i]][[.|FS]]|The cat is too curious about my food.|
+|[[I|i]] [[kemi]][[n]] [[tekeri]] [[kuho]] [[tete]][[n]] [[komanu]] [[timike]][[.|FS]]|I'm kinda worried about the next exam.|
 
 
 !!Intensity

@@ -1,5 +1,5 @@
 created: 20210904164253166
-modified: 20211003042130331
+modified: 20211202191059976
 title: Yes-no questions
 type: text/vnd.tiddlywiki
 
@@ -7,6 +7,6 @@ Yes/no questions are interrogative statements that seek to affirm the truth of a
 
 In Asgardian, these questions are most commonly crafted with the root [[kona]], which modifies an element to indicate that the existence or truth of that element is in doubt. [[Kona|kona]] can also be used as an adjunct to an entire sentence to turn it into a question.
 
-Examples
+!Examples
 
-(under construction)
+{{transclude_yn}}
