@@ -1,5 +1,5 @@
 created: 20210904150010381
-modified: 20211118015817865
+modified: 20211205051732764
 title: se
 type: text/vnd.tiddlywiki
 
@@ -8,10 +8,20 @@ type: text/vnd.tiddlywiki
 * deed
 * what one does / did / will do
 
-''Usage notes:''
+!Usage notes
+
 The word [[se]] is used to indicate an action that someone or something does.
 
-|Asgardian|English (literal)|English|h
-|[[se]] A [[na]] B|action //of// A= B|A does B|
-|~|~|A engages in B|
-|~|~|A performs B|
+!Word-by-word breakdown
+
+|!Asgardian| A | [[se]][[n]] | B |
+|!English| A | action = | B |
+|~|>|>| A does B |
+
+! Sentence examples
+
+|Asgardian|English|h
+|[[I|i]] [[se]][[n]] [[tapi]][[.|FS]]|I'm traveling.|
+|[[Su|se]] [[se]][[n]] [[koro]][[.|FS]]|You are eating.|
+|[[Ta|ta]] [[se]][[n]] [[miru]][[.|FS]]|He/she is studying.|
+|~|They (sg). are studying.|
