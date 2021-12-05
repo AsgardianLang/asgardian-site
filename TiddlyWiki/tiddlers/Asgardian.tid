@@ -1,5 +1,5 @@
 created: 20210904033032313
-modified: 20211205003404900
+modified: 20211205042204742
 tags: 
 title: Asgardian
 type: text/vnd.tiddlywiki
@@ -7,8 +7,52 @@ type: text/vnd.tiddlywiki
 <center>[img[noodlecat_wiki2.png]]<br/>[[Taki|taki]] [[Kuposu|kuposu]] - Noodle Cat, our mascot</center>
 <center>(Image credit: [[AppiDraws|https://www.appidraws.com/]])</center>
 
-!! Intro
+! Introduction
 Asgardian is an experimental (and expandable) constructed language using noun-based equational grammar, and is built according to a set of defined [[principles|Principles of Asgardian]]. We hope it will provide a means by which Asgardians can express themselves and build a shared culture, free of the ties to accidents of Earth’s history, while cultivating a unique, spacefaring identity in an easy-to-use medium, and that every sentence crafted in Asgardian brings its speakers one step closer to their goal a unified humanity. [[OHOU|ohou]][[!|EM]]
+
+Asgardian grammar can be explained (or derived from) a handful of rules.
+
+!! Rule 1. All root words are nouns.
+
+Roots can refer to singular or plural entities without any change. Articles are not necessary. Roots do not have any inherent gender (grammatical or otherwise).
+
+* Example: The word «[[taki]]» means “cat” or “cats”.
+* Example: The word «[[kuposu]]» means “noodle” or “noodles”.
+
+Nouns are generally easier to learn than verbs^^[[[References]|Why nouns?]]^^, and form an [[open class|https://en.wikipedia.org/wiki/Part_of_speech#Open_and_closed_classes]] for expansion and creative compounding (see Rule 2).
+
+!! Rule 2. In sequences of root words, later ones modify earlier ones.
+
+A phrase like «A B» in Asgardian describes a type of “A” that is //of//, //for//, //characterized by//, or //somehow associated with// “B”, with the exact nature of the association being left up to context and world-knowledge, unless further specified. 
+
+* Example: The phrase «[[taki]] [[kuposu]]» translates as “cat //of// noodle(s)”, or “Noodle Cat” for short.
+* Example: The phrase «[[repa]] [[turi]] [[taki]]» translates as “plate //of// food //of// cat(s)”, or “cat food plate” / “(a) plate of cat food” for short.
+
+A good rule of thumb is that Asgardian phrases like «A B C ⋯» can be translated into English as “A //of// B //of// C //of // ⋯” (the //of// is italicized to show that it's not needed in Asgardian, but it helps in the English translation).
+
+In linguistics terminology, this makes Asgardian a [[right-branching|https://en.wikipedia.org/wiki/Branching_(linguistics)]] language.
+
+!! Rule 3. Asgardian sentences are built from equations.
+
+The basic unit of an Asgardian sentence is the [[equational phrases|Equational phrase]] (or EP for short). EPs are formed by setting __one__ root on the left-hand side equal to an __expression__ on the right, which may be as simple as a single root, a compound, another EP, or an entire sentence.
+
+The word starting an equational phrase takes the ending «-[[n]]», which functions much like a spoken “equals sign”. 
+* Example: The phrase «[[se]][[n]] [[koro]]» translates into “action = eating”, or more simply “is eating”
+* Example: The phrase «[[teka]][[n]] [[kepo]]» translates to “location = home”, or more simply “at home”
+
+A good rule of thumb is that Asgardian phrases like «A[[n]] (stuff)» can be translated as “A equals (stuff)” or “A being (stuff)”.
+
+!! Rule 4. In sequences of equations, later ones modify earlier material.
+
+When constructing an Asgardian sentence, speakers can add detail by introducing additional equational phrases, which can function much like adverbs, prepositional phrases, or other [[adjuncts|https://en.wikipedia.org/wiki/Adjunct_(grammar)]]. This is quite similar to English in sentences like “I'm studying (1) at home (2) today (3) for the exam”.
+
+* Example: The sentence «[[se]][[n]] [[koro]] [[teka]][[n]] [[kepo]]» means “is eating at home”.
+
+Note that, since EPs always begin with a word ending in «-[[n]]», it is easy to discern the start of a new phrase.
+
+!! That's it!
+
+
 
 !! How to use this wiki
 
