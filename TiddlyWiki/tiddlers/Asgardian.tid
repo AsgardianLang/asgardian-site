@@ -1,5 +1,5 @@
 created: 20210904033032313
-modified: 20211205042204742
+modified: 20211228131533640
 tags: 
 title: Asgardian
 type: text/vnd.tiddlywiki
@@ -34,9 +34,10 @@ In linguistics terminology, this makes Asgardian a [[right-branching|https://en.
 
 !! Rule 3. Asgardian sentences are built from equations.
 
-The basic unit of an Asgardian sentence is the [[equational phrases|Equational phrase]] (or EP for short). EPs are formed by setting __one__ root on the left-hand side equal to an __expression__ on the right, which may be as simple as a single root, a compound, another EP, or an entire sentence.
+The basic unit of an Asgardian sentence is the [[equational phrase|Equational phrase]] (or EP for short). EPs are formed by setting __one__ root on the left-hand side equal to an __expression__ on the right, which may be as simple as a single root, a compound, another EP, or an entire sentence.
 
-The word starting an equational phrase takes the ending «-[[n]]», which functions much like a spoken “equals sign”. 
+The word starting an equational phrase takes the ending «-[[n]]», which functions much like a spoken “equals sign”.
+
 * Example: The phrase «[[se]][[n]] [[koro]]» translates into “action = eating”, or more simply “is eating”
 * Example: The phrase «[[teka]][[n]] [[kepo]]» translates to “location = home”, or more simply “at home”
 
