@@ -1,27 +1,26 @@
 created: 20210915212428501
-modified: 20211202050256916
+modified: 20220130044707675
 title: Aspect
 type: text/vnd.tiddlywiki
 
 [[Grammatical aspect|https://en.wikipedia.org/wiki/Grammatical_aspect]] is how an event or entity is distributed over time. Is something finished, or ongoing? Is it done and over-with, or does it continue to bear on the present? Was something formerly the case, but no longer? These situations and more can be handled with Asgardian's aspectual frame words.
 
-In the examples below, each frame word is presented in a simple phrase so that the English translation is more readily understood.
+In the examples below, each aspect word is presented in a simple phrase so that the English translation is more readily understood.
 
-''TODO: fix these''
+<!--TODO: check these-->
 
 |Asgardian|English|h
-|[[i]] [[sone]][[n]] [[se]][[n]] X|I have done X (and it's still affecting things right now)|
-|[[i]] [[osi]][[n]] [[se]][[n]] [[X]]|if I do X (something else will happen)|
-|[[i]] [[opari]] [[se]] [[na]] [[X]]|I used to do X (but not anymore)|
-|[[i]] [[nimia]] [[se]] [[na]] [[X]]|I'm back to doing X (had stopped for a bit, but am resuming)|
+|[[i]] [[sone]][[n]] [[se]][[n]] [[X]]|I have done X (and it's still affecting things right now)|
+|[[i]] [[opari]][[n]] [[se]][[n]] [[X]]|I used to do X (but not anymore)|
+|[[i]] [[kino]][[n]] [[se]][[n]] [[X]]|I would do X (if some other thing were the case)|
+|[[i]] [[ipake]][[n]] [[se]][[n]] [[X]]|I almost do X (but not quite)|
+|[[i]] [[petu]][[n]] [[se]][[n]] [[X]]|I start X|
+|[[i]] [[seri]][[n]] [[se]][[n]] [[X]]|I do X temporarily|
+|[[i]] [[kire]][[n]] [[se]][[n]] [[X]]|I pause X (temporarily)|
+|[[i]] [[nimia]][[n]] [[se]][[n]] [[X]]|I'm back to doing X (had stopped for a bit, but am resuming)|
 |~|I resume activity X|
-|[[i]] [[mure]] [[se]] [[na]] [[X]]|I therefore do X (because of something else|
-|[[i]] [[kino]] [[se]] [[na]] [[X]]|I would do X (if some other thing were the case)|
-|[[i]] [[ipake]] [[se]] [[na]] [[X]]|I almost do X (but not quite)|
-|[[i]] [[kire]] [[se]] [[na]] [[X]]|I pause X (temporarily)|
-|[[i]] [[mupisi]] [[se]] [[na]] [[X]]|I quit X (X is unfinished)|
-|[[i]] [[petu]] [[se]] [[na]] [[X]]|I start X|
-|[[i]] [[pipira]] [[se]] [[na]] [[X]]|I continue to do X|
-|[[i]] [[tekome]] [[se]] [[na]] [[X]]|It turns out that I do X|
-|[[i]] [[pami]] [[se]] [[na]] [[X]]|I already do X|
-|[[i]] [[seri]] [[se]] [[na]] [[X]]|I do X temporarily|
+|[[i]] [[pipira]][[n]] [[se]][[n]] [[X]]|I continue to do X|
+|[[i]] [[mupisi]][[n]] [[se]] [[na]] [[X]]|I quit X (X is unfinished)|
+|[[i]] [[tekome]][[n]] [[se]][[n]] [[X]]|It turns out that I do X|
+|[[i]] [[pami]][[n]] [[se]][[n]] [[X]]|I already do/did X|
+

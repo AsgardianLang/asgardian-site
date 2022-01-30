@@ -1,11 +1,16 @@
 created: 20210911210727433
-modified: 20210911210828618
+modified: 20220130043050441
 title: kasi
 type: text/vnd.tiddlywiki
 
-* {inclusive disjunction particle}
+* inclusive disjunction element
 * and/or
 
-''Usage notes''
+!Usage notes
 
-The particle ''kasi'' indicates that any or all of its arguments apply. It is similar to "and/or" in English. It is derived from a combination of [[ka]] ("and") + [[si]] ("or").
+The root ''kasi'' indicates a component of an inclusive disjunction, i.e., a companion and/or an alternative. When used as a target word with [[n]], it functions similarly to "and/or" in English. It is derived from a combination of [[ka]] ("and") + [[si]] ("or").
+
+!Examples
+
+|Asgardian|English|h
+|[[Ta|ta]] [[se]][[n]] [[miru]] [[kasi]][[n]] [[tapu]][[.|FS]]|He/she is studying and/or reading.|

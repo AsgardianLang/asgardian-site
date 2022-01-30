@@ -1,11 +1,16 @@
 created: 20210911210535920
-modified: 20210911210616296
+modified: 20220130043017487
 title: si
 type: text/vnd.tiddlywiki
 
-* {exclusive disjunction particle}
+* exclusive disjunction element
 * or (but not both)
 
-''Usage notes''
+!Usage notes
 
-The particle [[si]] is used to indicate that only one of the choices is true or existent.
+The root [[si]] is refers to a member of a disjunction, of which only one element can apply. It is like an exclusive "or" when used as a target word with [[n]].
+
+!Examples
+
+|Asgardian|English|h
+|[[I|i]] [[pika]][[n]] [[se]][[n]] [[koro]] [[si]][[n]] [[piru]][[.|FS]]|I can eat or drink (but not both).|

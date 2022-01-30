@@ -1,7 +1,7 @@
 created: 20210915211323325
-modified: 20210917224010273
+modified: 20220130045120724
 tags: 
-title: Set membership frames
+title: Set membership roots
 type: text/vnd.tiddlywiki
 
 These words are used to handle things like "only", "also", "every", "none", and so on. They give an indication as to how the truth of an event is distributed across members of a class. For example, are "only" cats mammals (exclusive membership), or are cats "also" mammals in addition to other animals (shared membership), or are cats "only mammals" and nothing else (exclusive elements).

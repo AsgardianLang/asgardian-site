@@ -1,0 +1,15 @@
+created: 20220130045419843
+modified: 20220130045556461
+title: roti
+type: text/vnd.tiddlywiki
+
+* at least one instance
+
+!Notes
+
+The root [[roti]] is used to express or assert the existence of //at least one// referent of the stated class. This is much like "there exists" in formal logic.
+
+!Examples
+
+|Asgardian|English|h
+|[[Roti|roti]] [[kia]] [[to]][[n]] [[se]][[n]] [[miru]] [[tete]][[n]] [[katu]] [[timike]][[.|FS]]|At least somebody studied for this exam.|

@@ -1,5 +1,5 @@
 created: 20210915214641250
-modified: 20211128041007116
+modified: 20220130050032998
 tags: 
 title: Relationships
 type: text/vnd.tiddlywiki
@@ -21,18 +21,9 @@ type: text/vnd.tiddlywiki
 
 These can be compounded to form more complex kinship terms:
 
-|Asgardian|Abbreviation|English|h
-|[[pasote]] [[pasote]]|[[papa]]|grandchild|
-|[[somo]] [[somo]]|[[soso]]|grandparent|
-|[[poku]] [[pasote]]|[[popa]]|niece / nephew|
-|[[somo]] [[poku]]|[[sopo]]|aunt / uncle|
-|[[somo]] [[poku]] [[pasote]]|[[sopopa]]|cousin|
-
-
-Others:
-
 |Asgardian|English|h
-|[[sairu]]|teacher / instructor|
-|[[pokia]]|student / learner|
-
-''Note: re-derive these two in terms of a root for "knowledge" or "learning"''
+|[[pasote]] [[pasote]]|grandchild|
+|[[somo]] [[somo]]|grandparent|
+|[[pasote]] [[poku]]|niece / nephew|
+|[[poku]] [[somo]]|aunt / uncle|
+|[[pasote]] [[poku]] [[somo]]|cousin|

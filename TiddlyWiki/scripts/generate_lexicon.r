@@ -23,8 +23,9 @@ tid.files %>%
   outer(c(letters), FUN = `%in%`) %>%
   apply(1, any) -> keep
 tid.files <- tid.files[keep]
-tid.files
-rm(keep)
+bad <- grepl("_", tid.files, fixed=T)
+tid.files <- tid.files[!bad]
+rm(bad, keep)
 
 # Convert filenames to list of Asgardian words
 tid.files %>%
@@ -87,7 +88,7 @@ lines <- c(
 
 for (i in 1:nrow(result)) {
   result$Asgardian[i] %>%
-    sprintf("|%s|", .) -> temp.asg
+    sprintf("|[[%s]]|", .) -> temp.asg
   result$English[i] %>% 
     strsplit("|", fixed=T) %>%
     unlist %>%

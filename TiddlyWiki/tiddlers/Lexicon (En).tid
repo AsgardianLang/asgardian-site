@@ -1,5 +1,5 @@
-created: 2021120423001400000
-modified: 2021120423001400000
+created: 2022012923023600000
+modified: 2022012923023600000
 tags: 
 title: Lexicon (En)
 type: text/vnd.tiddlywiki
@@ -7,790 +7,848 @@ type: text/vnd.tiddlywiki
 Below is a table representing the current lexicon of Asgardian.
 
 | Asgardian | English |h
-|a|topic (of a sentence)|
+|[[a]]|topic (of a sentence)|
 |~|subject (of a sentence)|
-|aha|laugh|
+|[[aha]]|laugh|
 |~|laughing|
 |~|laughter|
-|aho|salt (condiment)|
+|[[aho]]|salt (condiment)|
 |~|sodium chloride|
-|ainu|that (close to neither speaker nor listener)|
+|[[ainu]]|that (close to neither speaker nor listener)|
 |~|that (over there)|
-|aiso|fish|
-|aki|life|
+|[[aiso]]|fish|
+|[[aki]]|life|
 |~|living|
 |~|being alive|
-|akoina|pig|
+|[[akoina]]|pig|
 |~|swine|
-|akue|fire|
-|ama|motion away from referent|
+|[[akue]]|fire|
+|[[ama]]|motion away from referent|
 |~|off, away, thither|
-|ano|an|
+|[[ano]]|an|
 |~|an unspecified member of a class|
 |~|one|
 |~|some|
-|api|cause|
-|aro|lion|
-|arote|encounter|
+|[[api]]|cause|
+|[[aro]]|lion|
+|[[arote]]|encounter|
 |~|encountering|
 |~|meeting|
-|ase|shared referent|
+|[[ase]]|shared referent|
 |~|the one (we all know about)|
 |~|the|
-|ata|flight|
+|[[ata]]|flight|
 |~|flying|
-|aue|0|
+|[[aue]]|0|
 |~|zero|
-|aura|wolf|
-|ehari|fun|
+|[[auna]]|adding an item|
+|~|furnishing with something|
+|[[aura]]|wolf|
+|[[e]]|patient / object|
+|[[ehari]]|fun|
 |~|amusement|
 |~|entertainment|
-|eke|pedestal|
+|[[eke]]|pedestal|
 |~|table|
-|ema|transportation|
+|[[ema]]|transportation|
 |~|vehicle|
-|emasa|star (space)|
-|emoto|beneficiary|
+|[[emasa]]|star (space)|
+|[[emoto]]|beneficiary|
 |~|one for whom something is done|
-|epa|incoming action|
+|[[epa]]|incoming action|
 |~|what one "has done" to them|
 |~|what happens to someone|
-|esi|1|
+|[[esi]]|1|
 |~|one|
-|haki|number (in sequence)|
+|[[eue]]|worm|
+|[[haki]]|number (in sequence)|
 |~|position (in line)|
-|hana|color|
-|haru|malice|
+|[[hana]]|color|
+|[[haru]]|malice|
 |~|meanness|
-|hasa|2|
+|[[hasa]]|2|
 |~|two|
-|hatu|collection|
+|[[hatu]]|collection|
 |~|set|
 |~|unordered group|
-|hau|country|
+|[[hau]]|country|
 |~|nation-state|
 |~|state|
-|hita|dislike|
-|i|1st person singular|
+|[[hita]]|dislike|
+|[[i]]|1st person singular|
 |~|I|
 |~|me|
 |~|the speaker|
-|ihe|fairy tale|
+|[[ihe]]|fairy tale|
 |~|fantasy|
 |~|make-believe|
-|ihu|cold|
+|[[ihu]]|cold|
 |~|coldness|
-|iku|good|
+|[[iko]]|frog (animal)|
+|[[iku]]|good|
 |~|goodness|
-|imate|comfort|
+|[[imate]]|comfort|
 |~|contentment|
 |~|ease, being at ease|
 |~|satisfaction|
-|ime|-ness|
+|[[ime]]|-ness|
 |~|state of being|
-|ioni|height|
+|[[ioni]]|height|
 |~|tallness|
-|iori|donkey|
-|ipo|tree|
-|ira|experiencer (of a sensory or emotional state)|
-|iri|3|
+|[[iori]]|donkey|
+|[[ipake]]|what almost happens|
+|[[ipo]]|tree|
+|[[ira]]|experiencer (of a sensory or emotional state)|
+|[[iri]]|3|
 |~|three|
-|irio|dwelling|
+|[[irio]]|dwelling|
 |~|living (at a place)|
 |~|residence|
 |~|residing|
-|ita|information|
+|[[ita]]|information|
 |~|knowledge|
 |~|what one knows|
-|itato|city|
+|[[itato]]|city|
 |~|town|
-|itera|Mouse|
+|[[itera]]|Mouse|
 |~|Rat|
 |~|Rodent|
-|ka|conjunction|
+|[[ka]]|conjunction|
 |~|and|
 |~|also|
 |~|equal counterpart / companion|
-|kama|motion towards referent|
+|[[kahu]]|spice (food)|
+|[[kama]]|motion towards referent|
 |~|hither|
-|kane|now|
+|[[kane]]|now|
 |~|the present time|
 |~|present|
-|kanote|"getting" something|
+|[[kanote]]|"getting" something|
 |~|making sense of something|
 |~|comprehension|
 |~|understanding|
-|kape|book|
+|[[kanotu]]|missing (emotion)|
+|~|desiring the presence of something (which is no longer around)|
+|[[kape]]|book|
 |~|collection of words and illustration|
 |~|text|
-|karopo|continent|
-|karu|room|
+|[[karopo]]|continent|
+|[[karu]]|room|
 |~|specialized area of building (for some purpose)|
-|kasa|crashing sound|
+|[[kasa]]|crashing sound|
 |~|smashing sound|
-|kasi|{inclusive disjunction particle}|
+|[[kasi]]|inclusive disjunction element|
 |~|and/or|
-|kata|fashion|
+|[[kata]]|fashion|
 |~|manner in which something is done|
 |~|style|
-|katu|the current one|
+|[[katu]]|the current one|
 |~|the current instance|
 |~|this one (here/now)|
-|kaura|animal|
+|[[kaura]]|animal|
 |~|living creature|
-|kause|sorrow|
+|[[kause]]|sorrow|
 |~|regret|
-|ke|contrast|
+|[[ke]]|contrast|
 |~|concession|
 |~|but|
-|kekere|chicken|
+|[[kekere]]|chicken|
 |~|rooster|
 |~|hen|
-|keme|parasitism|
+|[[keme]]|parasitism|
 |~|mooching|
 |~|exploitation|
 |~|infestation|
-|kemi|emotion|
+|[[kemi]]|emotion|
 |~|feeling|
-|kepa|collection|
+|[[kepa]]|collection|
 |~|group|
 |~|plural|
-|keperu|strangeness|
+|[[keperu]]|strangeness|
 |~|unusualness|
 |~|weirdness|
-|kepo|home|
-|kerima|biting|
+|[[kepo]]|home|
+|[[kerima]]|biting|
 |~|gnawing|
 |~|chewing|
-|keru|fear|
+|[[keru]]|fear|
 |~|fright|
-|kesesi|culture|
+|[[kesesi]]|culture|
 |~|typical way of acting or behaving in a given society or locale|
-|ketuki|female (sex)|
-|kia|person|
+|[[ketuki]]|female (sex)|
+|[[kia]]|person|
 |~|sentient entity (includes human beings)|
-|kika|crunching sound|
-|kina|job|
+|[[kika]]|crunching sound|
+|[[kina]]|job|
 |~|function|
 |~|role (short-term)|
-|kinati|close side|
+|[[kinati]]|close side|
 |~|near side|
-|kio|bigness|
+|[[kino]]|what would be the case (if something else were true)|
+|[[kio]]|bigness|
 |~|size|
-|kipana|apple|
-|kisi|language|
+|[[kipana]]|apple|
+|[[kire]]|pause|
+|~|an action that temporarily stops|
+|[[kisi]]|language|
 |~|system of communication with speech, gesture, or writing|
-|kitate|excitement|
-|kituke|natural cause|
+|[[kitate]]|excitement|
+|[[kituke]]|natural cause|
 |~|natural force|
-|kiuki|area|
+|[[kiuki]]|area|
 |~|center for a specific task|
 |~|station|
-|ko|4|
+|[[ko]]|4|
 |~|four|
-|koke|goat|
+|[[koke]]|goat|
 |~|//Capra// (genus)|
-|koko|crow (bird)|
+|[[kokesa]]|general instance(s)|
+|[[koko]]|crow (bird)|
 |~|corvid|
-|komanu|the next one|
+|[[komanu]]|the next one|
 |~|what comes after this one|
-|komi|child|
+|[[komi]]|child|
 |~|young member of species|
-|komose|newness|
+|[[komose]]|newness|
 |~|novelty|
 |~|recentness|
-|kona|an instance?|
+|[[kona]]|an instance?|
 |~|is it an instance / thing?|
-|kopu|back|
+|[[kopu]]|back|
 |~|back side|
 |~|behind|
 |~|space behind something|
-|kopua|thick|
+|[[kopua]]|thick|
 |~|thickness|
 |~|minimum dimension (width) or diameter of an object|
-|kore|lack|
+|[[kore]]|lack|
 |~|none|
-|koro|consuming|
+|[[koro]]|consuming|
 |~|consumption|
 |~|eating (of solid food)|
 |~|ingesting|
 |~|ingestion|
-|korori|tongue (organ in mouth)|
-|kose|east|
-|kota|one Earth orbit around the sun|
+|[[korori]]|tongue (organ in mouth)|
+|[[kose]]|east|
+|[[kota]]|one Earth orbit around the sun|
 |~|year|
-|kua|what?|
+|[[kua]]|what?|
 |~|which?|
-|kuakue|duck|
-|kuho|concern|
+|[[kuakue]]|duck|
+|[[kuho]]|concern|
 |~|worry|
-|kuke|phrase|
-|kupo|root|
+|[[kuke]]|phrase|
+|[[kupo]]|root|
 |~|word|
-|kuposu|noodle(s)|
-|kura|ordered sequence (of numbers)|
+|[[kuposu]]|noodle(s)|
+|[[kura]]|ordered sequence (of numbers)|
 |~|ordered set|
-|kuro|device (electronic)|
-|kute|inside|
+|[[kuro]]|device (electronic)|
+|[[kuta]]|another instance (of the same type)|
+|~|one more|
+|[[kute]]|inside|
 |~|interior|
-|ma|reversal|
+|[[ma]]|reversal|
 |~|undoing|
-|mai|theme|
+|[[mai]]|theme|
 |~|one that undergoes an action or event, but does not change state|
-|maki|space around something|
+|[[maki]]|space around something|
 |~|surroundings|
-|makona|south|
-|maku|sadness|
+|[[makona]]|south|
+|[[maku]]|sadness|
 |~|sorrow|
-|mana|earth|
+|[[mana]]|earth|
 |~|ground|
-|mane|direction|
+|[[mane]]|direction|
 |~|heading|
 |~|orientation|
 |~|vector|
 |~|where something is pointing or going towards|
-|manu|amount|
+|[[manu]]|amount|
 |~|number|
 |~|quantity|
-|mau|material|
+|[[mau]]|material|
 |~|stuff|
 |~|substance|
 |~|what something is made out of|
-|minasi|freedom|
+|[[maumo]]|bell|
+|[[minasi]]|freedom|
 |~|lack of restraint|
-|mira|water (liquid)|
-|miru|reviewing|
+|[[mira]]|water (liquid)|
+|[[miru]]|reviewing|
 |~|revising|
 |~|studying (academic)|
-|mitapi|problem|
+|[[mitapi]]|problem|
 |~|trouble|
-|moi|also|
+|[[moi]]|also|
 |~|too|
-|moia|aid|
+|[[moia]]|aid|
 |~|assistance|
 |~|help|
-|moku|full|
+|[[moku]]|full|
 |~|fullness|
-|mora|oneself|
+|[[mora]]|oneself|
 |~|one's own|
 |~|self|
-|mote|5|
+|[[moru]]|response|
+|~|answer|
+|[[mote]]|5|
 |~|five|
-|motomoto|and others|
+|[[moti]]|strength|
+|~|strong|
+|[[motomoto]]|and others|
 |~|et cetera|
 |~|miscellaneous|
-|mu|none|
+|[[mu]]|none|
 |~|zero amount|
-|muma|cattle|
+|[[muma]]|cattle|
 |~|cow|
 |~|bovine|
 |~|bull|
-|mune|blood|
-|mupisi|quitting|
+|[[mune]]|blood|
+|[[mupisi]]|quitting|
 |~|stopping (before completion)|
-|muraku|sex (biological)|
-|murate|awkwardness|
+|[[muraku]]|sex (biological)|
+|[[murate]]|awkwardness|
 |~|embarrassment|
 |~|discomfort|
 |~|unease|
-|mure|result|
+|[[mure]]|result|
 |~|therefore|
 |~|what happens because of something else|
-|muta|excessive amount|
+|[[muta]]|excessive amount|
 |~|too much of something|
-|muto|space|
+|[[muto]]|space|
 |~|universe|
-|n|=|
+|[[n]]|=|
 |~|equational marker|
-|na|equivalent|
+|[[na]]|equivalent|
 |~|identity|
 |~|what something is|
-|nai|no|
+|[[nai]]|no|
 |~|not|
 |~|not an instance|
-|nakoro|not too much|
+|[[nakoro]]|not too much|
 |~|an amount under the limit (but in a good way)|
-|nani|affinity|
+|[[nani]]|affinity|
 |~|a liking for something|
-|napa|left (side)|
-|napesi|definition|
+|[[napa]]|left (side)|
+|[[napesi]]|definition|
 |~|meaning|
 |~|what a word means|
-|napu|impetus|
+|[[napu]]|impetus|
 |~|motivation|
 |~|past event which causes one to perform the current action|
 |~|reason|
 |~|why one does something|
-|natari|spouse (cultural or legal recognition)|
-|natopi|male (sex)|
-|ne|{subordinate equality particle}|
-|nekumo|instance|
+|[[nari]]|monster|
+|~|beast|
+|[[natari]]|spouse (cultural or legal recognition)|
+|[[nato]]|foot (body part)|
+|[[natopi]]|male (sex)|
+|[[ne]]|{subordinate equality particle}|
+|[[nekumo]]|instance|
 |~|occurrence|
 |~|repetition|
-|nena|horse|
+|[[nena]]|horse|
 |~|equine|
-|nepi|point in time|
+|[[nepi]]|point in time|
 |~|time|
 |~|when something happens|
-|neta|end|
+|[[neta]]|end|
 |~|ending|
 |~|stop|
 |~|stopping|
-|nima|I|
+|[[nima]]|I|
 |~|me|
 |~|this|
 |~|the entity currently speaking or communicating|
-|nio|6|
+|[[nimia]]|resume|
+|~|resumption|
+|~|action or state that starts back up|
+|[[nio]]|6|
 |~|six|
-|niroi|the time during something|
+|[[niroi]]|the time during something|
 |~|the time "in the middle" of something|
-|noki|space among / amidst|
+|[[noki]]|space among / amidst|
 |~|space between|
-|nota|earlier time|
+|[[nota]]|earlier time|
 |~|past|
 |~|time before now|
-|noto|length|
+|[[noto]]|length|
 |~|longness|
-|nuko|interrogative|
+|[[nuko]]|interrogative|
 |~|question|
-|nuta|eye|
-|oha|net (for catching)|
-|oho|greetings|
+|[[nuta]]|eye|
+|[[oha]]|net (for catching)|
+|[[oho]]|greetings|
 |~|hello|
-|ohou|greeting(s)|
+|[[ohou]]|greeting(s)|
 |~|hello|
-|oka|alarm|
+|[[oka]]|alarm|
 |~|alarm bell|
-|okahe|horn (of animal)|
-|okiu|Lion|
-|oko|curiosity|
+|[[okahe]]|horn (of animal)|
+|[[okare]]|what is "as if" it happens|
+|[[okiu]]|Lion|
+|[[oko]]|curiosity|
 |~|interest|
 |~|wonder|
-|oma|canine|
+|[[oma]]|canine|
 |~|dog|
-|ome|7|
+|[[ome]]|7|
 |~|seven|
-|ona|instance (of a substance)|
+|[[ona]]|instance (of a substance)|
 |~|unit|
-|onase|near past|
+|[[onase]]|near past|
 |~|what just happened|
-|opia|tortoise|
+|[[onua]]|ox (animal)|
+|[[opari]]|what used to happen|
+|~|what used to be the case|
+|[[opia]]|tortoise|
 |~|turtle|
 |~|terrapin|
-|ora|quickness|
+|[[ora]]|quickness|
 |~|speed|
 |~|swiftness|
-|ori|wideness|
+|[[orata]]|all instances (collectively)|
+|[[ori]]|wideness|
 |~|width|
-|oro|wheel|
-|osa|the aforementioned|
+|[[oro]]|wheel|
+|[[osa]]|the aforementioned|
 |~|that which was just said|
-|osi|condition|
+|[[osi]]|condition|
 |~|prerequisite|
 |~|the "if" in an "if-then" statement|
-|otesa|generosity|
+|[[otesa]]|generosity|
 |~|kindness|
-|otine|sky|
-|oto|part of a whole|
+|[[otine]]|sky|
+|[[oto]]|part of a whole|
 |~|portion|
-|pa|attribute|
+|[[pa]]|attribute|
 |~|characteristic|
 |~|quality|
-|paku|agent|
+|[[paku]]|agent|
 |~|doer|
 |~|one responsible for an action or state|
-|pakune|replacement|
+|[[pakune]]|replacement|
 |~|substitute|
-|pamai|night (opposite of day)|
-|papara|sheep|
-|papete|giving|
+|[[pamai]]|night (opposite of day)|
+|[[pami]]|what is already the case|
+|~|what already happens / happened|
+|[[papara]]|sheep|
+|[[papete]]|giving|
 |~|transferring something to someone|
-|pare|future|
+|[[pare]]|future|
 |~|what is to come|
-|pari|the act of writing|
+|[[pari]]|the act of writing|
 |~|writing|
-|paru|point along a journey|
+|[[paru]]|point along a journey|
 |~|point along which, or through which, one travels|
 |~|waypoint|
-|paruma|engine|
+|[[paruma]]|engine|
 |~|combustion engine|
-|parune|entry (in a list or collection)|
+|[[parune]]|entry (in a list or collection)|
 |~|list item|
-|pasi|causing to be seen|
+|[[pasi]]|causing to be seen|
 |~|displaying|
 |~|showing|
-|pasote|child|
+|[[pasote]]|child|
 |~|offspring|
-|pata|washing|
-|pati|north|
-|pau|great amount of something|
+|[[pata]]|washing|
+|[[pati]]|north|
+|[[pau]]|great amount of something|
 |~|large amount of something|
 |~|lot(s) of something|
 |~|many|
 |~|much|
-|peka|tooth|
-|pepa|a greater amount|
+|[[peka]]|tooth|
+|[[pepa]]|a greater amount|
 |~|more|
-|pere|controlling|
+|[[pere]]|controlling|
 |~|having control of something|
-|petu|beginning|
+|[[petu]]|beginning|
 |~|starting|
-|pika|ability|
+|[[pika]]|ability|
 |~|what one can do|
-|piki|each other|
+|[[piki]]|each other|
 |~|one another|
-|piku|condition|
+|[[piku]]|condition|
 |~|status|
-|pima|companion|
+|[[pima]]|companion|
 |~|one with whom one does something|
-|pina|the lowest amount|
+|[[pina]]|the lowest amount|
 |~|the least amount|
-|pini|entitlement|
+|[[pini]]|entitlement|
 |~|right|
 |~|what one deserves|
-|pipiua|bird|
-|pira|face (of an object)|
+|[[pipira]]|continue|
+|~|continuation|
+|~|action or state that continues|
+|~|keeping on|
+|[[pipiua]]|bird|
+|[[pira]]|face (of an object)|
 |~|side|
 |~|surface|
-|piri|electricity|
-|piru|consuming liquid|
+|[[pirau]]|splash (action / sound)|
+|[[piri]]|electricity|
+|[[piru]]|consuming liquid|
 |~|drinking|
 |~|imbibing|
-|pisa|recipient (of a transfer)|
-|pisi|insect|
-|pisoka|job|
+|[[pisa]]|recipient (of a transfer)|
+|[[pisi]]|insect|
+|[[pisoka]]|job|
 |~|position|
 |~|what one does in exchange for money|
-|pitana|requirement|
+|[[pitana]]|requirement|
 |~|need|
-|poha|illness|
+|[[poha]]|illness|
 |~|sickness|
-|poi|8|
+|[[poi]]|8|
 |~|eight|
-|poiki|spring|
-|poka|item of furniture|
+|[[poiki]]|spring|
+|[[poka]]|item of furniture|
 |~|furniture|
-|poko|catching|
+|[[poko]]|catching|
 |~|grabbing|
 |~|seizing|
-|poku|sibling|
+|[[poku]]|sibling|
 |~|brother / sister|
-|poma|companion|
+|[[poma]]|companion|
 |~|one with whom an activity is performed|
-|popoi|bouncing|
-|poreki|adjacent area to something|
+|[[popoi]]|bouncing|
+|[[poreki]]|adjacent area to something|
 |~|the side of something|
 |~|the area next to something|
-|poru|_ability|
+|[[poru]]|_ability|
 |~|what can be done //to// something|
-|posara|beyond|
+|[[posara]]|beyond|
 |~|far side|
 |~|other side|
-|pose|sleep|
+|[[pose]]|sleep|
 |~|sleeping|
-|puko|egg|
-|puni|desire|
+|[[puko]]|egg|
+|[[puni]]|desire|
 |~|want|
-|puru|elephant|
-|ramu|participant|
+|[[puru]]|elephant|
+|[[ramu]]|participant|
 |~|partaker|
-|rarara|singing|
+|[[rarara]]|singing|
 |~|"lalala" sound (as to music)|
-|rarau|barking (of a dog)|
-|re|situation|
+|[[rarau]]|barking (of a dog)|
+|[[re]]|situation|
 |~|event|
 |~|action|
 |~|state|
 |~|one's "deal"|
-|rena|exterior|
+|[[rena]]|exterior|
 |~|outside|
-|repa|plate(s)|
+|[[repa]]|plate(s)|
 |~|dish(es) (for serving)|
-|rikasu|value|
+|[[rikasu]]|value|
 |~|worth|
-|riko|friend|
-|rima|origin|
+|[[riki]]|hardness|
+|~|firmness|
+|[[riko]]|friend|
+|[[rima]]|origin|
 |~|source|
 |~|where something is from or comes from|
-|rina|ringing (as of a phone)|
-|rini|motion|
+|[[rina]]|ringing (as of a phone)|
+|[[rini]]|motion|
 |~|movement|
 |~|moving|
-|rioso|adolescent|
+|[[rioso]]|adolescent|
 |~|nascent adult|
-|rita|9|
+|[[rita]]|9|
 |~|nine|
-|rotuki|a walk|
+|[[ritau]]|burst|
+|~|explosion|
+|~|rupture|
+|[[roti]]|at least one instance|
+|[[rotuki]]|a walk|
 |~|walking|
-|ruko|anger|
-|rumu|nose|
+|[[ruko]]|anger|
+|[[rumu]]|nose|
 |~|snout|
-|sa|{forward genitive particle}|
-|sai|degree|
+|[[sa]]|{forward genitive particle}|
+|[[sai]]|degree|
 |~|extent to which something happens|
 |~|intensity|
 |~|level|
-|sako|truth|
+|[[sako]]|truth|
 |~|reality|
-|samu|patient|
+|[[samu]]|patient|
 |~|one who is affected by a state or event|
-|sano|anticipation|
+|[[sano]]|anticipation|
 |~|hope|
-|sanu|all|
+|[[sanu]]|all|
 |~|entirety|
 |~|whole thing|
-|sapa|3rd person|
+|[[sapa]]|3rd person|
 |~|The one (we're currently talking about)|
-|sapara|a surplus|
+|[[sapara]]|a surplus|
 |~|a (good) excess amount|
-|sari|day|
+|[[sari]]|day|
 |~|one cycle of light and darkness|
 |~|24 Earth hours|
-|sasa|buzzing|
-|satera|planet|
-|se|act|
+|[[sasa]]|buzzing|
+|[[satera]]|planet|
+|[[se]]|act|
 |~|action|
 |~|deed|
 |~|what one does / did / will do|
-|seki|right (side)|
-|sekuse|beverage|
+|[[seki]]|right (side)|
+|[[sekuse]]|beverage|
 |~|drink|
-|si|{exclusive disjunction particle}|
+|[[seri]]|temporary state of affairs|
+|[[si]]|exclusive disjunction element|
 |~|or (but not both)|
-|siho|plain|
+|[[siho]]|plain|
 |~|field|
-|siki|front|
+|[[siki]]|front|
 |~|front side|
 |~|space in front of something|
-|siko|air|
+|[[siko]]|air|
 |~|atmosphere|
-|simo|manner|
+|[[sima]]|pool|
+|~|pond|
+|~|small body of water|
+|[[simo]]|manner|
 |~|method|
 |~|way|
 |~|how something is done|
-|sinu|lying|
+|[[sinu]]|lying|
 |~|reclining|
-|sipa|west|
-|sireto|free-time activity|
+|[[sipa]]|west|
+|[[sipate]]|grass (plant)|
+|[[sireto]]|free-time activity|
 |~|hobby|
-|siu|destination|
+|[[siu]]|destination|
 |~|goal|
 |~|where something is going|
-|so|10|
+|[[so]]|10|
 |~|ten|
-|soka|below|
+|[[soinu]]|(an) attempt|
+|~|try|
+|~|what one tries to do|
+|[[soka]]|below|
 |~|bottom|
 |~|space below something|
 |~|under|
 |~|underside|
-|sokara|an equal amount|
+|[[sokara]]|an equal amount|
 |~|the same amount|
-|somo|parent|
+|[[somo]]|parent|
 |~|mother|
 |~|father|
-|sona|idea|
+|[[sona]]|idea|
 |~|thinking|
 |~|thought|
-|sone|things that have happened (and continue to bear on the present)|
-|soni|heaviness|
+|[[sone]]|things that have happened (and continue to bear on the present)|
+|[[soni]]|heaviness|
 |~|heavy|
 |~|weight|
-|sonu|name|
+|[[sonu]]|name|
 |~|what someone or something is called|
-|sopo|ear|
-|soru|that (by listener)|
+|[[sopo]]|ear|
+|[[soru]]|that (by listener)|
 |~|that (by you)|
-|soto|age|
+|[[soto]]|age|
 |~|how old something is|
 |~|oldness|
-|su|2nd person singular|
+|[[su]]|2nd person singular|
 |~|you|
-|supa|all|
+|[[supa]]|all|
 |~|collectively everyone|
-|surai|gratitude|
+|[[surai]]|gratitude|
 |~|thanks|
-|surena|romantic partner|
-|suruna|auditory perception|
+|[[surena]]|romantic partner|
+|[[suruna]]|auditory perception|
 |~|hearing|
-|sute|area|
+|[[sute]]|area|
 |~|region (of space)|
 |~|space|
 |~|zone (not necessarily with physical borders)|
-|sutemo|tear|
+|[[sutemo]]|tear|
 |~|rip|
-|suti|badness|
-|ta|3rd person singular|
+|[[suti]]|badness|
+|[[ta]]|3rd person singular|
 |~|he/him|
 |~|she/her|
 |~|they/them|
 |~|it|
-|tairi|bone(s)|
-|taise|memo|
+|[[tairi]]|bone(s)|
+|[[taise]]|memo|
 |~|minutes (of a meeting)|
 |~|note(s) (of a class)|
 |~|written recording|
-|take|family|
-|taki|cat(s)|
+|[[take]]|family|
+|[[taki]]|cat(s)|
 |~|feline(s)|
-|takima|garden|
+|[[takima]]|garden|
 |~|outdoor area for recreation or appreciation of nature|
 |~|park|
-|tanare|gender (social role)|
+|[[tanare]]|gender (social role)|
 |~|gender identity|
-|tapi|going|
+|[[tapi]]|going|
 |~|journey|
 |~|travel|
 |~|trip|
-|tapo|being|
+|[[tapo]]|being|
 |~|existence|
 |~|presence|
-|tapu|reading|
+|[[tapu]]|reading|
 |~|the act of reading written material|
-|tari|the same instance|
+|[[tari]]|the same instance|
 |~|the same one|
-|tarune|exception|
+|[[tarune]]|exception|
 |~|exclusion|
 |~|one that is not counted|
-|taruto|inapplicable amount|
+|[[taruto]]|inapplicable amount|
 |~|nonsensical amount|
 |~|N/A|
-|taseti|family member|
+|[[taseti]]|family member|
 |~|relation|
-|taso|celestial body|
-|tasoki|not enough|
+|[[taso]]|celestial body|
+|[[tasoki]]|not enough|
 |~|insufficient quantity|
 |~|dearth|
 |~|insufficient amount|
-|tasune|at least some|
+|[[tasune]]|at least some|
 |~|some quantity|
 |~|not none|
 |~|a non-zero amount|
-|tatuata|colloquial saying|
+|[[tatuata]]|colloquial saying|
 |~|expression|
 |~|turn of phrase|
-|tau|having|
+|[[tau]]|having|
 |~|holding|
-|tehe|baby|
+|[[tehe]]|baby|
 |~|infant|
-|teka|location|
+|[[teka]]|location|
 |~|place|
 |~|position in space|
 |~|where something is|
-|tekeri|medium amount|
+|[[tekeri]]|medium amount|
 |~|moderate amount|
-|teni|skin|
+|[[tekome]]|what turns out to be the case|
+|[[teni]]|skin|
 |~|hide|
-|tepi|greeting(s)|
+|[[tepi]]|greeting(s)|
 |~|hello|
-|tepu|flexible floor covering made of fabric, carpet, or other soft material|
+|[[tepu]]|flexible floor covering made of fabric, carpet, or other soft material|
 |~|mat|
 |~|rug|
-|tesi|beginning|
+|[[tese]]|what is likely to happen or be the case|
+|[[tesi]]|beginning|
 |~|starting|
-|teso|list|
+|[[teso]]|list|
 |~|ordered series|
-|tesoi|good status|
+|[[tesoi]]|good status|
 |~|wellness|
-|tete|focus (of a state or emotion)|
+|[[tete]]|focus (of a state or emotion)|
 |~|stimulus (of perception)|
 |~|subject (of emotion, of thought)|
 |~|topic (of emotion, of thought)|
 |~|what something is about|
-|teto|example|
+|[[teto]]|example|
 |~|instance|
-|tetu|few|
+|[[tetu]]|few|
 |~|little amount|
 |~|small amount|
-|teu|heat|
+|[[teu]]|heat|
 |~|hotness|
 |~|warmness|
-|tiko|any instance|
+|[[tiko]]|any instance|
 |~|whichever instance|
-|timike|evaluation|
+|[[timike]]|evaluation|
 |~|exam|
 |~|test (academic)|
-|tinamo|baseline|
+|[[tinamo]]|baseline|
 |~|item for comparison|
 |~|referent|
-|tipa|the near future|
+|[[tipa]]|the near future|
 |~|what is about to happen|
-|tira|joy|
+|[[tira]]|joy|
 |~|happiness|
-|tisa|that which is about to be said|
+|[[tisa]]|that which is about to be said|
 |~|the following|
-|tisi|bee (animal)|
-|titui|floor|
+|[[tisi]]|bee (animal)|
+|[[titui]]|floor|
 |~|level (of a building)|
 |~|story / storey|
-|toio|stone|
+|[[to]]|past|
+|~|what was|
+|~|what happened|
+|[[toio]]|stone|
 |~|rock|
-|toka|building (for living or working in)|
+|[[toka]]|building (for living or working in)|
 |~|structure|
-|toko|being seated|
+|[[toko]]|being seated|
 |~|sitting|
-|topa|marker|
+|[[topa]]|marker|
 |~|pen|
 |~|pencil|
 |~|writing implement|
-|tope|instrument|
+|[[tope]]|instrument|
 |~|tool|
 |~|with what one does something|
-|tore|item|
+|[[tore]]|item|
 |~|(physical) object|
 |~|thing|
-|tosa|hand|
-|tosora|the greatest amount|
+|[[tosa]]|hand|
+|[[tosora]]|the greatest amount|
 |~|the most|
-|tota|you|
+|[[tota]]|you|
 |~|the entity currently being spoken or written to|
-|totaki|making|
+|[[totaki]]|making|
 |~|crafting|
 |~|creating|
-|toto|for what purpose something occurs|
+|[[toto]]|for what purpose something occurs|
 |~|goal|
 |~|intention|
 |~|purpose|
 |~|reason|
 |~|why something is happening|
-|tu|modifier|
+|[[tu]]|modifier|
 |~|attribute, relative clause, adjective, property|
 |~|such that|
-|tui|the previous one|
+|[[tui]]|the previous one|
 |~|what came before this one|
-|tuka|standing (being in a standing position)|
-|tuki|bin|
+|[[tuka]]|standing (being in a standing position)|
+|[[tuki]]|bin|
 |~|box|
 |~|rigid container|
-|tumuse|adult|
+|[[tumuse]]|adult|
 |~|fully-grown member of species|
-|tune|sufficient amount|
+|[[tune]]|sufficient amount|
 |~|enough|
 |~|satisfactory amount|
-|tupa|absence|
+|[[tupa]]|absence|
 |~|missingness|
 |~|unexpected absence|
-|turai|100|
+|[[turai]]|100|
 |~|hundred|
-|turi|food|
+|[[turi]]|food|
 |~|meal(s)|
-|turo|each|
+|[[turo]]|each|
 |~|every|
-|tusapo|collegiality|
+|[[tusapo]]|collegiality|
 |~|fair treatment|
 |~|respect|
-|tusimo|province|
+|[[tusimo]]|province|
 |~|state|
 |~|sub-national-level division|
-|tuso|root (of a plant)|
-|uale|large number set|
-|uku|pigeon|
+|[[tuso]]|root (of a plant)|
+|[[uale]]|large number set|
+|[[uku]]|pigeon|
 |~|dove|
-|ukute|a lesser / lower amount|
+|[[ukute]]|a lesser / lower amount|
 |~|less|
 |~|fewer|
-|ura|Above|
+|[[ura]]|Above|
 |~|Over|
 |~|Top|
-|utai|obligation|
+|[[usu]]|even an instance|
+|[[utai]]|obligation|
 |~|something that should happen|
 |~|something that is supposed to / expected to happen|

@@ -1,0 +1,10 @@
+created: 20220130043540059
+modified: 20220130043738039
+tags: 
+title: If-then statements
+type: text/vnd.tiddlywiki
+
+In Asgardian, if-then statements can be formed with the roots [[osi]] ("condition") and [[mure]] ("result"). When these roots are used as targets in an [[Equational phrase]], whatever follows them corresponds to the "if" or "then" of a conditional statement.
+
+|Asgardian|English|h
+|[[Osi|osi]][[n]] [[timike]] [[nepi]][[n]] [[komanu]] [[sari]], [[mure]][[n]] [[su]] [[utai]][[n]] [[se]][[n]] [[miru]] [[nepi]][[n]] [[katu]] [[sari]][[.|FS]]|If the test is tomorrow, you should study today.|

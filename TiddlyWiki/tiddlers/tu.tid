@@ -1,5 +1,5 @@
 created: 20210911205343571
-modified: 20211202061406478
+modified: 20220130050945519
 title: tu
 type: text/vnd.tiddlywiki
 
@@ -12,10 +12,11 @@ type: text/vnd.tiddlywiki
 The root «[[tu]]» is used with «-[[n]]» to form an Equational Phrase allowing a complex modifier to act on another, previous phrase. It can be used to form relative clauses or to disambiguate long compound chains.
 
 |Asgardian|English|h
-|A [[tu]][[n]] B|A of B|
+|A __[[tu]][[n]]__ B|A of B|
 |~|A associated in some way with B|
 |[[kia]] __[[tu]][[n]]__ [[pau]] [[tira]]|a very happy person|
 |~|a person __of__ a great amount //of// happiness|
+|[[kia]] __[[tu]][[n]]__ [[se]][[n]] [[miru]]|a person who is studying|
 |[[turi]] __[[tu]][[n]]__ [[katu]] [[hau]]|food __of/from__ this country|
 |[[kape]] [[kisi]] __[[tu]][[n]]__ [[i]]|(book //of// language) __of/owned by__ me|
 |~|my language-book|
