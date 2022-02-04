@@ -1,20 +1,20 @@
 created: 20211124214508036
-modified: 20211124231605633
+modified: 20220204033316779
 title: Indicating events
 type: text/vnd.tiddlywiki
 
 One of the most important roots in Asgardian is [[re]], which translates as "action", "event", or "situation". It is used to express what is happening, and can be equated to a noun root that represents the event or state under discussion. Like in some terrestrial languages, subjects, objects, and indirect objects can be left out if context is sufficient.
 
-For example, consider the equation [[re]] [[na]] [[rotuki]].
+For example, consider the equational phrase [[re]][[n]]  [[rotuki]].
 
-|!Asgardian| [[re]] | [[na]] | [[rotuki]] |
-|!English| event | = | walking|
-|~|>|>| walking is happening |
+|!Asgardian| [[re]][[n]] | [[rotuki]] |
+|!English| event = | walking |
+|~|>| walking is happening |
 
 Depending on context, this could be interpreted as any of the following:
 
 | Asgardian | English |h
-|[[Re|re]] [[na]] [[rotuki]].|I am walking.|
+|[[Re|re]][[n]] [[rotuki]].|I am walking.|
 |~|You are walking.|
 |~|He/she is walking.|
 |~|They (sg.) are walking.|
@@ -25,7 +25,7 @@ Depending on context, this could be interpreted as any of the following:
 If spoken with a rising intonation, it can be interpreted as a question. Since questions are typically asked about //other// people and not the speaker, the interpretation "am I walking?" would not be at the forefront of most listeners' minds, but it is possible.
 
 | Asgardian | English |h
-|[[Re|re]] [[na]] [[rotuki]]?|Are you walking?|
+|[[Re|re]][[n]] [[rotuki]]?|Are you walking?|
 |~|Is he/she walking?|
 |~|Are they (sg.) walking?|
 | ⋮ | ⋮ |
