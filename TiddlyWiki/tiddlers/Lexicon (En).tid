@@ -1,5 +1,5 @@
-created: 2022012923023600000
-modified: 2022012923023600000
+created: 2022020412512200000
+modified: 2022020412512200000
 tags: 
 title: Lexicon (En)
 type: text/vnd.tiddlywiki
@@ -58,6 +58,9 @@ Below is a table representing the current lexicon of Asgardian.
 |[[epa]]|incoming action|
 |~|what one "has done" to them|
 |~|what happens to someone|
+|[[eroi]]|timespan|
+|~|duration of something|
+|~|how long something lasts|
 |[[esi]]|1|
 |~|one|
 |[[eue]]|worm|
@@ -75,6 +78,8 @@ Below is a table representing the current lexicon of Asgardian.
 |~|nation-state|
 |~|state|
 |[[hita]]|dislike|
+|[[hua]]|blue|
+|~|the color blue|
 |[[i]]|1st person singular|
 |~|I|
 |~|me|
@@ -93,6 +98,8 @@ Below is a table representing the current lexicon of Asgardian.
 |~|satisfaction|
 |[[ime]]|-ness|
 |~|state of being|
+|[[imua]]|white|
+|~|the color white|
 |[[ioni]]|height|
 |~|tallness|
 |[[iori]]|donkey|
@@ -200,6 +207,7 @@ Below is a table representing the current lexicon of Asgardian.
 |~|station|
 |[[ko]]|4|
 |~|four|
+|[[koiko]]|summer, the season|
 |[[koke]]|goat|
 |~|//Capra// (genus)|
 |[[kokesa]]|general instance(s)|
@@ -280,8 +288,8 @@ Below is a table representing the current lexicon of Asgardian.
 |~|studying (academic)|
 |[[mitapi]]|problem|
 |~|trouble|
-|[[moi]]|also|
-|~|too|
+|[[moi]]|what is also the case|
+|~|also an instance|
 |[[moia]]|aid|
 |~|assistance|
 |~|help|
@@ -292,6 +300,8 @@ Below is a table representing the current lexicon of Asgardian.
 |~|self|
 |[[moru]]|response|
 |~|answer|
+|[[motau]]|red|
+|~|the color red|
 |[[mote]]|5|
 |~|five|
 |[[moti]]|strength|
@@ -393,6 +403,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[oko]]|curiosity|
 |~|interest|
 |~|wonder|
+|[[oku]]|approximation|
+|~|something like or near something else|
 |[[oma]]|canine|
 |~|dog|
 |[[ome]]|7|
@@ -424,6 +436,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[otine]]|sky|
 |[[oto]]|part of a whole|
 |~|portion|
+|[[otusu]]|black|
+|~|the color black|
 |[[pa]]|attribute|
 |~|characteristic|
 |~|quality|
@@ -627,6 +641,8 @@ Below is a table representing the current lexicon of Asgardian.
 |~|where something is going|
 |[[so]]|10|
 |~|ten|
+|[[soi]]|green|
+|~|the color green|
 |[[soinu]]|(an) attempt|
 |~|try|
 |~|what one tries to do|

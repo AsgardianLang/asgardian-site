@@ -23,6 +23,7 @@ ema
 emasa
 emoto
 epa
+eroi
 esi
 eue
 haki
@@ -32,6 +33,7 @@ hasa
 hatu
 hau
 hita
+hua
 i
 ihe
 ihu
@@ -39,6 +41,7 @@ iko
 iku
 imate
 ime
+imua
 ioni
 iori
 ipake
@@ -88,6 +91,7 @@ kitate
 kituke
 kiuki
 ko
+koiko
 koke
 kokesa
 koko
@@ -131,6 +135,7 @@ moia
 moku
 mora
 moru
+motau
 mote
 moti
 motomoto
@@ -177,6 +182,7 @@ okahe
 okare
 okiu
 oko
+oku
 oma
 ome
 ona
@@ -193,6 +199,7 @@ osi
 otesa
 otine
 oto
+otusu
 pa
 paku
 pakune
@@ -291,6 +298,7 @@ sipate
 sireto
 siu
 so
+soi
 soinu
 soka
 sokara
