@@ -1,5 +1,5 @@
-created: 2022020412512200000
-modified: 2022020412512200000
+created: 2022020615001300000
+modified: 2022020615001300000
 tags: 
 title: Lexicon (En)
 type: text/vnd.tiddlywiki
@@ -17,6 +17,7 @@ Below is a table representing the current lexicon of Asgardian.
 |[[ainu]]|that (close to neither speaker nor listener)|
 |~|that (over there)|
 |[[aiso]]|fish|
+|[[aitane]]|fall, the season|
 |[[aki]]|life|
 |~|living|
 |~|being alive|
@@ -41,6 +42,9 @@ Below is a table representing the current lexicon of Asgardian.
 |~|flying|
 |[[aue]]|0|
 |~|zero|
+|[[aukiho]]|a gathering of things|
+|~|collection of objects or people|
+|~|assembly of objects or individuals|
 |[[auna]]|adding an item|
 |~|furnishing with something|
 |[[aura]]|wolf|
@@ -112,6 +116,7 @@ Below is a table representing the current lexicon of Asgardian.
 |~|living (at a place)|
 |~|residence|
 |~|residing|
+|[[iseu]]|winter, the season|
 |[[ita]]|information|
 |~|knowledge|
 |~|what one knows|
@@ -369,6 +374,7 @@ Below is a table representing the current lexicon of Asgardian.
 |~|ending|
 |~|stop|
 |~|stopping|
+|[[netiri]]|spring, the season|
 |[[nima]]|I|
 |~|me|
 |~|this|
@@ -391,6 +397,8 @@ Below is a table representing the current lexicon of Asgardian.
 |~|question|
 |[[nuta]]|eye|
 |[[oha]]|net (for catching)|
+|[[ohaku]]|preparation|
+|~|readiness to do something|
 |[[oho]]|greetings|
 |~|hello|
 |[[ohou]]|greeting(s)|
@@ -441,6 +449,9 @@ Below is a table representing the current lexicon of Asgardian.
 |[[pa]]|attribute|
 |~|characteristic|
 |~|quality|
+|[[pakeo]]|sight|
+|~|observation|
+|~|something one observes or notices|
 |[[paku]]|agent|
 |~|doer|
 |~|one responsible for an action or state|
@@ -868,3 +879,5 @@ Below is a table representing the current lexicon of Asgardian.
 |[[utai]]|obligation|
 |~|something that should happen|
 |~|something that is supposed to / expected to happen|
+|[[utunaki]]|scientist|
+|~|one who's profession is science|
