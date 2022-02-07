@@ -1,8 +1,10 @@
 created: 20210913001421875
-modified: 20210913001428988
+modified: 20220207012956172
 tags: 
 title: teso
 type: text/vnd.tiddlywiki
 
 * list
 * ordered series
+* ordered sequence (of numbers)
+* ordered set

@@ -1,8 +1,16 @@
 created: 20210913000403777
-modified: 20210913000419838
+modified: 20220207013444985
 tags: 
 title: haki
 type: text/vnd.tiddlywiki
 
 * number (in sequence)
 * position (in line)
+* order
+* ordinal
+
+!Examples
+
+|!Asgardian| [[haki]] |  [[esi]] |
+|!English| number | one |
+|~|>| first |
