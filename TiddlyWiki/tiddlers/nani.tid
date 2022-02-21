@@ -1,8 +1,16 @@
 created: 20210913012903213
-modified: 20210913012927200
+modified: 20220221005841330
 tags: 
 title: nani
 type: text/vnd.tiddlywiki
 
-* affinity
-* a liking for something
+*affinity
+*a liking for something
+*like
+
+!Example
+
+| !Asgardian | [[I|i]] | [[kemi]][[n]] | [[nani]] | [[tete]][[n]] | [[X]] |
+| !English | I | emotion = | affinity | topic = | X |
+|~| As for me |>| affinity is felt |>| about X |
+|~|>|>|>|>| I like X |
