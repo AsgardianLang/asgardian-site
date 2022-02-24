@@ -62,6 +62,7 @@ irapu
 iri
 irio
 iseu
+isi
 ita
 itato
 itera
@@ -425,6 +426,7 @@ tuso
 uale
 uku
 ukute
+uno
 ura
 usu
 utai
