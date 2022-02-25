@@ -1,5 +1,5 @@
-created: 2022022319122600000
-modified: 2022022319122600000
+created: 2022022423261200000
+modified: 2022022423261200000
 tags: 
 title: Lexicon (En)
 type: text/vnd.tiddlywiki
@@ -61,6 +61,7 @@ Below is a table representing the current lexicon of Asgardian.
 |[[emoto]]|beneficiary|
 |~|one for whom something is done|
 |[[ene]]|rain|
+|[[enimoto]]|civilization|
 |[[epa]]|incoming action|
 |~|what one "has done" to them|
 |~|what happens to someone|
@@ -77,6 +78,8 @@ Below is a table representing the current lexicon of Asgardian.
 |~|order|
 |~|ordinal|
 |[[hana]]|color|
+|[[hanisu]]|rocket|
+|~|cylindrical projectile propelled by the combustion of its contents|
 |[[haru]]|malice|
 |~|meanness|
 |[[hasa]]|2|
@@ -89,11 +92,15 @@ Below is a table representing the current lexicon of Asgardian.
 |[[hau]]|country|
 |~|nation-state|
 |~|state|
+|[[hirupe]]|forest|
+|~|group of trees|
 |[[hita]]|dislike|
 |[[homata]]|lightning|
 |[[hua]]|blue|
 |~|the color blue|
 |[[hukuta]]|mixture|
+|[[hura]]|distance|
+|~|measure of space between points|
 |[[i]]|1st person singular|
 |~|I|
 |~|me|
@@ -262,6 +269,8 @@ Below is a table representing the current lexicon of Asgardian.
 |~|ingestion|
 |[[korori]]|tongue (organ in mouth)|
 |[[kose]]|east|
+|[[kosi]]|distant|
+|~|far|
 |[[kota]]|one Earth orbit around the sun|
 |~|year|
 |[[kua]]|what?|
@@ -307,6 +316,9 @@ Below is a table representing the current lexicon of Asgardian.
 |~|what something is made out of|
 |[[maumo]]|bell|
 |[[mehama]]|weather|
+|[[mehu]]|growth|
+|~|growing|
+|~|increasing in size or age|
 |[[meka]]|head (body part)|
 |[[minasi]]|freedom|
 |~|lack of restraint|
@@ -357,6 +369,7 @@ Below is a table representing the current lexicon of Asgardian.
 |[[mure]]|result|
 |~|therefore|
 |~|what happens because of something else|
+|~|consequence|
 |[[muta]]|excessive amount|
 |~|too much of something|
 |[[muto]]|space|
@@ -403,6 +416,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[nepi]]|point in time|
 |~|time|
 |~|when something happens|
+|[[neromi]]|completeness (of an action or task)|
+|~|finishing|
 |[[neta]]|end|
 |~|ending|
 |~|stop|
@@ -466,12 +481,18 @@ Below is a table representing the current lexicon of Asgardian.
 |~|speed|
 |~|swiftness|
 |[[orata]]|all instances (collectively)|
+|[[orepa]]|astronaut|
+|~|cosmonaut|
+|~|one who travels to or through space|
 |[[ori]]|wideness|
 |~|width|
 |[[oro]]|wheel|
 |[[ororo]]|fullness|
+|[[oru]]|crushing|
+|~|compression|
 |[[osa]]|the aforementioned|
 |~|that which was just said|
+|~|that which was said just before|
 |[[osi]]|condition|
 |~|prerequisite|
 |~|the "if" in an "if-then" statement|
@@ -596,6 +617,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[puni]]|desire|
 |~|want|
 |[[puru]]|elephant|
+|[[rakiroto]]|memory(ies)|
+|~|thing(s) one remembers|
 |[[ramu]]|participant|
 |~|partaker|
 |[[rarara]]|singing|
@@ -924,7 +947,7 @@ Below is a table representing the current lexicon of Asgardian.
 |~|fewer|
 |[[uno]]|cup|
 |~|glass|
-|~|vessel used to drink from|
+|~|vessel used for drinking|
 |[[ura]]|Above|
 |~|Over|
 |~|Top|

@@ -26,6 +26,7 @@ ema
 emasa
 emoto
 ene
+enimoto
 epa
 eroi
 esi
@@ -33,16 +34,19 @@ etio
 eue
 haki
 hana
+hanisu
 haru
 hasa
 hasu
 hato
 hatu
 hau
+hirupe
 hita
 homata
 hua
 hukuta
+hura
 i
 ihe
 ihu
@@ -120,6 +124,7 @@ kore
 koro
 korori
 kose
+kosi
 kota
 kua
 kuakue
@@ -143,6 +148,7 @@ manu
 mau
 maumo
 mehama
+mehu
 meka
 minasi
 mio
@@ -186,6 +192,7 @@ nekumo
 nena
 neno
 nepi
+neromi
 neta
 neti
 netiri
@@ -218,9 +225,11 @@ opia
 opu
 ora
 orata
+orepa
 ori
 oro
 ororo
+oru
 osa
 osi
 otesa
@@ -284,6 +293,7 @@ pose
 puko
 puni
 puru
+rakiroto
 ramu
 rarara
 rarau
