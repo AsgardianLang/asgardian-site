@@ -1,9 +1,25 @@
 created: 20210913000256990
-modified: 20210913000307030
+modified: 20220225184513874
 tags: 
 title: pasi
 type: text/vnd.tiddlywiki
 
-* causing to be seen
-* displaying
-* showing
+* causing to happen
+* causation
+* making happen
+
+!Usage notes
+
+The root [[pasi]] can be used for causatives. For example:
+
+|!Asgardian| [[i]] | [[se]][[n]] | [[pasi]] | [[X]] |
+|!English| me | action= | causing | X |
+|~| I |>| cause/make | X (to happen) |
+|~|>|>|>| I cause X |
+
+The root [[tisa]] is useful if the thing being caused is a complex phrase or sentence.
+
+|!Asgardian| [[ta]] | [[to]][[n]] | [[se]][[n]] | [[pasi]] | [[tisa]][[,|CO]] | [[i]] | [[se]][[n]] | [[miru]] |
+|!English| he/she/they | past-event= | action= | causing | the-following | me | action= | studying |
+|~| he/she/they |>|>| caused/made | the following: | I | do | studying |
+|~|>|>|>|>|>|>|>| He/she/they made me study |
