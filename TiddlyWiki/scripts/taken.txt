@@ -8,11 +8,13 @@ aki
 akoina
 akue
 ama
+amenu
 ano
 api
 arepi
 aro
 arote
+asapa
 ase
 ata
 aue
@@ -126,6 +128,7 @@ korori
 kose
 kosi
 kota
+ku
 kua
 kuakue
 kuho
@@ -154,6 +157,7 @@ minasi
 mio
 mira
 miru
+misa
 mitapi
 miuko
 moi
@@ -205,6 +209,7 @@ nota
 noto
 nuko
 nuta
+o
 oha
 ohaku
 oho
@@ -309,6 +314,7 @@ rini
 rioso
 rita
 ritau
+ronina
 roti
 rotuki
 rui
@@ -435,6 +441,7 @@ tusapo
 tusimo
 tuso
 uale
+uaseku
 uku
 ukute
 uno

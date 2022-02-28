@@ -1,5 +1,5 @@
-created: 2022022620002300000
-modified: 2022022620002300000
+created: 2022022719412800000
+modified: 2022022719412800000
 tags: 
 title: Lexicon (En)
 type: text/vnd.tiddlywiki
@@ -26,6 +26,9 @@ Below is a table representing the current lexicon of Asgardian.
 |[[akue]]|fire|
 |[[ama]]|motion away from referent|
 |~|off, away, thither|
+|[[amenu]]|crystal|
+|~|gem|
+|~|precious stone|
 |[[ano]]|an|
 |~|an unspecified member of a class|
 |~|one|
@@ -36,6 +39,7 @@ Below is a table representing the current lexicon of Asgardian.
 |[[arote]]|encounter|
 |~|encountering|
 |~|meeting|
+|[[asapa]]|wave, as in the ocean|
 |[[ase]]|shared referent|
 |~|the one (we all know about)|
 |~|the|
@@ -64,7 +68,7 @@ Below is a table representing the current lexicon of Asgardian.
 |[[enimoto]]|civilization|
 |[[epa]]|incoming action|
 |~|what one "has done" to them|
-|~|what happens to someone|
+|~|what happens to something or someone|
 |[[eroi]]|timespan|
 |~|duration of something|
 |~|how long something lasts|
@@ -92,8 +96,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[hau]]|country|
 |~|nation-state|
 |~|state|
-|[[hirupe]]|forest|
-|~|group of trees|
+|[[hirupe]]|natural grouping|
+|~|gestalt|
 |[[hita]]|dislike|
 |[[homata]]|lightning|
 |[[hua]]|blue|
@@ -262,17 +266,17 @@ Below is a table representing the current lexicon of Asgardian.
 |~|minimum dimension (width) or diameter of an object|
 |[[kore]]|lack|
 |~|none|
-|[[koro]]|consuming|
-|~|consumption|
-|~|eating (of solid food)|
-|~|ingesting|
-|~|ingestion|
+|[[koro]]|act of consuming|
+|~|act of consumption|
+|~|act of eating (of solid food)|
+|~|act of ingesting|
+|~|act of ingestion|
 |[[korori]]|tongue (organ in mouth)|
 |[[kose]]|east|
-|[[kosi]]|distant|
-|~|far|
+|[[kosi]]|metaphorical distance|
 |[[kota]]|one Earth orbit around the sun|
 |~|year|
+|[[ku]]|relative pronoun|
 |[[kua]]|what?|
 |~|which?|
 |[[kuakue]]|duck|
@@ -327,6 +331,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[miru]]|reviewing|
 |~|revising|
 |~|studying (academic)|
+|[[misa]]|repetition|
+|~|repeat|
 |[[mitapi]]|problem|
 |~|trouble|
 |[[miuko]]|thousand|
@@ -407,7 +413,6 @@ Below is a table representing the current lexicon of Asgardian.
 |[[ne]]|{subordinate equality particle}|
 |[[nekumo]]|instance|
 |~|occurrence|
-|~|repetition|
 |[[nena]]|horse|
 |~|equine|
 |[[neno]]|dryness|
@@ -445,6 +450,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[nuko]]|interrogative|
 |~|question|
 |[[nuta]]|eye|
+|[[o]]|command|
+|~|imperative|
 |[[oha]]|net (for catching)|
 |[[ohaku]]|preparation|
 |~|readiness to do something|
@@ -481,9 +488,7 @@ Below is a table representing the current lexicon of Asgardian.
 |~|speed|
 |~|swiftness|
 |[[orata]]|all instances (collectively)|
-|[[orepa]]|astronaut|
-|~|cosmonaut|
-|~|one who travels to or through space|
+|[[orepa]]|exploration|
 |[[ori]]|wideness|
 |~|width|
 |[[oro]]|wheel|
@@ -652,6 +657,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[ritau]]|burst|
 |~|explosion|
 |~|rupture|
+|[[ronina]]|number of iterations|
+|~|how many times something happens|
 |[[roti]]|at least one instance|
 |[[rotuki]]|a walk|
 |~|walking|
@@ -942,6 +949,8 @@ Below is a table representing the current lexicon of Asgardian.
 |~|sub-national-level division|
 |[[tuso]]|root (of a plant)|
 |[[uale]]|large number set|
+|[[uaseku]]|island|
+|~|isle|
 |[[uku]]|pigeon|
 |~|dove|
 |[[ukute]]|a lesser / lower amount|
