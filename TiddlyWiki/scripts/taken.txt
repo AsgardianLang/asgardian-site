@@ -9,8 +9,11 @@ akoina
 akue
 ama
 amenu
+ani
 ano
+apako
 api
+arane
 arepi
 aro
 arote
@@ -43,6 +46,7 @@ hasu
 hato
 hatu
 hau
+heni
 hirupe
 hita
 homata
@@ -59,6 +63,7 @@ ime
 imona
 imua
 inupu
+inure
 ioni
 iori
 ipake
@@ -204,6 +209,7 @@ nima
 nimia
 nio
 niroi
+nisa
 noki
 nota
 noto
@@ -224,6 +230,7 @@ oma
 ome
 ona
 onase
+onau
 onua
 opari
 opia
@@ -266,6 +273,7 @@ pepa
 pere
 petiki
 petu
+pihoi
 pika
 piki
 piku
@@ -324,8 +332,10 @@ rupo
 ruposi
 sa
 sai
+saiu
 sako
 samu
+sana
 sano
 sanu
 sapa
@@ -438,9 +448,10 @@ turai
 turi
 turo
 tusapo
+tusauka
 tusimo
 tuso
-uale
+uare
 uaseku
 uku
 ukute
