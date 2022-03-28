@@ -1,11 +1,11 @@
 created: 20211202062930088
-modified: 20220327235522965
+modified: 20220328013649065
 title: Pronunciation exercises
 type: text/vnd.tiddlywiki
 
 For practice, read the following words out loud, using the Asgardian rules for pronunciation.
 
-!!Single syllable words
+!!One-syllable words
 
 |Asgardian| @@display:block;width:20em;Pronunciation@@ |h
 | [[su]]  | {{su.ogg}} |
@@ -13,7 +13,7 @@ For practice, read the following words out loud, using the Asgardian rules for p
 | [[kia]] | {{kia.ogg}} |
 | [[se]] | {{se.ogg}} |
 
-!!Two syllable words
+!!Two-syllable words
 
 |Asgardian| @@display:block;width:20em;Pronunciation@@ |h
 | [[teka]] | {{teka.ogg}} |
@@ -25,7 +25,7 @@ For practice, read the following words out loud, using the Asgardian rules for p
 | [[siu]] | {{siu.ogg}} |
 | [[turi]] | {{turi.ogg}} |
 
-!!Three syllable words
+!!Three-syllable words
 
 |Asgardian| @@display:block;width:20em;Pronunciation@@ |h
 | [[ehari]] | {{ehari.ogg}} |

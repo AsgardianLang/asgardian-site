@@ -1,5 +1,5 @@
 created: 20210904033032313
-modified: 20211228131533640
+modified: 20220328013503459
 tags: 
 title: Asgardian
 type: text/vnd.tiddlywiki
@@ -7,113 +7,17 @@ type: text/vnd.tiddlywiki
 <center>[img[noodlecat_wiki2.png]]<br/>[[Taki|taki]] [[Kuposu|kuposu]] - Noodle Cat, our mascot</center>
 <center>(Image credit: [[AppiDraws|https://www.appidraws.com/]])</center>
 
-! Introduction
 Asgardian is an experimental (and expandable) constructed language using noun-based equational grammar, and is built according to a set of defined [[principles|Principles of Asgardian]]. We hope it will provide a means by which Asgardians can express themselves and build a shared culture, free of the ties to accidents of Earth’s history, while cultivating a unique, spacefaring identity in an easy-to-use medium, and that every sentence crafted in Asgardian brings its speakers one step closer to their goal a unified humanity. [[OHOU|ohou]][[!|EM]]
 
 Asgardian grammar can be explained (or derived from) a handful of rules.
 
-!! Rule 1. All root words are nouns.
+# [[Rule 1 - All root words are nouns|Rule 1]]
+# [[Rule 2 - Later words modify earlier words|Rule 2]]
+# [[Rule 3 - Sentences are built from equations|Rule 3]]
+# [[Rule 4 - Later phrases modify earlier phrases|Rule 4]]
 
-Roots can refer to singular or plural entities without any change. Articles are not necessary. Roots do not have any inherent gender (grammatical or otherwise).
+That's it!
 
-* Example: The word «[[taki]]» means “cat” or “cats”.
-* Example: The word «[[kuposu]]» means “noodle” or “noodles”.
+After learning [[how to use this wiki|How to use the Asgardian wiki]], feel free to browse our [[Frequently Asked Questions]], or  [[join our Discord server|https://discord.gg/Kj6rXggtXE]] and jump in! We have channels for discussing writing system ideas, new roots, practicing the language, and more.
 
-Nouns are generally easier to learn than verbs^^[[[References]|Why nouns?]]^^, and form an [[open class|https://en.wikipedia.org/wiki/Part_of_speech#Open_and_closed_classes]] for expansion and creative compounding (see Rule 2).
-
-!! Rule 2. In sequences of root words, later ones modify earlier ones.
-
-A phrase like «A B» in Asgardian describes a type of “A” that is //of//, //for//, //characterized by//, or //somehow associated with// “B”, with the exact nature of the association being left up to context and world-knowledge, unless further specified. 
-
-* Example: The phrase «[[taki]] [[kuposu]]» translates as “cat //of// noodle(s)”, or “Noodle Cat” for short.
-* Example: The phrase «[[repa]] [[turi]] [[taki]]» translates as “plate //of// food //of// cat(s)”, or “cat food plate” / “(a) plate of cat food” for short.
-
-A good rule of thumb is that Asgardian phrases like «A B C ⋯» can be translated into English as “A //of// B //of// C //of // ⋯” (the //of// is italicized to show that it's not needed in Asgardian, but it helps in the English translation).
-
-In linguistics terminology, this makes Asgardian a [[right-branching|https://en.wikipedia.org/wiki/Branching_(linguistics)]] language.
-
-!! Rule 3. Asgardian sentences are built from equations.
-
-The basic unit of an Asgardian sentence is the [[equational phrase|Equational phrase]] (or EP for short). EPs are formed by setting __one__ root on the left-hand side equal to an __expression__ on the right, which may be as simple as a single root, a compound, another EP, or an entire sentence.
-
-The word starting an equational phrase takes the ending «-[[n]]», which functions much like a spoken “equals sign”.
-
-* Example: The phrase «[[se]][[n]] [[koro]]» translates into “action = eating”, or more simply “is eating”
-* Example: The phrase «[[teka]][[n]] [[kepo]]» translates to “location = home”, or more simply “at home”
-
-A good rule of thumb is that Asgardian phrases like «A[[n]] (stuff)» can be translated as “A equals (stuff)” or “A being (stuff)”.
-
-!! Rule 4. In sequences of equations, later ones modify earlier material.
-
-When constructing an Asgardian sentence, speakers can add detail by introducing additional equational phrases, which can function much like adverbs, prepositional phrases, or other [[adjuncts|https://en.wikipedia.org/wiki/Adjunct_(grammar)]]. This is quite similar to English in sentences like “I'm studying (1) at home (2) today (3) for the exam”.
-
-* Example: The sentence «[[se]][[n]] [[koro]] [[teka]][[n]] [[kepo]]» means “is eating at home”.
-
-Note that, since EPs always begin with a word ending in «-[[n]]», it is easy to discern the start of a new phrase.
-
-!! That's it!
-
-
-
-!! How to use this wiki
-
-* This wiki serves as the central repository for all information on the Asgardian language, including word lists, grammar, examples, and a digital textbook.
-* The wiki also includes the official lexicon.
-** To search for the English translation of an Asgardian word, enter the Asgardian word in the search bar in the right.
-** To search for the Asgardian translation of an English word, either enter the English word in the search bar, or look in the [[Lexicon (En)]].
-* [[Internal (orange) links|internal_link_example]] can be hovered over to produce a pop-up preview of their content. This is useful for checking the meaning of words without leaving the current page. Try it here: «[[kupo]]». Internal links can also be clicked/tapped to to open them in a new card in the same window.
-* [[External links (green-ish and underlined)|https://tiddlywiki.com/static/Linking%2520in%2520WikiText.html]] can be clicked/tapped to open them in a new tab. These links are often used to provide resources and more information on linguistic concepts beyond the scope of this wiki.
-* New learners may benefit from the list of [[frequently asked questions|Frequently asked questions]].
-* If a root or compound does not exist with the meaning you're looking for, try [[generating one|https://asgardian.org/gen.html]] and then submitting your ideas to our [[Concept Submission Form|https://forms.gle/jeiwuSi65qUQsVh29]]!
-
-And perhaps most importantly:
-
-* Join [[our Discord server|https://discord.gg/Kj6rXggtXE]] and jump in! We have channels for discussing writing system ideas, new roots, practicing the language, and more.
-
-!! Overview
-
-# [[What is Asgardian?]]
-# [[How do equational sentences work?]]
-# [[Building equations]]
-# [[Noun compounds]]
-
-!! Alphabet & pronunciation
-# [[Alphabet]]
-# [[Consonants]]
-# [[Vowels]]
-# [[Syllables]]
-# [[Stress]]
-# [[Pronunciation exercises]]
-
-!! Tutorial
-
-# [[Introductions]]
-# [["Wh-" questions|Wh questions]]
-# [[Yes/no questions|Yes-no questions]]
-# [[Pronouns]]
-
-
-<!--
-!! Under construction:
-# [[Basic grammar]]
-# [[Indicating events]]
-# [[Indicating subjects or agents]]
-
-
-# [[Particles|Particle]]
-
-
-# [[Tenses]]
-# [[Frames]]
-# [[Particle chains|Particle chain]]
-
-
-* [[Semantic roles|Semantic role]]
-* [[Sex & gender]]
-* [[Emotions]]
-* [[Attributes]]
-* [[Numbers]]
--->
-
-!Translation challenges
-* [[Translation Challenge 1]] - A simple fable
+To learn more about the language, check out our [[Language Course]], or try your hand at a few [[Translation Challenges]]!

@@ -1,0 +1,14 @@
+created: 20220328012421142
+modified: 20220328013431267
+tags: 
+title: How to use the Asgardian wiki
+type: text/vnd.tiddlywiki
+
+* This wiki serves as the central repository for all information on the Asgardian language, including word lists, grammar, examples, and a digital textbook.
+* The wiki also includes the official lexicon.
+** To search for the English translation of an Asgardian word, enter the Asgardian word in the search bar in the right.
+** To search for the Asgardian translation of an English word, either enter the English word in the search bar, or look in the [[Lexicon (En)]].
+* [[Internal (orange) links|internal_link_example]] can be hovered over to produce a pop-up preview of their content. This is useful for checking the meaning of words without leaving the current page. Try it here: «[[kupo]]». Internal links can also be clicked/tapped to to open them in a new card in the same window.
+* [[External links (green-ish and underlined)|https://tiddlywiki.com/static/Linking%2520in%2520WikiText.html]] can be clicked/tapped to open them in a new tab. These links are often used to provide resources and more information on linguistic concepts beyond the scope of this wiki.
+* New learners may benefit from the list of [[Frequently Asked Questions]].
+* If a root or compound does not exist with the meaning you're looking for, try [[generating one|https://asgardian.org/gen.html]] and then submitting your ideas to our [[Concept Submission Form|https://forms.gle/jeiwuSi65qUQsVh29]]!
