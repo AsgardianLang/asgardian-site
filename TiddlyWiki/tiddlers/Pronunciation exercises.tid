@@ -1,10 +1,35 @@
 created: 20211202062930088
-modified: 20211202062932333
+modified: 20220327235522965
 title: Pronunciation exercises
 type: text/vnd.tiddlywiki
 
 For practice, read the following words out loud, using the Asgardian rules for pronunciation.
 
-* [[su]], [[i]], [[kia]], [[se]]
-* [[teka]], [[tope]], [[nepi]], [[kupo]], [[sonu]], [[rima]], [[siu]], [[turi]]
-* [[ehari]], [[sekuse]], [[totaki]], [[emoto]], [[kause]]
+!!Single syllable words
+
+|Asgardian| @@display:block;width:20em;Pronunciation@@ |h
+| [[su]]  | {{su.ogg}} |
+| [[i]] | {{i.ogg}} |
+| [[kia]] | {{kia.ogg}} |
+| [[se]] | {{se.ogg}} |
+
+!!Two syllable words
+
+|Asgardian| @@display:block;width:20em;Pronunciation@@ |h
+| [[teka]] | {{teka.ogg}} |
+| [[tope]] | {{tope.ogg}} |
+| [[nepi]] | {{nepi.ogg}} |
+| [[kupo]] | {{kupo.ogg}} |
+| [[sonu]] | {{sonu.ogg}} |
+| [[rima]] | {{rima.ogg}} |
+| [[siu]] | {{siu.ogg}} |
+| [[turi]] | {{turi.ogg}} |
+
+!!Three syllable words
+
+|Asgardian| @@display:block;width:20em;Pronunciation@@ |h
+| [[ehari]] | {{ehari.ogg}} |
+| [[sekuse]] | {{sekuse.ogg}} |
+| [[totaki]] | {{totaki.ogg}} |
+| [[emoto]] | {{emoto.ogg}} |
+| [[kause]] | {{kause.ogg}} |
