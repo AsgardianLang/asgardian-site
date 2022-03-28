@@ -1,5 +1,5 @@
 created: 20211202062930088
-modified: 20220328013649065
+modified: 20220328170852564
 title: Pronunciation exercises
 type: text/vnd.tiddlywiki
 
@@ -33,3 +33,10 @@ For practice, read the following words out loud, using the Asgardian rules for p
 | [[totaki]] | {{totaki.ogg}} |
 | [[emoto]] | {{emoto.ogg}} |
 | [[kause]] | {{kause.ogg}} |
+
+!!Phrases
+|Asgardian| @@display:block;width:20em;Pronunciation@@ |h
+|[[Nepi|nepi]][[n]] [[nota]] [[nota]][[,]] | {{nepin nota nota.ogg}} |
+|[[okiu]] [[pau]] [[otesa]] [[se]][[n]] [[poko]] [[itera]][[,]] | {{okiu pau otesa sen poko itera.ogg}} |
+|[[ke]][[n]] [[nepi]][[n]] [[komanu]][[,]] | {{ken nepin komanu.ogg}} |
+|[[se]][[n]] [[ma]] [[poko]] [[ta]][[.|FS]] | {{sen ma poko ta.ogg}} |
