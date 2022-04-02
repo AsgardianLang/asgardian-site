@@ -6,9 +6,11 @@ aiso
 aitane
 aki
 akoina
+aku
 akue
 ama
 amenu
+amosiko
 ani
 ano
 apako
@@ -33,8 +35,10 @@ emoto
 ene
 enimoto
 epa
+epe
 eroi
 esi
+esu
 etio
 eue
 haki
@@ -46,7 +50,11 @@ hasu
 hato
 hatu
 hau
+hema
 heni
+heu
+hiha
+hipa
 hirupe
 hita
 homata
@@ -85,6 +93,7 @@ kane
 kanote
 kanotu
 kape
+kara
 karopo
 karu
 kasa
@@ -106,6 +115,7 @@ kesesi
 ketuki
 kia
 kika
+kimi
 kina
 kinati
 kino
@@ -127,6 +137,7 @@ komose
 kona
 kopu
 kopua
+kopupa
 kore
 koro
 korori
@@ -176,9 +187,12 @@ mote
 moti
 motomoto
 mu
+mue
+muemue
 muma
 mune
 mupisi
+mura
 muraku
 murate
 mure
@@ -213,8 +227,10 @@ niroi
 nisa
 noki
 nota
+noti
 noto
 nuko
+numa
 nuta
 o
 oha
@@ -247,6 +263,7 @@ osa
 osi
 otape
 otesa
+oti
 otine
 oto
 otusu
@@ -266,6 +283,7 @@ paru
 paruma
 parune
 pasi
+pasomuse
 pasote
 pata
 pati
@@ -309,12 +327,14 @@ puko
 puni
 puru
 rakiroto
+rami
 ramu
 rarara
 rarau
 re
 rena
 repa
+reta
 rikasu
 riki
 riko
@@ -380,6 +400,7 @@ supa
 surai
 surena
 suruna
+suta
 sute
 sutemo
 suti
@@ -411,7 +432,6 @@ teni
 tepi
 tepu
 tese
-tesi
 teso
 tesoi
 tete
@@ -420,6 +440,7 @@ tetu
 teu
 tiko
 timike
+tina
 tinamo
 tipa
 tira
@@ -459,6 +480,7 @@ uku
 ukute
 uno
 ura
+uso
 usu
 utai
 utunaki

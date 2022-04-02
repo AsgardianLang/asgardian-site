@@ -1,5 +1,5 @@
-created: 2022032720402100000
-modified: 2022032720402100000
+created: 2022040214182800000
+modified: 2022040214182800000
 tags: 
 title: Lexicon (En)
 type: text/vnd.tiddlywiki
@@ -23,12 +23,16 @@ Below is a table representing the current lexicon of Asgardian.
 |~|being alive|
 |[[akoina]]|pig|
 |~|swine|
+|[[aku]]|bag|
+|~|sack|
+|~|soft-sided container for carrying|
 |[[akue]]|fire|
 |[[ama]]|motion away from referent|
 |~|off, away, thither|
 |[[amenu]]|crystal|
 |~|gem|
 |~|precious stone|
+|[[amosiko]]|act of burping|
 |[[ani]]|snake|
 |~|legless lizard|
 |[[ano]]|an|
@@ -73,11 +77,14 @@ Below is a table representing the current lexicon of Asgardian.
 |[[epa]]|incoming action|
 |~|what one "has done" to them|
 |~|what happens to something or someone|
+|[[epe]]|education|
+|~|schooling|
 |[[eroi]]|timespan|
 |~|duration of something|
 |~|how long something lasts|
 |[[esi]]|1|
 |~|one|
+|[[esu]]|month, as of the year|
 |[[etio]]|doer of something|
 |~|professional of X|
 |[[eue]]|worm|
@@ -100,7 +107,14 @@ Below is a table representing the current lexicon of Asgardian.
 |[[hau]]|country|
 |~|nation-state|
 |~|state|
+|[[hema]]|plasma, as state of matter|
 |[[heni]]|heni|
+|[[heu]]|symbol|
+|~|glyph|
+|[[hiha]]|act of hitting|
+|~|act of beating|
+|~|physical violence|
+|[[hipa]]|digestion, the biological function|
 |[[hirupe]]|natural grouping|
 |~|gestalt|
 |[[hita]]|dislike|
@@ -180,6 +194,7 @@ Below is a table representing the current lexicon of Asgardian.
 |[[kape]]|book|
 |~|collection of words and illustration|
 |~|text|
+|[[kara]]|health, as state of being|
 |[[karopo]]|continent|
 |[[karu]]|room|
 |~|specialized area of building (for some purpose)|
@@ -227,6 +242,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[kia]]|person|
 |~|sentient entity (includes human beings)|
 |[[kika]]|crunching sound|
+|[[kimi]]|busy-ness|
+|~|state of being occupied|
 |[[kina]]|job|
 |~|function|
 |~|role (short-term)|
@@ -270,6 +287,7 @@ Below is a table representing the current lexicon of Asgardian.
 |[[kopua]]|thick|
 |~|thickness|
 |~|minimum dimension (width) or diameter of an object|
+|[[kopupa]]|division, as in mathematics|
 |[[kore]]|lack|
 |~|none|
 |[[koro]]|act of consuming|
@@ -368,6 +386,10 @@ Below is a table representing the current lexicon of Asgardian.
 |~|miscellaneous|
 |[[mu]]|none|
 |~|zero amount|
+|[[mue]]|kiss|
+|[[muemue]]|act of sex|
+|~|copulation|
+|~|act of mating|
 |[[muma]]|cattle|
 |~|cow|
 |~|bovine|
@@ -375,6 +397,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[mune]]|blood|
 |[[mupisi]]|quitting|
 |~|stopping (before completion)|
+|[[mura]]|liquid, as state of matter|
+|~|fluid, as state of matter|
 |[[muraku]]|sex (biological)|
 |[[murate]]|awkwardness|
 |~|embarrassment|
@@ -455,10 +479,14 @@ Below is a table representing the current lexicon of Asgardian.
 |[[nota]]|earlier time|
 |~|past|
 |~|time before now|
+|[[noti]]|tube|
+|~|pipe|
+|~|hollow, cylindrical object|
 |[[noto]]|length|
 |~|longness|
 |[[nuko]]|interrogative|
 |~|question|
+|[[numa]]|chest, the bodily area|
 |[[nuta]]|eye|
 |[[o]]|command|
 |~|imperative|
@@ -517,6 +545,7 @@ Below is a table representing the current lexicon of Asgardian.
 |~|missing|
 |[[otesa]]|generosity|
 |~|kindness|
+|[[oti]]|digit, mathematically|
 |[[otine]]|sky|
 |[[oto]]|part of a whole|
 |~|portion|
@@ -555,6 +584,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[pasi]]|causing to happen|
 |~|causation|
 |~|making happen|
+|[[pasomuse]]|adolescent|
+|~|teenager|
 |[[pasote]]|child|
 |~|offspring|
 |[[pata]]|washing|
@@ -639,6 +670,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[puru]]|elephant|
 |[[rakiroto]]|memory(ies)|
 |~|thing(s) one remembers|
+|[[rami]]|cereal, as in agriculture|
+|~|wheat, rice, and other grains|
 |[[ramu]]|participant|
 |~|partaker|
 |[[rarara]]|singing|
@@ -653,6 +686,7 @@ Below is a table representing the current lexicon of Asgardian.
 |~|outside|
 |[[repa]]|plate(s)|
 |~|dish(es) (for serving)|
+|[[reta]]|conflict|
 |[[rikasu]]|value|
 |~|worth|
 |[[riki]]|hardness|
@@ -787,6 +821,10 @@ Below is a table representing the current lexicon of Asgardian.
 |[[surena]]|romantic partner|
 |[[suruna]]|auditory perception|
 |~|hearing|
+|[[suta]]|mail|
+|~|post|
+|~|package|
+|~|anything shipped or sent|
 |[[sute]]|area|
 |~|region (of space)|
 |~|space|
@@ -863,8 +901,6 @@ Below is a table representing the current lexicon of Asgardian.
 |~|mat|
 |~|rug|
 |[[tese]]|what is likely to happen or be the case|
-|[[tesi]]|beginning|
-|~|starting|
 |[[teso]]|list|
 |~|ordered series|
 |~|ordered sequence (of numbers)|
@@ -889,6 +925,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[timike]]|evaluation|
 |~|exam|
 |~|test (academic)|
+|[[tina]]|basicness|
+|~|simplicity|
 |[[tinamo]]|baseline|
 |~|item for comparison|
 |~|referent|
@@ -982,6 +1020,7 @@ Below is a table representing the current lexicon of Asgardian.
 |[[ura]]|Above|
 |~|Over|
 |~|Top|
+|[[uso]]|act of sharing|
 |[[usu]]|even an instance|
 |[[utai]]|obligation|
 |~|something that should happen|
