@@ -1,0 +1,12 @@
+created: 20220403234658416
+modified: 20220403235057372
+tags: $:/tags/Macro
+title: macro_backlinks
+type: text/vnd.tiddlywiki
+
+\define myReferences()
+<hr>
+Backlinks: <$list filter="[all[current]backlinks[]sort[title]]" emptyMessage=<<lingo
+TiddlerInfo/References/Empty>> ><$link to={{!!title}}><$view
+field="title"/> </$link></$list>
+\end

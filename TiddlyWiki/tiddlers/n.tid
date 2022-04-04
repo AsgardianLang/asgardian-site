@@ -1,5 +1,5 @@
 created: 20211202043135097
-modified: 20211202181857941
+modified: 20220403235349741
 title: n
 type: text/vnd.tiddlywiki
 
@@ -9,3 +9,5 @@ type: text/vnd.tiddlywiki
 !Usage notes
 
 Roots ending in «-[[n]]» are taken to indicate the beginning of an [[equational phrase|Equational phrase]], and are interpreted as being set equal to the material on their right. This «-[[n]]» may [[assimilate|https://en.wikipedia.org/wiki/Assimilation_(phonology)]] to the place of articulation of the following consonant (e.g., «[[se]][[n]] [[koro]]» may sound like ['seŋ 'koɾo]).
+
+<<myReferences>>

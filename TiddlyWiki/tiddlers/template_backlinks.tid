@@ -1,0 +1,11 @@
+created: 20220403233950397
+modified: 20220403234748440
+tags: 
+title: template_backlinks
+type: text/vnd.tiddlywiki
+
+<$list filter='[is[current]backlinks[]limit[1]]' variable=dummy>
+<hr>
+Backlinks: <$list filter='[<currentTiddler>backlinks[]butlast[]]'><$link><$view field="title"/></$link>,</$list>
+<$list filter='[<currentTiddler>backlinks[]last[]]'><$link><$view field="title"/></$link></$list>
+</$list>
