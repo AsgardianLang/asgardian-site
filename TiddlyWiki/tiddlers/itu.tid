@@ -1,0 +1,27 @@
+created: 20220516002754595
+modified: 20220516004544385
+tags: 
+title: itu
+type: text/vnd.tiddlywiki
+
+*inalienable owner/whole
+
+!Usage notes
+
+Used to express the relationship between a component or portion to a whole. For example, a body or person is the [[itu]] of a hand. 
+
+!Examples
+
+|!Asgardian|>|>| [[tosa]] [[itu]][[n]] [[nima]] |
+|~| [[tosa]] | [[itu]][[n]] | [[nima]] |
+|!English| hand | whole= | me |
+|~|>|>| My hand (part of my body) |
+
+|!Asgardian|>|>| [[tosa]] [[rasa]][[n]] [[nima]] |
+|~| [[tosa]] | [[rasa]][[n]] | [[nima]] |
+|!English| hand | owner= | me |
+|~|>|>| My hand (that I own, as if purchased) |
+
+!Contributor
+
+Inspired by a suggestion from doktorZee.
