@@ -27,6 +27,7 @@ aukiho
 auna
 aura
 e
+ehai
 ehari
 eke
 ema
@@ -39,6 +40,7 @@ epe
 eroi
 esi
 esu
+etare
 etio
 eue
 haki
@@ -86,6 +88,7 @@ ita
 itato
 itera
 ito
+itu
 ka
 kahu
 kama
@@ -100,6 +103,7 @@ kasa
 kasi
 kata
 katu
+kaura etare
 kaura
 kause
 ke
@@ -170,6 +174,7 @@ mehama
 mehu
 meka
 meremi
+mika
 minasi
 mio
 mira
@@ -273,6 +278,7 @@ paku
 pakune
 pamai
 pami
+panuke
 papara
 papete
 pare
@@ -288,6 +294,7 @@ pasote
 pata
 pati
 pau
+pe
 peka
 pepa
 pere
@@ -331,6 +338,7 @@ rami
 ramu
 rarara
 rarau
+rasa
 re
 rena
 repa
@@ -362,10 +370,18 @@ sano
 sanu
 sapa
 sapara
+sari esi
+sari hasa
+sari iri
+sari ko
+sari mote
+sari nio
+sari ome
 sari
 sasa
 satera
 se
+sehu
 seki
 sekuse
 seremi
@@ -442,11 +458,15 @@ tiko
 timike
 tina
 tinamo
+tio
 tipa
 tira
 tisa
 tisi
 titui
+tiu esi
+tiu hasa
+tiu
 to
 toio
 toka
@@ -480,6 +500,7 @@ uku
 ukute
 uno
 ura
+use
 uso
 usu
 utai

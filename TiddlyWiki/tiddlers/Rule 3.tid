@@ -1,5 +1,5 @@
 created: 20220328012014550
-modified: 20220328013327749
+modified: 20220619202338968
 tags: 
 title: Rule 3
 type: text/vnd.tiddlywiki
@@ -13,4 +13,12 @@ The __target__ word starting an equational phrase takes the ending «-[[n]]», w
 * Example: The phrase «[[se]][[n]] [[koro]]» translates into “action = eating”, or more simply “is eating”
 * Example: The phrase «[[teka]][[n]] [[kepo]]» translates to “location = home”, or more simply “at home”
 
-A good rule of thumb is that Asgardian phrases like «A[[n]] (stuff)» can be translated as “A equals (stuff)” or “A being (stuff)”.
+A good rule of thumb is that Asgardian phrases like «A[[n]] (stuff)» can be translated as “A equals (stuff)” or “with A being (stuff)”, or even "to have an A which is (stuff)".
+
+By [[Rule 2]], [[EPs|Equational phrase]] can also be used to modify earlier elements, or the sentence as a whole. In this way, they act much like verb phrases,  adverbs, prepositional phrases, or other [[adjuncts|https://en.wikipedia.org/wiki/Adjunct_(grammar)]]. This is quite similar to English in sentences like “I'm studying (1) at home (2) today (3) for the exam”..
+
+When constructing an Asgardian sentence, speakers can add detail by introducing additional [[EPs|Equational phrase]], which can function much like
+
+* Example: The sentence «[[se]][[n]] [[koro]] [[teka]][[n]] [[kepo]]» means “is eating at home”.
+
+Note that, since [[EPs|Equational phrase]] always begin with a __target__ word ending in «-[[n]]», it is easy to discern the start of a new phrase.

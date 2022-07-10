@@ -1,0 +1,11 @@
+created: 20211202063128959
+modified: 20220619203537084
+tags: 
+title: transclude_ap
+type: text/vnd.tiddlywiki
+
+In [[Asgardian]], all [[Assignment Phrases (APs)|Assignment phrase]] link __one__ root on the left to an expression on the right (which may be a single root, a compound, another AP, or even an entire sentence). In the world of programming languages, this is similar to [[assigning|https://en.wikipedia.org/wiki/Assignment_(computer_science)]] a value to a variable, like `x = 5 + 3`, or even to a specifying a [[keyword argument|https://en.wikipedia.org/wiki/Named_parameter]], like `draw_circle(x=10, y=10, radius=5)`. In natural languages, this acts quite like a simple prepositional phrase, such as "__in__ the park", "__with__ a cane", etc.
+
+To indicate its special role as the target for assignment, the first root of an AP takes the ending «-[[n]]», which functions almost like a spoken equals sign (as a historical note, this ending was originally an equational particle «[[na]]», which was shortened over time, much like how the English "'m" in "I'm" came from the full word "am").  Because native Asgardian roots cannot end with any letter other than a vowel, words ending with «-[[n]]» consistently indicate the beginning of a new AP, which can help you understand sentences piece by piece.
+
+Words ending in «-[[n]]» behave like something between verbs and prepositions. As an example, let's pretend that «bla» is an Asgardian root; then the phrase «bla__n__ X» can be interpreted as "//bla// is X", or "with //bla// being X", or even "to have a //bla// which is X".

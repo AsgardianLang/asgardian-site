@@ -1,5 +1,5 @@
-created: 2022040214182800000
-modified: 2022040214182800000
+created: 2022062111183800000
+modified: 2022062111183800000
 tags: 
 title: Lexicon (En)
 type: text/vnd.tiddlywiki
@@ -62,6 +62,8 @@ Below is a table representing the current lexicon of Asgardian.
 |~|furnishing with something|
 |[[aura]]|wolf|
 |[[e]]|patient / object|
+|[[ehai]]|explanation|
+|~|description|
 |[[ehari]]|fun|
 |~|amusement|
 |~|entertainment|
@@ -85,6 +87,10 @@ Below is a table representing the current lexicon of Asgardian.
 |[[esi]]|1|
 |~|one|
 |[[esu]]|month, as of the year|
+|[[etare]]|representation|
+|~|representative|
+|~|symbol|
+|~|stand-in for something|
 |[[etio]]|doer of something|
 |~|professional of X|
 |[[eue]]|worm|
@@ -175,6 +181,7 @@ Below is a table representing the current lexicon of Asgardian.
 |~|Rat|
 |~|Rodent|
 |[[ito]]|clear skies|
+|[[itu]]|inalienable owner/whole|
 |[[ka]]|conjunction|
 |~|and|
 |~|also|
@@ -208,6 +215,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[katu]]|the current one|
 |~|the current instance|
 |~|this one (here/now)|
+|[[kaura etare]]|mascot|
+|~|symbolic animal|
 |[[kaura]]|animal|
 |~|living creature|
 |[[kause]]|sorrow|
@@ -350,6 +359,9 @@ Below is a table representing the current lexicon of Asgardian.
 |[[meka]]|head (body part)|
 |[[meremi]]|hypothetical consequence|
 |~|event that will come to pass unless something changes|
+|[[mika]]|picture|
+|~|drawing|
+|~|image|
 |[[minasi]]|freedom|
 |~|lack of restraint|
 |[[mio]]|wind|
@@ -565,6 +577,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[pamai]]|night (opposite of day)|
 |[[pami]]|what is already the case|
 |~|what already happens / happened|
+|[[panuke]]|rule(s)|
+|~|law(s)|
 |[[papara]]|sheep|
 |[[papete]]|giving|
 |~|transferring something to someone|
@@ -595,6 +609,8 @@ Below is a table representing the current lexicon of Asgardian.
 |~|lot(s) of something|
 |~|many|
 |~|much|
+|[[pe]]|beginning|
+|~|starting|
 |[[peka]]|tooth|
 |[[pepa]]|a greater amount|
 |~|more|
@@ -602,8 +618,9 @@ Below is a table representing the current lexicon of Asgardian.
 |~|having control of something|
 |[[petiki]]|fall, the motion|
 |~|falling|
-|[[petu]]|beginning|
+|[[petu]]|what begins to happen|
 |~|starting|
+|~|beginning|
 |[[pihoi]]|the tail of an organism|
 |[[pika]]|ability|
 |~|what one can do|
@@ -677,6 +694,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[rarara]]|singing|
 |~|"lalala" sound (as to music)|
 |[[rarau]]|barking (of a dog)|
+|[[rasa]]|owner (legal)|
+|~|possessor of X (legally)|
 |[[re]]|situation|
 |~|event|
 |~|action|
@@ -739,6 +758,13 @@ Below is a table representing the current lexicon of Asgardian.
 |~|The one (we're currently talking about)|
 |[[sapara]]|a surplus|
 |~|a (good) excess amount|
+|[[sari esi]]|Monday|
+|[[sari hasa]]|Tuesday|
+|[[sari iri]]|Wednesday|
+|[[sari ko]]|Thursday|
+|[[sari mote]]|Friday|
+|[[sari nio]]|Saturday|
+|[[sari ome]]|Sunday|
 |[[sari]]|day|
 |~|one cycle of light and darkness|
 |~|24 Earth hours|
@@ -748,6 +774,9 @@ Below is a table representing the current lexicon of Asgardian.
 |~|action|
 |~|deed|
 |~|what one does / did / will do|
+|[[sehu]]|test(ing)|
+|~|try(ing) out|
+|~|experiment(ing)|
 |[[seki]]|right (side)|
 |[[sekuse]]|beverage|
 |~|drink|
@@ -930,6 +959,10 @@ Below is a table representing the current lexicon of Asgardian.
 |[[tinamo]]|baseline|
 |~|item for comparison|
 |~|referent|
+|[[tio]]|per|
+|~|period of repetition|
+|~|denominator of an expression of "X things/y"|
+|~|2 times per day|
 |[[tipa]]|the near future|
 |~|what is about to happen|
 |[[tira]]|joy|
@@ -940,6 +973,9 @@ Below is a table representing the current lexicon of Asgardian.
 |[[titui]]|floor|
 |~|level (of a building)|
 |~|story / storey|
+|[[tiu esi]]|hydrogen, the element|
+|[[tiu hasa]]|helium, the element|
+|[[tiu]]|chemical element, as in the periodic table|
 |[[to]]|past|
 |~|what was|
 |~|what happened|
@@ -1020,6 +1056,8 @@ Below is a table representing the current lexicon of Asgardian.
 |[[ura]]|Above|
 |~|Over|
 |~|Top|
+|[[use]]|cost|
+|~|price|
 |[[uso]]|act of sharing|
 |[[usu]]|even an instance|
 |[[utai]]|obligation|

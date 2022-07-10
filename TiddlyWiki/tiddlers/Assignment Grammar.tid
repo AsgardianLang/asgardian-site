@@ -1,27 +1,27 @@
 created: 20210904042253554
-modified: 20211202042552623
-title: Noun-Based Equational Grammar
+modified: 20220619203343014
+title: Assignment Grammar
 type: text/vnd.tiddlywiki
 
-Noun-based equational grammar (abbreviated NBE) is a system of grammar with the following characteristics.
+Assignment Grammar (abbreviated AG) is a system of grammar with the following characteristics.
 
-# It expresses all sentences as a series of simple [[equations|https://en.wikipedia.org/wiki/Equation]], like <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mo>=</mo><mi>B</mi></math> or <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>.
+# It expresses all sentences as a series of simple [[equations|https://en.wikipedia.org/wiki/Equation]], like <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>A</mi><mo>=</mo><mi>B</mi></math> or <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><mi>f</mi><mo>(</mo><mi>x</mi><mo>)</mo></math>, in which the left-hand side is //assigned// the value of the right-hand side.
 # It is based primarily on [[noun roots|Root]], and lacks nearly all other [[parts of speech|https://en.wikipedia.org/wiki/Part_of_speech]] found in Terrestrial languages.
 # It relies heavily on [[noun compounding|https://en.wikipedia.org/wiki/Compound_(linguistics)]], in which a series of roots are combined to create a more specific meaning.
 
-A useful feature of NBE languages is that they are highly expandable. As long as any lexical item or grammatical concept can be represented in the [[appropriate noun form|Noun conversion and modding guide]], it can be incorporated into an NBE language without requiring core changes to the grammatical rules.
+A useful feature of AG languages is that they are highly expandable. As long as any lexical item or grammatical concept can be represented in the [[appropriate noun form|Noun conversion and modding guide]], it can be incorporated into an AG language without requiring core changes to the grammatical rules.
 
 !! 1. Equations
 
-A typical NBE sentence is made from a series of equational phrases (EPs) Although this term may sound unfamiliar, EPs occur under various guises in many Terrestrial languages. For example, in English, EPs can be expressed by saying things like "I __am__ a student", "My name __is__ __&emsp;&emsp;&emsp;__", or even "What __is__ this?" The verb "to be" is commonly referred to as a [[linking verb|https://en.wikipedia.org/wiki/Linking_verb]], because it links both sides and forms a statement about their equality or identity.
+A typical AG sentence is made from a series of Assignment Phrases (APs), which link a __target__ on the left to a __value__ on the right. Although these terms may sound unfamiliar, APs occur under various guises in many Terrestrial languages. For example, in English, APs can be expressed by saying things like "I __am__ a student", "My name __is__ __&emsp;&emsp;&emsp;__", or even "What __is__ this?" The verb "to be" is commonly referred to as a [[linking verb|https://en.wikipedia.org/wiki/Linking_verb]], because it links both sides and forms a statement about their equality or identity.
 
-Equations also abound in mathematics, in which case the <math><mo>=</mo></math> is read as "equals" or "is equal to". For example, the equation <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><msqrt><mi>x</mi></msqrt></math> would be read as "y __equals__ the square root of x".
+Assignments and equations also abound in mathematics, in which case the <math><mo>=</mo></math> is read as "equals" or "is equal to". For example, the equation <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>y</mi><mo>=</mo><msqrt><mi>x</mi></msqrt></math> would be read as "y __equals__ the square root of x".
 
 Finally, programming languages are rich in equation-like structures, which can be used for [[assignment|https://en.wikipedia.org/wiki/Assignment_(computer_science)]], as in a statement like `x = 5`, or specifying named arguments to functions, like the statement `draw_circle(x=10, y=10, radius=5)`.
 
-In Asgardian, the left-hand side (LHS) of an equational phrase is restricted to be a single root. So, EPs like "name = __&nbsp;&nbsp;__", or "location = top" are valid.  By selecting the appropriate root for the LHS, equational phrases can act like verb phrases, prepositions, or many other types of phrases as needed.
+In Asgardian, the left-hand side (LHS) of an AP is restricted to be a single root. So, APs like "name = __&nbsp;&nbsp;__", or "location = top" are valid.  By selecting the appropriate root for the LHS, Assignment Phrases can act like verb phrases, prepositional phrases, adverbial phrases, or many other types of phrases as needed.
 
-In an EP, the first root takes the ending «-[[n]]», which is something of an oral "equals sign" linking the root to everything on the right. Pretend that «blah» is an Asgardian root; then the phrase «blah__n__ X» can be interpreted as "blah is X", or "with blah being X", or even "to have a blah which is X".
+In an AP, the first root takes the ending «-[[n]]», which is something of an oral "equals sign" linking the root to everything on the right. Pretend that «blah» is an Asgardian root; then the phrase «blah__n__ X» can be interpreted as "blah is X", or "with blah being X", or even "to have a blah which is X".
 
 
 !! 2. Roots
